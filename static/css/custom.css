@@ -1,0 +1,88 @@
+/*.content h2 {*/
+/*    padding-bottom: 3px;*/
+/*    border-bottom: 2px dashed #00aaa1;*/
+/*}*/
+
+/*.content h3 {*/
+/*    border-bottom: 2px dotted #666;*/
+/*}*/
+
+/*.content h4 {*/
+/*    border-bottom: 1px dotted #666;*/
+/*}*/
+
+.content h2 {
+    padding-bottom: 3px;
+    border-bottom: 2px dashed #00aaa1;
+}
+
+.content h3 {
+    border-bottom: 2px dotted #009688;
+}
+
+.content h4 {
+    border-bottom: 1px dotted #5C8D89;
+}
+
+.content h5 {
+    border-bottom: 1px dotted #7A9C99;
+}
+
+.content h6 {
+    border-bottom: 1px dotted #A2B7B5;
+}
+
+.content .title-border-box {
+    position: relative;
+    margin: 2em 0;
+    padding: 1em;
+    background-color: #f4fcff;
+    border: solid 2px #00aaa1;
+}
+
+.content .smart-board-box {
+    padding: 1em;
+    margin: 2em 0;
+    background: #f4fcff;
+    border-top: solid 4px #00aaa1;
+    box-shadow: 0 3px 5px rgba(0, 0, 0, .22);
+}
+
+
+/*.content .tableofcontents-box {*/
+/*    padding: 1em 1em .1em;*/
+/*    margin: 50px 50px 0;*/
+/*    background: #f2f2f2;*/
+/*    box-shadow: 0 3px 5px rgba(0, 0, 0, .22);*/
+/*}*/
+
+/*.tableofcontents-box {*/
+/*    position: fixed;           !* 固定 *!*/
+/*    top: 185px;                !* 距离页面顶部位置，可根据需要调整 *!*/
+/*    right: 35px;               !* 距离右边位置 *!*/
+/*    width: 240px;              !* 宽度，根据需要调整 *!*/
+/*    max-height: 80vh;          !* 最大高度，防止太长 *!*/
+/*    overflow-y: auto;          !* 超出滚动 *!*/
+/*    background: #f9f9f9;       !* 背景色 *!*/
+/*    padding: 1em;*/
+/*    border: 1px solid #ddd;*/
+/*    border-radius: 8px;*/
+/*    font-size: 0.9em;*/
+/*}*/
+
+
+.tableofcontents-box {
+    position: fixed;
+    top: 185px;
+    right: 35px;
+    width: 240px;
+    max-height: 80vh;
+    overflow-y: auto;
+    background: #f9f9f9;
+    padding: 1em 1em .1em;
+    margin: 50px 50px 0;
+    box-shadow: 0 3px 5px rgba(0, 0, 0, .22);
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    font-size: 0.9em;
+}
