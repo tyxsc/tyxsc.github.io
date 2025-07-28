@@ -131,7 +131,7 @@ type: "featured"
 ```
 
 ```tip:t@筛选知识的标准和流程:c@title-border-box-no-seq
-<img src="/images/post/books/feynman/knowledge.png" alt="筛选知识的标准和流程" >
+<img src="/images/post/books/feynman/chapter-1/knowledge.png" alt="筛选知识的标准和流程" >
 ```
 
 
