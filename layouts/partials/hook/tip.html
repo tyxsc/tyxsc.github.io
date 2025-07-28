@@ -1,0 +1,53 @@
+{{- $code := .Inner | chomp -}}
+{{- $params := split .Type ":" -}}
+
+{{- $type := index $params 0 -}}
+{{- $title := "" -}}
+{{- $customClass := "" -}}
+
+{{- range $i, $p := $params }}
+{{- if hasPrefix $p "t@" }}
+{{- $title = substr $p 2 -}}
+{{- else if hasPrefix $p "c@" }}
+{{- $customClass = substr $p 2 -}}
+{{- end }}
+{{- end }}
+
+{{- if eq $type "tip" }}
+
+{{- if eq $title "" }}
+<div class="{{ $customClass }}">
+    {{ $code | replaceRE "\n" "<br>" | safeHTML }}
+</div>
+
+{{- else }}
+
+{{- if in $code "::" }}
+<div class="{{ $customClass }}">
+    <span class="box-title">{{ $title }}</span>
+    <ul>
+        {{ range (split $code "\n") }}
+        {{- $parts := split . "::" -}}
+        <li>
+            <ruby>{{ index $parts 0 }}<rt>{{ index $parts 1 }}</rt></ruby>
+        </li>
+        {{ end }}
+    </ul>
+</div>
+
+{{- else }}
+<div class="{{ $customClass }}">
+    <span class="box-title">{{ $title }}</span>
+    <ul>
+        {{ range (split $code "\n") }}
+        <li>{{ . | markdownify }}</li>
+        {{ end }}
+    </ul>
+</div>
+{{- end }}
+
+{{- end }}
+
+{{- else }}
+<pre><code class="language-{{ .Type }}">{{ $code | safeHTML }}</code></pre>
+{{- end }}

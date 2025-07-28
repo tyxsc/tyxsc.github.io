@@ -1,0 +1,128 @@
+######################## default configuration ####################
+baseURL = "https://demo.gethugothemes.com"
+languageCode = "zh-CN"
+title = "唐叶"
+theme = "liva-hugo"
+summaryLength = ""
+# 自动摘要时用更适合中文/日文/韩文的算法，不按空格分词
+#hasCJKLanguage = true
+# 每页显示文章数
+pagination.pagerSize = 4
+# 接入 Disqus 评论系统
+disqusShortname = ""
+# 禁止URL Path转小写
+#disablePathToLower = true
+# 分类名是否转小写
+#preserveTaxonomyNames = true
+
+#################### default parameters ################################
+[params]
+logo = "images/logo.png"
+home = "Home"
+# Meta data
+description = "This is meta description"
+author = "唐叶"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+# Contact Information
+#mobile = "0124857985320"
+email = "Tyxsc@proton.Me"
+location = "China"
+telegramUserName = "ouwaou"
+toc = true
+# copyright
+#copyright = "| copyright &copy; 2021 [Themefisher](https://themefisher.com/hugo-themes/) All Rights Reserved |"
+
+
+[outputs]
+home = ["HTML", "AMP", "RSS", "JSON"]
+
+
+[markup.goldmark.renderer]
+unsafe = true
+
+
+############################# 目录 ##############################
+[markup]
+[markup.tableOfContents]
+# 自动添加序号
+#ordered = true
+startLevel = 2
+endLevel = 4
+
+############################# 代码高亮配置 ##############################
+[markup.highlight]
+noClasses = false
+style = "monokai"
+codeFences = true
+guessSyntax = true
+lineNos = true
+tabWidth = 4
+
+############################# Plugins ##############################
+[params.plugins]
+
+# CSS Plugins
+[[params.plugins.css]]
+URL = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+URL = "plugins/slick/slick.css"
+[[params.plugins.css]]
+URL = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.css]]
+URL = "plugins/venobox/venobox.css"
+[[params.plugins.css]]
+URL = "plugins/fontawesome/fontawesome.min.css"
+[[params.plugins.css]]
+URL = "css/custom.css"
+[[params.plugins.css]]
+URL = "css/fonts.css"
+[[params.plugins.css]]
+URL = "css/codes.css"
+
+
+# JS Plugins
+[[params.plugins.js]]
+URL = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+URL = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+URL = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+URL = "plugins/venobox/venobox.min.js"
+[[params.plugins.js]]
+URL = "plugins/search/fuse.min.js"
+[[params.plugins.js]]
+URL = "plugins/search/mark.js"
+[[params.plugins.js]]
+URL = "plugins/search/search.js"
+
+
+# Preloader
+[params.preloader]
+enable = true
+preloader = "" # use .png , .svg or .gif format
+
+# search
+[params.search]
+enable = true
+
+############################ news letter ########################
+[params.newsletter]
+enable = false
+title = "Join Our Newsletter"
+content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero"
+
+
+# cookies
+[params.cookies]
+enable = true
+expire_days = 7
+
+
+############################# social site ########################
+[[params.social]]
+title = "Telegram"
+icon = "fa-brands fa-telegram fa-spin fa-2xl"
+iconAnimation = "fa-brands fa-telegram fa-xl"
+link = "https://t.me/"

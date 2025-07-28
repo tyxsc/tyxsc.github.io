@@ -1,0 +1,42 @@
+{{- $code := .Inner | chomp -}}
+{{- $typeAndTitle := split .Type ":" -}}
+{{- $type := index $typeAndTitle 0 -}}
+{{- $title := cond (gt (len $typeAndTitle) 1) (index $typeAndTitle 1) "" -}}
+
+{{ if eq $type "tip" }}
+
+{{ if eq $title "" }}
+<div class="smart-board-box">
+    <!-- {{ $code | replaceRE "\n\n" "<br><br>" | safeHTML }} -->
+    {{ $code | safeHTML }}
+</div>
+
+{{ else }}
+{{ if in $code "::" }}
+<div class="title-border-box">
+    <span class="box-title">{{ $title }}</span>
+    <ul>
+        {{ range (split $code "\n") }}
+        {{- $parts := split . "::" -}}
+        <li>
+            <ruby>{{ index $parts 0 }}<rt>{{ index $parts 1 }}</rt></ruby>
+        </li>
+        {{ end }}
+    </ul>
+</div>
+
+{{ else }}
+<div class="title-border-box">
+    <span class="box-title">{{ $title }}</span>
+    <ul>
+        {{ range (split $code "\n") }}
+        <li>{{ . | markdownify }}</li>
+        {{ end }}
+    </ul>
+</div>
+{{ end }}
+{{ end }}
+
+{{ else }}
+<pre><code class="language-{{ .Type }}">{{ $code | safeHTML }}</code></pre>
+{{ end }}

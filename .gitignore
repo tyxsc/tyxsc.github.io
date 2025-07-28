@@ -1,0 +1,5 @@
+blog.out
+deploy.sh
+public/
+.hugo_build.lock
+

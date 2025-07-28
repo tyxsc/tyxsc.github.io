@@ -1,0 +1,8 @@
+# --------------------------
+# Chinaese language
+# --------------------------
+[cn]
+languageName = "en"
+languageCode = "zh-CN"
+contentDir = "content/"
+weight = 1

@@ -1,0 +1,6 @@
+pre[class*="language-"] {
+    /* background and base styles */
+    color: #f8f8f2;
+    background-color: #272822;
+    font-size: 16px;
+}

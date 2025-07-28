@@ -1,0 +1,8 @@
+{{- $typeAndTitle := split .Type ":" -}}
+{{- $type := index $typeAndTitle 0 -}}
+
+{{ if eq $type "tip" }}
+{{ partial "hook/tip.html" . }}
+{{ else }}
+{{ partial "hook/code.html" . }}
+{{ end }}
