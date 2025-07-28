@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com"
+baseURL = "https://tyxsc.github.io/"
 languageCode = "zh-CN"
 title = "唐叶"
 theme = "liva-hugo"
