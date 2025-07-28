@@ -15,38 +15,3 @@
     src: url("../fonts/Monaco.ttf") format('truetype');
     unicode-range: U+0000-00FF;
 }
-
-
-/*.content {*/
-/*    font-family: operatormonossm-light, lxgwwenkai-light, sans-serif !important;*/
-/*    font-size: 16px;*/
-/*    line-height: 1.8;*/
-/*    font-weight: 400;*/
-/*    color: #666;*/
-/*    background: #fff;*/
-/*    margin: 0;*/
-/*    padding: 0;*/
-/*}*/
-
-/*h1, h2, h3, h4, h5, h6, p, strong {*/
-/*    font-family: lxgwwenkai-light, sans-serif !important;*/
-/*    font-size: 16px;*/
-/*    line-height: 1.8;*/
-/*    font-weight: 400;*/
-/*    color: #666;*/
-/*}*/
-
-code {
-    font-family: operatormonossm-light, LXGWWenKai-Light, sans-serif;
-    font-size: 16px;
-    line-height: 1.8;
-    font-weight: 400;
-}
-
-/*p,.paragraph {*/
-/*    font-family: operatormonossm-light, lxgwwenkai-light, sans-serif !important;*/
-/*    font-weight: 400 !important;*/
-/*    color: #666 !important;*/
-/*    font-size: 16px !important;*/
-/*    line-height: 1.8 !important;*/
-/*}*/
