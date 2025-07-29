@@ -128,7 +128,7 @@
             cookieButton.onclick = function () {
                 Cookies.set('cookie-box', true, {
                     expires: {{ site.Params.cookies.expire_days }}
-            });
+                });
                 cookieBox.classList.add('cookie-box-hide');
             };
         }
