@@ -6,14 +6,14 @@
 {{ if eq $type "tip" }}
 
 {{ if eq $title "" }}
-<div class="smart-board-box">
+<div class="summary-box">
     <!-- {{ $code | replaceRE "\n\n" "<br><br>" | safeHTML }} -->
     {{ $code | safeHTML }}
 </div>
 
 {{ else }}
 {{ if in $code "::" }}
-<div class="title-border-box">
+<div class="title-box">
     <span class="box-title">{{ $title }}</span>
     <ul>
         {{ range (split $code "\n") }}
@@ -26,7 +26,7 @@
 </div>
 
 {{ else }}
-<div class="title-border-box">
+<div class="title-box">
     <span class="box-title">{{ $title }}</span>
     <ul>
         {{ range (split $code "\n") }}

@@ -57,7 +57,7 @@ type: "featured"
 > 目标明确的学习可以极大地改变一个人的思维，对于训练和改进 我们的思维方式而言，这是一个必不可少的基础。
 
 
-```tip:c@smart-board-box
+```tip:c@summary-box
 1. 开放性思维
 2. 批判性思维
 3. 逻辑性思维
@@ -69,7 +69,7 @@ type: "featured"
 > 抓住学习的黄金时间，将全部的精力聚焦于选定的目标之上，心无旁骛地把这门知识/技能学通、学精和化为己用
 
 
-```tip:c@smart-board-box
+```tip:c@summary-box
 1. 思维更加清晰
 2. 行动更有针对性
 ```
@@ -77,7 +77,7 @@ type: "featured"
 
 #### 如何寻找正确方向
 
-```tip:c@smart-board-box
+```tip:c@summary-box
 1. 对自己提出关键问题
 2. 把 <strong>最重要的那件事</strong> 变成自己的方向
 ```
@@ -90,12 +90,12 @@ type: "featured"
 
 ### 和目标建立 "强联系"
 
-```tip:c@smart-board-box
+```tip:c@summary-box
 1. 论证学习这门知识/做这件事的必要性
 2. 确认规划与目标的实质联系
 ```
 
-```tip:t@学习的舒适区两个标准:c@title-border-box
+```tip:t@学习的舒适区两个标准:c@title-box
 符合自身的兴趣
 在自己能力范围内的合理目标。符合自身能力
 ```
@@ -122,7 +122,7 @@ type: "featured"
 
 #### 归类和对比知识的来源
 
-```tip:t@如何将知识有逻辑地系统化:c@title-border-box
+```tip:t@如何将知识有逻辑地系统化:c@title-box
 明白自己学习的是什么。
 
 拥有一个足够宽阔的视野。
@@ -130,21 +130,21 @@ type: "featured"
 建立最可能客观科学的逻辑。
 ```
 
-```tip:t@筛选知识的标准和流程:c@title-border-box-no-seq
+```tip:t@筛选知识的标准和流程:c@title-no-seq-box
 <img src="/images/post/books/feynman/chapter-1/knowledge.png" alt="筛选知识的标准和流程" >
 ```
 
 
 #### 筛选和留下最可靠的知识
 
-```tip:t@筛选知识方法论:c@title-border-box
+```tip:t@筛选知识方法论:c@title-box
 清晰知道自己的短板。
 
 重点学习哪方面的内容。
 ```
 
 
-```tip:t@保留可靠的知识:c@title-border-box
+```tip:t@保留可靠的知识:c@title-box
 找出那些符合实际需求相匹配的知识。
 屏蔽来源不可靠的知识。
 小心对待差异化的知识。

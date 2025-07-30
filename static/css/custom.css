@@ -20,7 +20,7 @@
 }
 
 /* tip 样式 */
-.content .smart-board-box {
+.content .summary-box {
     padding: 1em;
     margin: 2em 0;
     background: #f4fcff;
@@ -28,8 +28,8 @@
     box-shadow: 0 3px 5px rgba(0, 0, 0, .22);
 }
 
-.content .title-border-box,
-.content .title-border-box-no-seq {
+.content .title-box,
+.content .title-no-seq-box {
     position: relative;
     margin: 2em 0;
     padding: 1em;
@@ -37,13 +37,13 @@
     border: solid 2px #00aaa1;
 }
 
-.content .title-border-box {
+.content .title-box {
     background-color: #f4fcff;
 }
 
 
-.content .title-border-box .box-title,
-.content .title-border-box-no-seq .box-title {
+.content .title-box .box-title,
+.content .title-no-seq-box .box-title {
     position: absolute;
     display: inline-block;
     top: -25px;
@@ -58,7 +58,7 @@
 }
 
 /* 移除小手 */
-.content .title-border-box-no-seq ul li::before {
+.content .title-no-seq-box ul li::before {
     position: absolute;
     content: "";
     /*font-family: themify;*/
@@ -70,8 +70,8 @@
 }
 
 /* box 底部过长 */
-.content .title-border-box *,
-.content .title-border-box-no-seq *{
+.content .title-box *,
+.content .title-no-seq-box *{
     margin-bottom: 10px !important;
 }
 

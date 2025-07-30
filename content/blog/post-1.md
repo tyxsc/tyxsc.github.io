@@ -30,7 +30,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime 
 ###### Heading 6
 
 
-<div class="smart-board-box">
+<div class="summary-box">
     <p>それはほんの一握りだよ。<br><br>
         <strong>It's just only a handful of them.</strong>
     </p>
@@ -38,7 +38,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime 
 
 <br><br>
 
-<div class="title-border-box"><span class="box-title">英語日記添削をお願いするフレーズ</span>
+<div class="title-box"><span class="box-title">英語日記添削をお願いするフレーズ</span>
 <p></p>
 <ul>
     <li>
@@ -62,7 +62,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime 
 
 <br><br>
 
-<div class="title-border-box"><span class="box-title">「英語日記BOY community」とは</span>
+<div class="title-box"><span class="box-title">「英語日記BOY community」とは</span>
     <p></p>
     <ul>
         <li><a href="https://arairio.work/" target="_blank" rel="noopener">新井リオ</a>さんの著書「<a
