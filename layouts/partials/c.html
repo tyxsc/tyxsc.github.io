@@ -1,0 +1,12 @@
+{{- $params := split .Type ":" -}}
+{{- $type := index $params 0 -}}
+{{- $title := "" -}}
+{{- $className := "" -}}
+
+{{- range $i, $p := $params }}
+{{- if hasPrefix $p "t@" }}
+{{- $title = substr $p 2 -}}
+{{- else if hasPrefix $p "c@" }}
+{{- $className = substr $p 2 -}}
+{{- end }}
+{{- end }}

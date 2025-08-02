@@ -11,7 +11,7 @@ description: "this is meta description"
 
 # taxonomies
 categories:
-  - "逆向"
+  - "Reverse"
 tags:
   - "iOS"
 

@@ -6,12 +6,14 @@
 {{- $customClass := "" -}}
 
 {{- range $i, $p := $params }}
-{{- if hasPrefix $p "t@" }}
-{{- $title = substr $p 2 -}}
-{{- else if hasPrefix $p "c@" }}
-{{- $customClass = substr $p 2 -}}
+    {{- if hasPrefix $p "t@" }}
+        {{- $title = substr $p 2 -}}
+    {{- else if hasPrefix $p "c@" }}
+        <!-- {{- $customClass = substr $p 2 -}} -->
+        {{- $customClass = replace (substr $p 2) "&" " " -}}
+    {{- end }}
 {{- end }}
-{{- end }}
+
 
 {{- if eq $type "tip" }}
 

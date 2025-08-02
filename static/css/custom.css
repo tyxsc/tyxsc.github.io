@@ -28,22 +28,21 @@
     box-shadow: 0 3px 5px rgba(0, 0, 0, .22);
 }
 
-.content .title-box,
-.content .title-no-seq-box {
+.content .title-box {
     position: relative;
     margin: 2em 0;
     padding: 1em;
-    /*background-color: #f4fcff;*/
+    background-color: #f4fcff;
     border: solid 2px #00aaa1;
 }
 
-.content .title-box {
-    background-color: #f4fcff;
+/* box 底部过长 */
+.content .title-box * {
+    margin-bottom: 10px !important;
 }
 
 
-.content .title-box .box-title,
-.content .title-no-seq-box .box-title {
+.content .box-title {
     position: absolute;
     display: inline-block;
     top: -25px;
@@ -57,8 +56,16 @@
     border-radius: 5px 5px 0 0;
 }
 
+.content .color-white {
+    background-color: white;
+}
+
+.content .color-yellow {
+    background-color: yellow;
+}
+
 /* 移除小手 */
-.content .title-no-seq-box ul li::before {
+.content .no-seq ul li::before {
     position: absolute;
     content: "";
     /*font-family: themify;*/
@@ -69,11 +76,37 @@
     transition: .3s ease;
 }
 
-/* box 底部过长 */
-.content .title-box *,
-.content .title-no-seq-box *{
-    margin-bottom: 10px !important;
-}
+/* 另一种样式 */
+/*.content .title-box {*/
+/*    position: relative;*/
+/*    padding: 20px 10px 10px; !* 上面留位置给标题 *!*/
+/*    border: 1px solid #00aaa1;*/
+/*    border-radius: 6px;*/
+/*    box-shadow: 0 2px 4px rgba(0,0,0,0.1);*/
+/*}*/
+
+/*.content .box-title {*/
+/*    position: absolute;*/
+/*    top: -12px; !* 根据实际调节 *!*/
+/*    left: 10px;*/
+/*    padding: 0 8px;*/
+/*    background: #00aaa1;*/
+/*    color: #fff;*/
+/*    font-weight: 700;*/
+/*    border-radius: 5px 5px 0 0;*/
+/*    line-height: 24px;*/
+/*    height: 24px;*/
+/*}*/
+
+/*.content .no-seq ul {*/
+/*    list-style: none;*/
+/*    padding-left: 0;*/
+/*    margin: 0;*/
+/*}*/
+
+/*.content .title-box ul li {*/
+/*    margin-bottom: 6px;*/
+/*}*/
 
 
 /* 目录 */
@@ -82,7 +115,7 @@
     top: 290px;
     right: 20px;
     width: 350px;
-    max-height: 80vh;
+    max-height: 56vh;
     overflow-y: auto;
     background: #f9f9f9;
     padding: 1em 1em .1em;
@@ -127,7 +160,7 @@
 /* 二级目录 */
 .tableofcontents-box ul ul {
     counter-reset: level2;
-    margin-left: 1.5em;
+    margin-left: 2em;
 }
 
 .tableofcontents-box ul ul > li {
@@ -140,8 +173,8 @@
 .tableofcontents-box ul ul > li::before {
     content: counter(level1) "." counter(level2) " ";
     position: absolute;
-    left: -1.5em;
-    top: -1px;
+    left: -2em;
+    top: -0.4px;
 }
 
 /* 三级目录 */
@@ -161,8 +194,8 @@
 .tableofcontents-box ul ul ul > li::before {
     content: counter(level1) "." counter(level2) "." counter(level3) " ";
     position: absolute;
-    left: -1.5em;
-    top: -1px;
+    left: -2em;
+    top: -0.4px;
 }
 
 #TableOfContents ul {
@@ -174,4 +207,10 @@
     line-height: 28px;
     margin-top: 4px;
     margin-bottom: 4px;
+}
+
+/* 中文字体大小 */
+ruby > rt {
+    margin-top: 7px;
+    font-size: 13px !important;
 }

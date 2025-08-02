@@ -2,13 +2,13 @@
 title: "费曼学习法 —— 前言"
 date: 2025-07-27 20:00:00
 draft: true
-summary: "强调通过“教别人”和“主动输出”来高效掌握知识。核心步骤包括：明确目标、理解内容、用简单语言讲解、不断反思和简化知识。学习时要聚焦重点，建立联系，规划合理且有挑战性的路径，筛选并系统化知识。思维依靠正反馈，输出促进思考成熟，帮助形成清晰、批判和开放的思维。"
 
 # post thumb
 image: "images/featured-post/post-3.jpg"
 
 # meta description
 description: "费曼学习法"
+summary: "强调通过“教别人”和“主动输出”来高效掌握知识。核心步骤包括：明确目标、理解内容、用简单语言讲解、不断反思和简化知识。学习时要聚焦重点，建立联系，规划合理且有挑战性的路径，筛选并系统化知识。思维依靠正反馈，输出促进思考成熟，帮助形成清晰、批判和开放的思维。"
 
 categories:
   - "结构化学习"
@@ -130,7 +130,7 @@ type: "featured"
 建立最可能客观科学的逻辑。
 ```
 
-```tip:t@筛选知识的标准和流程:c@title-no-seq-box
+```tip:t@筛选知识的标准和流程:c@title-box&no-seq&color-white
 <img src="/images/post/books/feynman/chapter-1/knowledge.png" alt="筛选知识的标准和流程" >
 ```
 
