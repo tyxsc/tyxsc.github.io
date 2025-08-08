@@ -112,7 +112,8 @@
 /* 目录 */
 .tableofcontents-box {
     position: fixed;
-    top: 290px;
+    /*top: 290px;*/
+    top: 200px;
     right: 20px;
     width: 350px;
     max-height: 56vh;
@@ -209,8 +210,12 @@
     margin-bottom: 4px;
 }
 
+ruby {
+    font-size: 16px !important;
+}
+
 /* 中文字体大小 */
 ruby > rt {
     margin-top: 7px;
-    font-size: 13px !important;
+    font-size: 16px !important;
 }
