@@ -252,7 +252,9 @@ exercise and sleep and so on.
 
 ### could
 ```tip:c@summary-box
-v: 可以, 能; 可能, 也许; 可以,能; 本该, 应该; 真想; 好像, 仿佛  
+v: 可以, 能; 可能, 也许; 可以,能; 本该, 应该; 真想; 好像, 仿佛 
+
+can的过去式
 ```
 
 + Even when Jone was in his sixties, he took part in swimming competitions and a lot of younger people couldn't keep up with him.   
