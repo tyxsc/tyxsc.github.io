@@ -26,7 +26,23 @@
     background: #f4fcff;
     border-top: solid 4px #00aaa1;
     box-shadow: 0 3px 5px rgba(0, 0, 0, .22);
+
 }
+
+/* 马赛克 */
+
+/*.content .summary-box.mosaic {
+     filter: blur(8px);
+}
+
+.summary-box.revealed {
+    filter: blur(0);
+}
+
+.summary-box.revealed::after {
+    opacity: 0;
+}*/
+
 
 .content .title-box {
     position: relative;
@@ -35,6 +51,7 @@
     background-color: #f4fcff;
     border: solid 2px #00aaa1;
 }
+
 
 /* box 底部过长 */
 .content .title-box * {
