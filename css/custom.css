@@ -252,7 +252,7 @@
 */
 
 /* 手机端样式 */
-@media (max-width: 7670px) {
+@media (max-width: 767px) {
     /* 隐藏桌面端固定目录 */
     .toc-desktop {
         display: none;
