@@ -229,7 +229,16 @@
 
 @media (max-width: 767px) {
     .tableofcontents-box {
-        display: none !important;
+        /*display: none !important;*/
+         position: static !important;
+         width: auto !important;
+         max-height: none !important;
+         right: auto !important;
+         box-shadow: 0 3px 5px rgba(0, 0, 0, .22); /* 保留阴影 */
+         padding: 1em 1em .1em;  /* 新的 padding */
+         margin: -10px 0 0;      /* 新的 margin */
+         background: #f2f2f2;    /* 新的背景 */
+         overflow: visible !important;
     }
 }
 
