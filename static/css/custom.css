@@ -273,6 +273,16 @@
         border: 1px solid #ddd;
         border-radius: 5px;
         list-style: none;
+
+        /* 去掉点击或聚焦时的蓝色边框 */
+        outline: none;
+    }
+
+    /* 可选：去掉 active/focus 状态的边框 */
+    .toc-mobile summary:focus,
+    .toc-mobile summary:active {
+        outline: none;
+        box-shadow: none;
     }
 
     /* 可折叠目录内容样式 */
