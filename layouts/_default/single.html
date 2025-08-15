@@ -28,11 +28,25 @@
           <!--         {{ .TableOfContents }} -->
           <!--     </div> -->
           <!-- </details> -->
-          <div class="tableofcontents-box">
+
+          <!-- 手机端可折叠目录 -->
+          <details class="toc-mobile">
+            <summary>目录</summary>
+            <div class="toc">
+              {{ .TableOfContents }}
+            </div>
+          </details>
+
+          <!-- 桌面端固定目录 -->
+          <div class="toc toc-desktop">
             {{ .TableOfContents }}
           </div>
+
+          <!-- 内容 -->
           {{ .Content }}
         </div>
+
+
 
         <!-- comments -->
         {{ template "_internal/disqus.html" . }}
