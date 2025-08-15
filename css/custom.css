@@ -127,7 +127,15 @@
 
 
 /* 目录 */
-.tableofcontents-box {
+.toc-desktop {
+    display: block;
+}
+
+.toc-mobile {
+    display: none;
+}
+
+.toc {
     position: fixed;
     /*top: 290px;*/
     top: 200px;
@@ -144,7 +152,7 @@
     font-size: 0.9em;
 }
 
-.content .tableofcontents-box {
+.content .toc {
     padding: 1em 1em .1em;
     margin: -10px 0 0;
     background: #f2f2f2;
@@ -152,7 +160,7 @@
 }
 
 /* 清除默认列表样式 */
-.tableofcontents-box ul {
+.toc ul {
     list-style: none;
     counter-reset: level1;
     padding-left: 0;
@@ -160,14 +168,14 @@
 }
 
 /* 一级目录 */
-.tableofcontents-box > nav > ul > li {
+.toc > nav > ul > li {
     counter-increment: level1;
     position: relative;
     margin-left: 1em;
     padding-left: 0.3em;
 }
 
-.tableofcontents-box > nav > ul > li::before {
+.toc > nav > ul > li::before {
     content: counter(level1) ". ";
     position: absolute;
     left: -1.5em;
@@ -176,19 +184,19 @@
 }
 
 /* 二级目录 */
-.tableofcontents-box ul ul {
+.toc ul ul {
     counter-reset: level2;
     margin-left: 2em;
 }
 
-.tableofcontents-box ul ul > li {
+.toc ul ul > li {
     counter-increment: level2;
     position: relative;
     margin-left: 1em;
     padding-left: 0.3em;
 }
 
-.tableofcontents-box ul ul > li::before {
+.toc ul ul > li::before {
     content: counter(level1) "." counter(level2) " ";
     position: absolute;
     left: -2em;
@@ -196,20 +204,20 @@
 }
 
 /* 三级目录 */
-.tableofcontents-box ul ul ul {
+.toc ul ul ul {
     counter-reset: level3;
     margin-left: 1em;
     padding-left: 0.3em;
 }
 
-.tableofcontents-box ul ul ul > li {
+.toc ul ul ul > li {
     counter-increment: level3;
     position: relative;
     margin-left: 1em;
     padding-left: 0.8em;
 }
 
-.tableofcontents-box ul ul ul > li::before {
+.toc ul ul ul > li::before {
     content: counter(level1) "." counter(level2) "." counter(level3) " ";
     position: absolute;
     left: -2em;
@@ -227,18 +235,57 @@
     margin-bottom: 4px;
 }
 
+/*
 @media (max-width: 767px) {
-    .tableofcontents-box {
-        /*display: none !important;*/
+    .toc {
          position: static !important;
          width: auto !important;
          max-height: none !important;
          right: auto !important;
-         box-shadow: 0 3px 5px rgba(0, 0, 0, .22); /* 保留阴影 */
-         padding: 1em 1em .1em;  /* 新的 padding */
-         margin: -10px 0 0;      /* 新的 margin */
-         background: #f2f2f2;    /* 新的背景 */
+         box-shadow: 0 3px 5px rgba(0, 0, 0, .22);
+         padding: 1em 1em .1em;
+         margin: -10px 0 0;
+         background: #f2f2f2;
          overflow: visible !important;
+    }
+}
+*/
+
+/* 手机端样式 */
+@media (max-width: 7670px) {
+    /* 隐藏桌面端固定目录 */
+    .toc-desktop {
+        display: none;
+    }
+
+    /* 显示折叠目录 */
+    .toc-mobile {
+        display: block;
+        margin-bottom: 1em;
+    }
+
+    /* summary 样式 */
+    .toc-mobile summary {
+        cursor: pointer;
+        font-weight: bold;
+        padding: 0.5em 1em;
+        background: #f2f2f2;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        list-style: none;
+    }
+
+    /* 可折叠目录内容样式 */
+    .toc-mobile .toc {
+        position: static !important;
+        width: auto !important;
+        max-height: none !important;
+        right: auto !important;
+        padding: 1em 1em .1em;
+        margin: 0.5em 0 0;
+        background: #f9f9f9;
+        box-shadow: 0 2px 4px rgba(0,0,0,.1);
+        overflow: visible !important;
     }
 }
 
