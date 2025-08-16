@@ -162,7 +162,7 @@ n: 区域; 面积; 领域; 范围
 ### around
 ```tip:c@summary-box
 prep: 在……周围; 大约
-adv: 四处; 到处; 大约
+adv: 四处; 到处; 大约; 围绕; 环绕
 ```
 
 ### arrive
