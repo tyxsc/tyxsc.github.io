@@ -74,9 +74,13 @@ URL = "plugins/venobox/venobox.css"
 [[params.plugins.css]]
 URL = "plugins/fontawesome/fontawesome.min.css"
 [[params.plugins.css]]
-URL = "css/custom.css"
-[[params.plugins.css]]
 URL = "css/fonts.css"
+[[params.plugins.css]]
+URL = "css/typography.css"
+[[params.plugins.css]]
+URL = "css/toc.css"
+[[params.plugins.css]]
+URL = "css/components.css"
 [[params.plugins.css]]
 URL = "css/codes.css"
 
