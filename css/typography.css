@@ -1,0 +1,30 @@
+.content h2 {
+    padding-bottom: 3px;
+    border-bottom: 2px dashed #00aaa1;
+}
+
+.content h3 {
+    border-bottom: 2px dotted #009688;
+}
+
+.content h4 {
+    border-bottom: 1px dotted #5C8D89;
+}
+
+.content h5 {
+    border-bottom: 1px dotted #7A9C99;
+}
+
+.content h6 {
+    border-bottom: 1px dotted #A2B7B5;
+}
+
+ruby {
+    font-size: 16px !important;
+}
+
+/* 中文字体大小 */
+ruby > rt {
+    margin-top: 7px;
+    font-size: 16px !important;
+}

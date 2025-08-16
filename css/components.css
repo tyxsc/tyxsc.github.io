@@ -1,0 +1,105 @@
+/* tip 样式 */
+.content .summary-box {
+    padding: 1em;
+    margin: 2em 0;
+    background: #f4fcff;
+    border-top: solid 4px #00aaa1;
+    box-shadow: 0 3px 5px rgba(0, 0, 0, .22);
+
+}
+
+/* 马赛克 */
+
+/*.content .summary-box.mosaic {
+     filter: blur(8px);
+}
+
+.summary-box.revealed {
+    filter: blur(0);
+}
+
+.summary-box.revealed::after {
+    opacity: 0;
+}*/
+
+
+.content .title-box {
+    position: relative;
+    margin: 2em 0;
+    padding: 1em;
+    background-color: #f4fcff;
+    border: solid 2px #00aaa1;
+}
+
+
+/* box 底部过长 */
+.content .title-box * {
+    margin-bottom: 10px !important;
+}
+
+
+.content .box-title {
+    position: absolute;
+    display: inline-block;
+    top: -25px;
+    left: -2px;
+    padding: 0 .5em;
+    height: 23px;
+    line-height: 27px;
+    background: #00aaa1;
+    color: #fff;
+    font-weight: 700;
+    border-radius: 5px 5px 0 0;
+}
+
+.content .color-white {
+    background-color: white;
+}
+
+.content .color-yellow {
+    background-color: yellow;
+}
+
+/* 移除小手 */
+.content .no-seq ul li::before {
+    position: absolute;
+    content: "";
+    /*font-family: themify;*/
+    font-size: 14px;
+    left: 0;
+    top: 1px;
+    color: #00aaa1;
+    transition: .3s ease;
+}
+
+/* 另一种样式 */
+/*.content .title-box {*/
+/*    position: relative;*/
+/*    padding: 20px 10px 10px; !* 上面留位置给标题 *!*/
+/*    border: 1px solid #00aaa1;*/
+/*    border-radius: 6px;*/
+/*    box-shadow: 0 2px 4px rgba(0,0,0,0.1);*/
+/*}*/
+
+/*.content .box-title {*/
+/*    position: absolute;*/
+/*    top: -12px; !* 根据实际调节 *!*/
+/*    left: 10px;*/
+/*    padding: 0 8px;*/
+/*    background: #00aaa1;*/
+/*    color: #fff;*/
+/*    font-weight: 700;*/
+/*    border-radius: 5px 5px 0 0;*/
+/*    line-height: 24px;*/
+/*    height: 24px;*/
+/*}*/
+
+/*.content .no-seq ul {*/
+/*    list-style: none;*/
+/*    padding-left: 0;*/
+/*    margin: 0;*/
+/*}*/
+
+/*.content .title-box ul li {*/
+/*    margin-bottom: 6px;*/
+/*}*/
