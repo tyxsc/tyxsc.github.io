@@ -381,8 +381,6 @@ v: 怂恿; 煽动
 adj: 任一的
 pron: 两者之一
 conj: 或…或…
-
-无词形变化
 ```
 
 ### encourage
@@ -404,8 +402,6 @@ n: 能量; 精力; 活力
 ```tip:c@summary-box
 adj: 足够的; 充足的
 adv: 足够地
-
-无词形变化
 ```
 
 ### entrepreneurship
@@ -421,8 +417,6 @@ n: 环境; 自然环境; 周围状况
 ### ever
 ```tip:c@summary-box
 adv: 曾经; 一直; 无论何时
-
-无词形变化
 ```
 
 ### everything
@@ -491,4 +485,7 @@ v: 注视; 观察
 现在分词/动名词: eyeing
 ```
 
-
+### clearer
+```tip:c@summary-box
+adj: 更清楚的（clear 的比较级）
+```
