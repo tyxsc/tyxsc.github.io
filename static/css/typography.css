@@ -28,3 +28,12 @@ ruby > rt {
     margin-top: 7px;
     font-size: 16px !important;
 }
+
+/* 目录 数字字体 */
+.content .toc li::before {
+    font-family: 'operatormonossm-light';
+}
+
+.content .toc ul li::before {
+    font-family: 'operatormonossm-light';
+}

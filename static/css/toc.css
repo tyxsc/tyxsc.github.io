@@ -70,8 +70,12 @@
 .toc ul ul > li::before {
     content: counter(level1) "." counter(level2) " ";
     position: absolute;
-    left: -2em;
-    top: -0.4px;
+
+    /*left: -2em;
+    top: -0.4px;*/
+
+    left: -2.8em;
+    top: 0.5px;
 }
 
 
