@@ -1,7 +1,7 @@
 ---
 title: "费曼学习法 —— 前言"
 date: 2025-07-27 20:00:00
-draft: true
+draft: false
 
 # post thumb
 image: "images/featured-post/post-3.jpg"
