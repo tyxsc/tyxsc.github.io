@@ -22,6 +22,25 @@ type: "post"
 
 ## 高频单词
 
+### major
+
+```tip:c@summary-box
+adj: 主要的; 重要的; 较大的
+n: 专业; 主修科目; 少校
+v: 主修 (常与 in 连用)
+
+第三人称单数: majors
+过去式: majored
+过去分词: majored
+现在分词/动名词: majoring
+```
+
+### modern
+
+```tip:c@summary-box
+adj: 现代的; 当代的; 新式的
+```
+
 ### mars
 
 ```tip:c@summary-box
@@ -705,6 +724,18 @@ n: 河流
 n: 道路; 公路
 ```
 
+### record
+
+```tip:c@summary-box
+n: 记录; 唱片; 档案
+v: 记录; 录音; 录制
+
+第三人称单数: records
+过去式: recorded
+过去分词: recorded
+现在分词/动名词: recording
+```
+
 ### safety
 
 ```tip:c@summary-box
@@ -1037,25 +1068,6 @@ v: 调查; 勘测
 现在分词/动名词: surveying
 ```
 
-### major
-
-```tip:c@summary-box
-adj: 主要的; 重要的; 较大的
-n: 专业; 主修科目; 少校
-v: 主修 (常与 in 连用)
-
-第三人称单数: majors
-过去式: majored
-过去分词: majored
-现在分词/动名词: majoring
-```
-
-### modern
-
-```tip:c@summary-box
-adj: 现代的; 当代的; 新式的
-```
-
 ### natural
 
 ```tip:c@summary-box
@@ -1072,16 +1084,4 @@ v: 注意到; 留意
 过去式: noticed
 过去分词: noticed
 现在分词/动名词: noticing
-```
-
-### record
-
-```tip:c@summary-box
-n: 记录; 唱片; 档案
-v: 记录; 录音; 录制
-
-第三人称单数: records
-过去式: recorded
-过去分词: recorded
-现在分词/动名词: recording
 ```
