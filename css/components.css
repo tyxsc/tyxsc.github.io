@@ -60,6 +60,7 @@
     background-color: yellow;
 }
 
+
 /* 移除小手 */
 .content .no-seq ul li::before {
     position: absolute;
