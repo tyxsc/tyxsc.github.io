@@ -23,11 +23,13 @@ type: "post"
 ## 高频单词
 
 ### mars
+
 ```tip:c@summary-box
 n: 火星
 ```
 
 ### matter
+
 ```tip:c@summary-box
 n: 事情; 物质
 v: 要紧; 有关系
@@ -39,23 +41,27 @@ v: 要紧; 有关系
 ```
 
 ### meaning
+
 ```tip:c@summary-box
 n: 意义; 含义
 adj: 有意义的
 ```
 
 ### medical
+
 ```tip:c@summary-box
 adj: 医学的; 医疗的
 n: 体格检查
 ```
 
 ### medicine
+
 ```tip:c@summary-box
 n: 药; 医学
 ```
 
 ### meet
+
 ```tip:c@summary-box
 v: 遇见; 满足; 集合
 n: 集会; 比赛
@@ -67,23 +73,27 @@ n: 集会; 比赛
 ```
 
 ### might
+
 ```tip:c@summary-box
 v: 可能（may 的过去式）
 n: 力量; 威力
 ```
 
 ### mile
+
 ```tip:c@summary-box
 n: 英里
 ```
 
 ### million
+
 ```tip:c@summary-box
 n: 百万
 adj: 百万的
 ```
 
 ### mind
+
 ```tip:c@summary-box
 n: 头脑; 思想; 注意
 v: 介意; 注意
@@ -95,34 +105,40 @@ v: 介意; 注意
 ```
 
 ### minute
+
 ```tip:c@summary-box
 n: 分钟; 片刻
 adj: 极小的
 ```
 
 ### month
+
 ```tip:c@summary-box
 n: 月; 一个月
 ```
 
 ### multitasking
+
 ```tip:c@summary-box
 n: 多任务处理
 ```
 
 ### must
+
 ```tip:c@summary-box
 v: 必须; 应当
 n: 必须做的事
 ```
 
 ### national
+
 ```tip:c@summary-box
 adj: 国家(的); 全国性的
 n: 国民; 本国人
 ```
 
 ### near
+
 ```tip:c@summary-box
 adv: 近; 接近
 adj: 近的; 临近的
@@ -136,16 +152,19 @@ v: 接近
 ```
 
 ### nearly
+
 ```tip:c@summary-box
 adv: 几乎; 差不多
 ```
 
 ### neighborhood
+
 ```tip:c@summary-box
 n: 街坊; 邻近地区; 社区
 ```
 
 ### note
+
 ```tip:c@summary-box
 n: 笔记; 注释; 音符
 v: 注意; 记录
@@ -157,6 +176,7 @@ v: 注意; 记录
 ```
 
 ### nothing
+
 ```tip:c@summary-box
 n: 没有什么; 无
 pron: 没有什么
@@ -164,11 +184,13 @@ adv: 毫不
 ```
 
 ### nuclear
+
 ```tip:c@summary-box
 adj: 核心的; 核能的; 原子核的
 ```
 
 ### offer
+
 ```tip:c@summary-box
 v: 提供; 提议; 出价
 n: 提供; 报价; 提议
@@ -180,6 +202,7 @@ n: 提供; 报价; 提议
 ```
 
 ### oil
+
 ```tip:c@summary-box
 n: 油; 石油
 v: 润滑; 给…加油
@@ -191,6 +214,7 @@ v: 润滑; 给…加油
 ```
 
 ### once
+
 ```tip:c@summary-box
 adv: 一次; 曾经
 conj: 一旦
@@ -198,16 +222,19 @@ n: 一次
 ```
 
 ### opportunity
+
 ```tip:c@summary-box
 n: 机会; 时机
 ```
 
 ### organization
+
 ```tip:c@summary-box
 n: 组织; 团体; 机构
 ```
 
 ### own
+
 ```tip:c@summary-box
 adj: 自己的
 v: 拥有
@@ -219,6 +246,7 @@ v: 拥有
 ```
 
 ### paper
+
 ```tip:c@summary-box
 n: 纸; 文件; 报纸; 论文
 v: 用纸覆盖; 张贴
@@ -230,6 +258,7 @@ v: 用纸覆盖; 张贴
 ```
 
 ### park
+
 ```tip:c@summary-box
 n: 公园; 停车场
 v: 停放(车辆)
@@ -241,6 +270,7 @@ v: 停放(车辆)
 ```
 
 ### party
+
 ```tip:c@summary-box
 n: 聚会; 政党; 一方
 v: 参加社交聚会
@@ -252,6 +282,7 @@ v: 参加社交聚会
 ```
 
 ### past
+
 ```tip:c@summary-box
 n: 过去
 adj: 过去的; 以前的
@@ -260,17 +291,20 @@ adv: 经过
 ```
 
 ### penny
+
 ```tip:c@summary-box
 n: 便士; 分
 复数: pennies/pence
 ```
 
 ### percent
+
 ```tip:c@summary-box
 n: 百分比
 ```
 
 ### place
+
 ```tip:c@summary-box
 n: 地方; 位置
 v: 放置; 安排
@@ -282,14 +316,16 @@ v: 放置; 安排
 ```
 
 ### plastic
+
 ```tip:c@summary-box
 n: 塑料
 adj: 塑料的; 可塑的
 ```
 
 ### point
+
 ```tip:c@summary-box
-n: 点; 要点; 分数
+n: 点; 要点; 尖端; 得分; 意图
 v: 指向; 瞄准
 
 第三人称单数: points
@@ -299,16 +335,19 @@ v: 指向; 瞄准
 ```
 
 ### polar
+
 ```tip:c@summary-box
 adj: 极地的; 南/北极的
 ```
 
 ### policy
+
 ```tip:c@summary-box
 n: 政策; 方针; 保险单
 ```
 
 ### poor
+
 ```tip:c@summary-box
 adj: 贫穷的; 差的; 可怜的
 
@@ -317,16 +356,19 @@ adj: 贫穷的; 差的; 可怜的
 ```
 
 ### popular
+
 ```tip:c@summary-box
 adj: 受欢迎的; 流行的
 ```
 
 ### population
+
 ```tip:c@summary-box
 n: 人口; 全体居民
 ```
 
 ### prepare
+
 ```tip:c@summary-box
 v: 准备; 预备
 
@@ -337,6 +379,7 @@ v: 准备; 预备
 ```
 
 ### present
+
 ```tip:c@summary-box
 n: 礼物; 现在
 adj: 出席的; 现在的
@@ -349,6 +392,7 @@ v: 呈现; 赠送
 ```
 
 ### preserve
+
 ```tip:c@summary-box
 v: 保存; 维护
 n: 保护区
@@ -360,16 +404,19 @@ n: 保护区
 ```
 
 ### president
+
 ```tip:c@summary-box
 n: 总统; 校长; 会长
 ```
 
 ### probably
+
 ```tip:c@summary-box
 adv: 大概; 或许
 ```
 
 ### produce
+
 ```tip:c@summary-box
 v: 生产; 制造; 出示
 n: 农产品
@@ -381,21 +428,25 @@ n: 农产品
 ```
 
 ### product
+
 ```tip:c@summary-box
 n: 产品; 成果
 ```
 
 ### production
+
 ```tip:c@summary-box
 n: 生产; 制作; 总产量
 ```
 
 ### professor
+
 ```tip:c@summary-box
 n: 教授
 ```
 
 ### program
+
 ```tip:c@summary-box
 n: 程序; 节目; 计划
 v: 编程; 规划
@@ -407,6 +458,7 @@ v: 编程; 规划
 ```
 
 ### protect
+
 ```tip:c@summary-box
 v: 保护; 防卫
 
@@ -417,6 +469,7 @@ v: 保护; 防卫
 ```
 
 ### provide
+
 ```tip:c@summary-box
 v: 提供; 供应
 
@@ -427,6 +480,7 @@ v: 提供; 供应
 ```
 
 ### publish
+
 ```tip:c@summary-box
 v: 出版; 发表; 公布
 
@@ -437,16 +491,19 @@ v: 出版; 发表; 公布
 ```
 
 ### quickly
+
 ```tip:c@summary-box
 adv: 快速地; 迅速地
 ```
 
 ### quite
+
 ```tip:c@summary-box
 adv: 相当; 很; 完全
 ```
 
 ### rain
+
 ```tip:c@summary-box
 n: 雨
 v: 下雨
@@ -458,6 +515,7 @@ v: 下雨
 ```
 
 ### raise
+
 ```tip:c@summary-box
 v: 提高; 举起; 抚养; 筹集
 n: 加薪
@@ -469,11 +527,13 @@ n: 加薪
 ```
 
 ### rather
+
 ```tip:c@summary-box
 adv: 宁愿; 相当; 更确切地说
 ```
 
 ### reach
+
 ```tip:c@summary-box
 v: 到达; 伸手; 触及
 n: 范围; 延伸
@@ -485,6 +545,7 @@ n: 范围; 延伸
 ```
 
 ### realize
+
 ```tip:c@summary-box
 v: 意识到; 实现
 
@@ -495,11 +556,13 @@ v: 意识到; 实现
 ```
 
 ### really
+
 ```tip:c@summary-box
 adv: 真正地; 确实; 真的
 ```
 
 ### receive
+
 ```tip:c@summary-box
 v: 收到; 接收
 
@@ -510,6 +573,7 @@ v: 收到; 接收
 ```
 
 ### reduce
+
 ```tip:c@summary-box
 v: 减少; 降低
 
@@ -520,6 +584,7 @@ v: 减少; 降低
 ```
 
 ### regret
+
 ```tip:c@summary-box
 v: 后悔; 遗憾
 n: 遗憾; 懊悔
@@ -531,11 +596,13 @@ n: 遗憾; 懊悔
 ```
 
 ### relationship
+
 ```tip:c@summary-box
 n: 关系; 联系
 ```
 
 ### remain
+
 ```tip:c@summary-box
 v: 保持; 依然; 留下
 
@@ -546,6 +613,7 @@ v: 保持; 依然; 留下
 ```
 
 ### report
+
 ```tip:c@summary-box
 n: 报告; 报道
 v: 报告; 举报
@@ -557,6 +625,7 @@ v: 报告; 举报
 ```
 
 ### require
+
 ```tip:c@summary-box
 v: 需要; 要求
 
@@ -567,6 +636,7 @@ v: 需要; 要求
 ```
 
 ### research
+
 ```tip:c@summary-box
 n: 研究; 调查
 v: 研究; 调查
@@ -578,11 +648,13 @@ v: 研究; 调查
 ```
 
 ### researcher
+
 ```tip:c@summary-box
 n: 研究人员; 调查者
 ```
 
 ### rich
+
 ```tip:c@summary-box
 adj: 富有的; 丰富的
 比较级: richer
@@ -590,6 +662,7 @@ adj: 富有的; 丰富的
 ```
 
 ### right
+
 ```tip:c@summary-box
 n: 权利; 右边
 adj: 正确的; 右边的
@@ -597,6 +670,7 @@ adv: 正确地; 直接地
 ```
 
 ### rise
+
 ```tip:c@summary-box
 v: 上升; 升起
 n: 上升; 增长
@@ -608,6 +682,7 @@ n: 上升; 增长
 ```
 
 ### risk
+
 ```tip:c@summary-box
 n: 风险; 危险
 v: 冒…的险
@@ -619,26 +694,31 @@ v: 冒…的险
 ```
 
 ### river
+
 ```tip:c@summary-box
 n: 河流
 ```
 
 ### road
+
 ```tip:c@summary-box
 n: 道路; 公路
 ```
 
 ### safety
+
 ```tip:c@summary-box
 n: 安全; 安全措施
 ```
 
 ### sale
+
 ```tip:c@summary-box
 n: 销售; 出售; 特价销售
 ```
 
 ### same
+
 ```tip:c@summary-box
 adj: 相同的; 同样的
 pron: 相同的人/事物
@@ -646,22 +726,26 @@ adv: 同样地
 ```
 
 ### saw
+
 ```tip:c@summary-box
 n: 锯子
 v: see 的过去式
 ```
 
 ### scientist
+
 ```tip:c@summary-box
 n: 科学家
 ```
 
 ### sea
+
 ```tip:c@summary-box
 n: 海; 海洋
 ```
 
 ### second
+
 ```tip:c@summary-box
 n: 秒; 第二
 adj: 第二的
@@ -669,6 +753,7 @@ adv: 其次
 ```
 
 ### seem
+
 ```tip:c@summary-box
 v: 似乎; 好像
 
@@ -679,6 +764,7 @@ v: 似乎; 好像
 ```
 
 ### sell
+
 ```tip:c@summary-box
 v: 卖; 出售
 n: 销售
@@ -690,6 +776,7 @@ n: 销售
 ```
 
 ### set
+
 ```tip:c@summary-box
 v: 放置; 设置; 规定
 n: 一套; 集合
@@ -702,12 +789,14 @@ adj: 固定的
 ```
 
 ### several
+
 ```tip:c@summary-box
 adj: 几个; 数个
 pron: 几个
 ```
 
 ### ship
+
 ```tip:c@summary-box
 n: 船
 v: 装运; 发货
@@ -719,27 +808,32 @@ v: 装运; 发货
 ```
 
 ### short
+
 ```tip:c@summary-box
 adj: 短的; 矮的; 缺乏的
 adv: 简短地; 突然
 ```
 
 ### sibling
+
 ```tip:c@summary-box
 n: 兄弟或姐妹
 ```
 
 ### side
+
 ```tip:c@summary-box
 n: 边; 侧面; 方面
 ```
 
 ### similar
+
 ```tip:c@summary-box
 adj: 相似的; 类似的
 ```
 
 ### smoke
+
 ```tip:c@summary-box
 n: 烟; 抽烟
 v: 抽烟; 冒烟
@@ -751,47 +845,56 @@ v: 抽烟; 冒烟
 ```
 
 ### social
+
 ```tip:c@summary-box
 adj: 社会的; 社交的
 ```
 
 ### solar
+
 ```tip:c@summary-box
 adj: 太阳的; 太阳能的
 ```
 
 ### solution
+
 ```tip:c@summary-box
 n: 解决办法; 溶液
 ```
 
 ### something
+
 ```tip:c@summary-box
 pron: 某事; 某物
 ```
 
 ### sometimes
+
 ```tip:c@summary-box
 adv: 有时; 偶尔
 ```
 
 ### soon
+
 ```tip:c@summary-box
 adv: 很快; 不久
 ```
 
 ### space
+
 ```tip:c@summary-box
 n: 空间; 太空
 ```
 
 ### special
+
 ```tip:c@summary-box
 adj: 特别的; 专门的
 n: 特别的东西
 ```
 
 ### spend
+
 ```tip:c@summary-box
 v: 花费; 度过
 
@@ -802,6 +905,7 @@ v: 花费; 度过
 ```
 
 ### spread
+
 ```tip:c@summary-box
 v: 传播; 展开
 n: 蔓延; 范围
@@ -813,6 +917,7 @@ n: 蔓延; 范围
 ```
 
 ### stand
+
 ```tip:c@summary-box
 v: 站立; 忍受
 n: 立场; 摊位
@@ -824,6 +929,7 @@ n: 立场; 摊位
 ```
 
 ### state
+
 ```tip:c@summary-box
 n: 状态; 州
 v: 陈述; 说明
@@ -835,6 +941,7 @@ v: 陈述; 说明
 ```
 
 ### stay
+
 ```tip:c@summary-box
 v: 停留; 保持
 n: 停留; 逗留
@@ -846,6 +953,7 @@ n: 停留; 逗留
 ```
 
 ### step
+
 ```tip:c@summary-box
 n: 步骤; 脚步
 v: 踏; 跨步
@@ -857,6 +965,7 @@ v: 踏; 跨步
 ```
 
 ### store
+
 ```tip:c@summary-box
 n: 商店; 储存
 v: 储存
@@ -868,16 +977,19 @@ v: 储存
 ```
 
 ### story
+
 ```tip:c@summary-box
 n: 故事; 报道; 楼层
 ```
 
 ### street
+
 ```tip:c@summary-box
 n: 街道
 ```
 
 ### strong
+
 ```tip:c@summary-box
 adj: 强壮的; 坚强的; 强烈的
 比较级: stronger
@@ -885,6 +997,7 @@ adj: 强壮的; 坚强的; 强烈的
 ```
 
 ### suggest
+
 ```tip:c@summary-box
 v: 建议; 暗示
 
@@ -895,11 +1008,13 @@ v: 建议; 暗示
 ```
 
 ### summer
+
 ```tip:c@summary-box
 n: 夏天
 ```
 
 ### support
+
 ```tip:c@summary-box
 v: 支持; 供养
 n: 支持; 支撑
@@ -911,6 +1026,7 @@ n: 支持; 支撑
 ```
 
 ### survey
+
 ```tip:c@summary-box
 n: 调查; 勘测
 v: 调查; 勘测
@@ -919,4 +1035,53 @@ v: 调查; 勘测
 过去式: surveyed
 过去分词: surveyed
 现在分词/动名词: surveying
+```
+
+### major
+
+```tip:c@summary-box
+adj: 主要的; 重要的; 较大的
+n: 专业; 主修科目; 少校
+v: 主修 (常与 in 连用)
+
+第三人称单数: majors
+过去式: majored
+过去分词: majored
+现在分词/动名词: majoring
+```
+
+### modern
+
+```tip:c@summary-box
+adj: 现代的; 当代的; 新式的
+```
+
+### natural
+
+```tip:c@summary-box
+adj: 自然的; 天然的; 天生的
+```
+
+### notice
+
+```tip:c@summary-box
+n: 注意; 通知; 布告
+v: 注意到; 留意
+
+第三人称单数: notices
+过去式: noticed
+过去分词: noticed
+现在分词/动名词: noticing
+```
+
+### record
+
+```tip:c@summary-box
+n: 记录; 唱片; 档案
+v: 记录; 录音; 录制
+
+第三人称单数: records
+过去式: recorded
+过去分词: recorded
+现在分词/动名词: recording
 ```
