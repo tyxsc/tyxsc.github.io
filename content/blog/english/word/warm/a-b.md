@@ -1,5 +1,5 @@
 ---
-title: "中热词"
+title: "中热词第一天"
 date: 2025-08-27T10:00:00+06:00
 draft: false
 
@@ -221,6 +221,7 @@ v: 瞄准; 旨在
 
 ```tip:c@summary-box
 n: 飞行员; 空军人员
+
 复数: airmen
 ```
 
@@ -270,6 +271,7 @@ n: 古人; 古代人
 
 ```tip:c@summary-box
 adj: 生气的; 愤怒的
+
 比较级: angrier
 最高级: angriest
 ```
