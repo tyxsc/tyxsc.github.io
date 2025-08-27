@@ -450,6 +450,7 @@ n: 海滩; 沙滩
 
 ```tip:c@summary-box
 adj: 美丽的; 漂亮的
+
 比较级: more beautiful
 最高级: most beautiful
 ```
