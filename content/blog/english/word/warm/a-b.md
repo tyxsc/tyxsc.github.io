@@ -623,6 +623,7 @@ v: 划船; 搭船
 ```tip:c@summary-box
 v: 钻孔; 使厌烦
 n: 令人厌烦的人或事
+
 过去式: bored
 过去分词: bored
 现在分词/动名词: boring
@@ -633,6 +634,7 @@ n: 令人厌烦的人或事
 ```tip:c@summary-box
 v: 借; 借用
 n: 借入物
+
 第三人称单数: borrows
 过去式: borrowed
 过去分词: borrowed
@@ -651,6 +653,7 @@ adj: 最底的; 基本的
 ```tip:c@summary-box
 n: 碗; 盆
 v: 投球; 滚动
+
 第三人称单数: bowls
 过去式: bowled
 过去分词: bowled
@@ -675,6 +678,7 @@ adj: 破碎的; 损坏的
 adj: 棕色的
 n: 棕色
 v: 使变成褐色
+
 第三人称单数: browns
 过去式: browned
 过去分词: browned
