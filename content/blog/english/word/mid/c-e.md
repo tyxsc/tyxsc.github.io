@@ -8,7 +8,7 @@ image: "images/post/post-1.jpg"
 
 # meta description
 description: "学位英语频次最高单词表"
-summary: "高热词 · 16至50次 (C-E区间)"
+summary: "高热词 · 16至50次 (C-E)"
 
 # taxonomies
 categories:
