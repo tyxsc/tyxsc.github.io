@@ -1,5 +1,5 @@
 ---
-title: "高频单词第一天 (50次以上)"
+title: "最热单词"
 date: 2025-08-02T10:00:00+06:00
 draft: false
 
@@ -8,7 +8,7 @@ image: "images/post/post-6.jpg"
 
 # meta description
 description: "学位英语频次最高单词表"
-summary: "高频单词 (出现50次以上)"
+summary: "高热词 · 50次以上"
 
 # taxonomies
 categories:

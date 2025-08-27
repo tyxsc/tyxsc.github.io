@@ -1,5 +1,5 @@
 ---
-title: "高频单词第三天 (16-50次)"
+title: "高热词第二天"
 date: 2025-08-17T07:00:00+06:00
 draft: false
 
@@ -8,7 +8,7 @@ image: "images/post/post-1.jpg"
 
 # meta description
 description: "学位英语频次最高单词表"
-summary: "高频单词 (16-50次)"
+summary: "高热词 · 16至50次 (C-E区间)"
 
 # taxonomies
 categories:

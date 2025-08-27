@@ -1,5 +1,5 @@
 ---
-title: "高频单词第五天 M-Z (16-50次)"
+title: "高热词第四天"
 date: 2025-08-19T10:00:00+06:00
 draft: false
 
@@ -8,7 +8,7 @@ image: "images/post/post-4.jpg"
 
 # meta description
 description: "学位英语频次最高单词表"
-summary: "M-Z (16-50次)"
+summary: "高热词 · 16至50次 (M-Z区间)"
 
 # taxonomies
 categories:
