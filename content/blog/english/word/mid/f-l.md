@@ -20,7 +20,7 @@ tags:
 type: "post"
 ---
 
-## 高频单词
+## 高热词
 
 ### fact
 ```tip:c@summary-box

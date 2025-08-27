@@ -20,7 +20,7 @@ tags:
 type: "post"
 ---
 
-## 高频单词
+## 高热词
 
 ### care
 ```tip:c@summary-box

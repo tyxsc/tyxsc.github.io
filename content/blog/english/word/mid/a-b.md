@@ -21,7 +21,7 @@ tags:
 type: "post"
 ---
 
-## 高频单词
+## 高热词
 
 ### above
 ```tip:c@summary-box

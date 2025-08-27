@@ -1,5 +1,5 @@
 ---
-title: "最热单词"
+title: "最热词"
 date: 2025-08-02T10:00:00+06:00
 draft: false
 
@@ -21,7 +21,7 @@ tags:
 type: "post"
 ---
 
-## 高频单词
+## 最热词
 ### according
 ```tip:c@summary-box
 adj: 相应的; 相符的; 一致的;       
