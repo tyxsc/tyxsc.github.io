@@ -7,8 +7,8 @@ draft: false
 image: "images/post/post-6.jpg"
 
 # meta description
-description: "学位英语频次最高单词表"
-summary: "最热词 · 50次以上"
+description: "学位英语最高频单词表"
+summary: "<p style='color:palevioletred'>最热词 · 50+</p>"
 
 # taxonomies
 categories:

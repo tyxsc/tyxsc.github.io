@@ -8,7 +8,7 @@ image: "images/post/post-5.jpg"
 
 # meta description
 description: "学位英语频次最高单词表"
-summary: "高热词 · 16-50次 (A-B)"
+summary: "<p style='color:palevioletred'>高热词 · 16-50 · A-B</p>"
 
 # taxonomies
 categories:

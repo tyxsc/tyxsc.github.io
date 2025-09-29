@@ -7,8 +7,8 @@ draft: false
 image: "images/post/post-4.jpg"
 
 # meta description
-description: "学位英语中热词单词表"
-summary: "中热词 · 6-15次 (D)"
+description: "学位英语中频单词表"
+summary: "<p style='color:palevioletred'>中热词 · 6-15 · D</p>"
 
 # taxonomies
 categories:
