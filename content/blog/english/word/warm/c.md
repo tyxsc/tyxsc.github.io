@@ -357,7 +357,7 @@ n: 建设; 建造; 构造
 ### consume
 
 ```tip:c@summary-box
-v: 消耗; 消费  
+v:  吃; 喝; 消耗; 消费
 
 第三人称单数: consumes  
 过去式: consumed  
