@@ -1,7 +1,7 @@
 ---
 title: "单词备忘录"
 date: 2025-08-17T10:00:00+06:00
-draft: true
+draft: false
 
 # post thumb
 image: "images/post/post-1.jpg"
