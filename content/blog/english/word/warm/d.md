@@ -341,3 +341,13 @@ n: 应得之物; 税金
 ```tip:c@summary-box
 n: 职责; 义务; 税
 ```
+
+### difference
+```tip:c@summary-box
+n: 差异; 区别; 分歧
+```
+
+### different
+```tip:c@summary-box
+adj: 不同的; 有差异的; 各种的
+```
