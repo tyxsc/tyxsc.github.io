@@ -1,33 +1,32 @@
 ---
-title: "单词备忘录"
+title: "词汇记忆进度总览"
 date: 2025-08-17T10:00:00+06:00
 draft: false
 
 # post thumb
-image: "images/post/covers/sketch.jpg"
+image: "images/slideshow/teeth.jpg"
 
 description: ""
-summary: "备忘录整理"
+summary: "各阶段背诵情况"
 
 # taxonomies
-categories:
-  - "English"
-tags:
-  - "Word"
+#categories:
+#  - "English"
+#tags:
+#  - "Word"
 
 # post type
-type: "post"
+type: "featured"
 ---
 
 ## 最热词
 
 ### top
 
-```tip:c@title-box&no-seq&color-white
-10,58,45,55,28,59,38,44,39,18,16,17,47
+```tip:t@2025-10-01:c@title-box&no-seq
+5,58
 ```
 
-### 总结
 ```tip:t@2025-09-29:c@title-box&no-seq
 29,43,47,49,58,5,10,59,19,30
 ```
@@ -36,14 +35,23 @@ type: "post"
 5,17,10,58,29,44,59,47,38,27
 ```
 
+```tip:c@title-box&no-seq&color-white
+10,58,45,55,28,59,38,44,39,18,16,17,47
+```
+
 
 ## 高热词
 
 ### a-b
 
+```tip:t@2025-10-01:c@title-box&no-seq
+45,50,35,39,48,34,52,15,30,46,51,36,38
+```
+
 ```tip:c@title-box&no-seq&color-white
 36,34,43,50,27,45,20,41,46,13,51,35,38,26
 ```
+
 
 ### c-e
 
