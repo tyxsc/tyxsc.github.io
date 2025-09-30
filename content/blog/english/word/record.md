@@ -4,7 +4,7 @@ date: 2025-08-17T10:00:00+06:00
 draft: false
 
 # post thumb
-image: "images/post/post-1.jpg"
+image: "images/post/covers/sketch.jpg"
 
 description: ""
 summary: "备忘录整理"
@@ -159,19 +159,27 @@ type: "post"
 ```
 
 ### d
-```tip:c@title-box&color-white
-<span style="color:palevioletred">1-30</span>
+```tip:t@2025-09-29:c@title-box&no-seq
+<p style="color:palevioletred">warm · (d) · 1-30</p>
 
-23,11,26,9,28,21,24,3,20,22,25,27,30,2,14,7,29,17,8,15,4,19,13
+<b>
+23,11,26,9,28,21,24,3,20,22,25,27,30,2,14,7,29,17,8,15,4,19,13<hr>
 
-11,27,2,20,14,24,5,29,26,28,17
+11,27,2,20,14,24,5,29,26,28,17<hr>
 
-24,20,11,17,26
+24,20,11,17,26<hr>
 
-19,17,11,3,24
+19,17,11,3,24<hr>
 
-11,17,20,9,21,3,24,27,19
+11,17,20,9,21,3,24,27,19<hr>
+
+19,17,11,3,24<hr>
+</b>
+
+<p style="color:palevioletred">warm · (d)</p>
+<b>19,38,35,3,14,36,34,24,33,11,17,40,39</b>
 ```
+
 
 ### 总结
 ```tip:t@2025-09-29:c@title-box&no-seq
@@ -182,12 +190,13 @@ type: "post"
 <hr>
 
 <p style="color:palevioletred">warm · (c) · (1-40)</p>
-<b>29,38,26,34,30,36,39,3,37,24,27,35,22,31,40,32,14,33,13</b>
-<br>
+<b>29,38,26,34,30,36,39,3,37,24,27,35,22,31,40,32,14,33,13</b><hr>
 <b>40,53,37,56,34,42,35,41,29</b>
 <hr>
 
 <p style="color:palevioletred">warm · (d) · 1-30</p>
 <b>19,17,11,3,24</b>
 
+<p style="color:palevioletred">warm · (d)</p>
+<b>19,38,35,3,14,36,34,24,33,11,17,40,39</b>
 ```

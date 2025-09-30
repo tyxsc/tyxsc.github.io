@@ -4,7 +4,7 @@ date: 2025-07-27 20:00:00
 draft: true 
 
 # post thumb
-image: "images/featured-post/post-3.jpg"
+image: "images/slideshow/post-3.jpg"
 
 # meta description
 description: "费曼学习法"

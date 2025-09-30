@@ -4,7 +4,7 @@ date: 2025-09-29T08:00:00+06:00
 draft: false
 
 # post thumb
-image: "images/post/bay.jpg"
+image: "images/post/covers/bay.jpg"
 
 # meta description
 description: "学位英语中频单词表"

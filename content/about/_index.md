@@ -13,4 +13,3 @@ description: "this is meta description"
 type : "about"
 ---
 
-我的信息

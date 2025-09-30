@@ -4,7 +4,7 @@ date: 2025-08-15T10:00:00+06:00
 draft: false
 
 # post thumb
-image: "images/post/post-5.jpg"
+image: "images/post/covers/steve.jpg"
 
 # meta description
 description: "学位英语频次最高单词表"

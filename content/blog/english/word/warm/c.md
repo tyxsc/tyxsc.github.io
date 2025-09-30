@@ -4,7 +4,7 @@ date: 2025-08-30T10:00:00+06:00
 draft: false
 
 # post thumb
-image: "images/post/mushroom.jpg"
+image: "images/post/covers/mushroom.jpg"
 
 # meta description
 description: "学位英语中频单词表"
