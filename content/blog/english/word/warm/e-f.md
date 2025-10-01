@@ -8,7 +8,7 @@ image: "images/post/covers/gonullu.jpg"
 
 # meta description
 description: "学位英语中频单词表"
-summary: "<p style='color:palevioletred'>中热词 · 6-15 · E-F</p>"
+summary: "<p style='color:#696FC7'>中热词 · 6-15 · E-F</p>"
 
 # taxonomies
 categories:
