@@ -188,6 +188,11 @@ type: "featured"
 <b>19,38,35,3,14,36,34,24,33,11,17,40,39</b>
 ```
 
+### e-f
+```tip:t@2025-10-01:c@title-box&no-seq
+<p style="color:palevioletred">warm · E-F · 1-20</p>
+<b>13,15</b>
+```
 
 ### 总结
 ```tip:t@2025-09-29:c@title-box&no-seq
