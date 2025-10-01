@@ -4,7 +4,8 @@ date: 2025-08-02T10:00:00+06:00
 draft: false
 
 # post thumb
-image: "images/post/covers/foliage-face.jpg"
+#image: "images/post/covers/foliage-face.jpg"
+image: "images/post/covers/zaksheuskaya.jpg"
 
 # meta description
 description: "学位英语最高频单词表"
