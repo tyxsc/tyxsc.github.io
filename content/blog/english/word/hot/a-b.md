@@ -195,7 +195,7 @@ v: 问; 要求; 请求; 邀请
 n: 小行星
 ```
 
-### attetion
+### attention
 ```tip:c@summary-box
 n: 注意; 关注; 立正
 ```
