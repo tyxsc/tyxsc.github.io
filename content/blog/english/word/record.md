@@ -19,9 +19,9 @@ summary: "各阶段背诵情况"
 type: "featured"
 ---
 
-## 最热词
+## Top
 
-### top
+### a-z
 
 ```tip:t@2025-10-01:c@title-box&no-seq
 5,58
@@ -39,7 +39,7 @@ type: "featured"
 10,58,45,55,28,59,38,44,39,18,16,17,47
 ```
 
-## 高热词
+## Hot
 
 ### a-b
 
@@ -106,7 +106,7 @@ type: "featured"
 ```
 
 
-## 中热词
+## Warm
 
 ### a-b
 
