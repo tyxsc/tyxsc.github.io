@@ -24,6 +24,7 @@ type: "post"
 ## 中热词
 
 ### daily
+
 ```tip:c@summary-box
 adj: 每日的; 日常的
 adv: 每天
@@ -31,6 +32,7 @@ n: 日报
 ```
 
 ### dam
+
 ```tip:c@summary-box
 n: 水坝
 v: 筑坝; 阻拦  
@@ -42,6 +44,7 @@ v: 筑坝; 阻拦
 ```
 
 ### damage
+
 ```tip:c@summary-box
 n: 损害; 伤害
 v: 损坏; 毁坏  
@@ -53,6 +56,7 @@ v: 损坏; 毁坏
 ```
 
 ### dance
+
 ```tip:c@summary-box
 n: 舞蹈; 舞会
 v: 跳舞  
@@ -64,37 +68,44 @@ v: 跳舞
 ```
 
 ### danger
+
 ```tip:c@summary-box
 n: 危险; 危害
 ```
 
 ### dangerous
+
 ```tip:c@summary-box
 adj: 危险的; 有危害的
 ```
 
 ### dead
+
 ```tip:c@summary-box
 adj: 死的; 无生命的
 ```
 
 ### deadly
+
 ```tip:c@summary-box
 adj: 致命的; 极度的
 adv: 非常地; 极端地
 ```
 
 ### decade
+
 ```tip:c@summary-box
 n: 十年; 十年期
 ```
 
 ### decision
+
 ```tip:c@summary-box
 n: 决定; 决心; 判决
 ```
 
 ### declare
+
 ```tip:c@summary-box
 v: 宣布; 声明  
 
@@ -105,6 +116,7 @@ v: 宣布; 声明
 ```
 
 ### decrease
+
 ```tip:c@summary-box
 v: 减少; 降低
 n: 减少; 降幅  
@@ -116,6 +128,7 @@ n: 减少; 降幅
 ```
 
 ### deliver
+
 ```tip:c@summary-box
 v: 递送; 发表; 分娩  
 
@@ -126,6 +139,7 @@ v: 递送; 发表; 分娩
 ```
 
 ### demand
+
 ```tip:c@summary-box
 n: 需求; 要求
 v: 要求; 需要  
@@ -137,6 +151,7 @@ v: 要求; 需要
 ```
 
 ### depend
+
 ```tip:c@summary-box
 v: 依赖; 取决于  
 
@@ -147,6 +162,7 @@ v: 依赖; 取决于
 ```
 
 ### describe
+
 ```tip:c@summary-box
 v: 描述; 形容  
 
@@ -157,11 +173,13 @@ v: 描述; 形容
 ```
 
 ### despite
+
 ```tip:c@summary-box
 prep: 尽管; 不管
 ```
 
 ### destroy
+
 ```tip:c@summary-box
 v: 破坏; 摧毁  
 
@@ -172,6 +190,7 @@ v: 破坏; 摧毁
 ```
 
 ### determine
+
 ```tip:c@summary-box
 v: 决定; 确定; 判定  
 
@@ -182,6 +201,7 @@ v: 决定; 确定; 判定
 ```
 
 ### devote
+
 ```tip:c@summary-box
 v: 奉献; 致力于  
 
@@ -192,31 +212,37 @@ v: 奉献; 致力于
 ```
 
 ### diabetes
+
 ```tip:c@summary-box
 n: 糖尿病
 ```
 
 ### difficulty
+
 ```tip:c@summary-box
 n: 困难; 难题
 ```
 
 ### dinner
+
 ```tip:c@summary-box
 n: 正餐; 晚餐
 ```
 
 ### direction
+
 ```tip:c@summary-box
 n: 方向; 指示; 说明
 ```
 
 ### disadvantage
+
 ```tip:c@summary-box
 n: 不利; 劣势
 ```
 
 ### disappear
+
 ```tip:c@summary-box
 v: 消失; 失踪  
 
@@ -227,11 +253,13 @@ v: 消失; 失踪
 ```
 
 ### disaster
+
 ```tip:c@summary-box
 n: 灾难; 不幸事件
 ```
 
 ### discover
+
 ```tip:c@summary-box
 v: 发现; 发觉  
 
@@ -242,11 +270,13 @@ v: 发现; 发觉
 ```
 
 ### discovery
+
 ```tip:c@summary-box
 n: 发现; 被发现的事物
 ```
 
 ### discuss
+
 ```tip:c@summary-box
 v: 讨论; 商量  
 
@@ -257,6 +287,7 @@ v: 讨论; 商量
 ```
 
 ### disorder
+
 ```tip:c@summary-box
 n: 混乱; 疾病; 紊乱
 v: 扰乱; 使失调  
@@ -268,6 +299,7 @@ v: 扰乱; 使失调
 ```
 
 ### display
+
 ```tip:c@summary-box
 v: 展示; 显示
 n: 展览; 陈列  
@@ -279,6 +311,7 @@ n: 展览; 陈列
 ```
 
 ### distance
+
 ```tip:c@summary-box
 n: 距离; 远处
 v: 与…保持距离  
@@ -290,6 +323,7 @@ v: 与…保持距离
 ```
 
 ### disturb
+
 ```tip:c@summary-box
 v: 打扰; 干扰; 妨碍  
 
@@ -300,11 +334,13 @@ v: 打扰; 干扰; 妨碍
 ```
 
 ### dozen
+
 ```tip:c@summary-box
 n: 一打; 十二个
 ```
 
 ### draw
+
 ```tip:c@summary-box
 v: 画; 拉; 吸引
 n: 平局; 抽签  
@@ -316,11 +352,13 @@ n: 平局; 抽签
 ```
 
 ### driver
+
 ```tip:c@summary-box
 n: 司机; 驾驶员; 驱动程序
 ```
 
 ### dry
+
 ```tip:c@summary-box
 adj: 干的; 干燥的
 v: 使变干; 晾干  
@@ -332,22 +370,26 @@ v: 使变干; 晾干
 ```
 
 ### due
+
 ```tip:c@summary-box
 adj: 到期的; 应有的; 预定的
 n: 应得之物; 税金
 ```
 
 ### duty
+
 ```tip:c@summary-box
 n: 职责; 义务; 税
 ```
 
 ### difference
+
 ```tip:c@summary-box
 n: 差异; 区别; 分歧
 ```
 
 ### different
+
 ```tip:c@summary-box
 adj: 不同的; 有差异的; 各种的
 ```

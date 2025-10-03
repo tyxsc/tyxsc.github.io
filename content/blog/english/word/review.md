@@ -1,5 +1,5 @@
 ---
-title: "易忘词归纳 · 中热词"
+title: "易忘词归纳"
 date: 2025-10-02T18:00:00+08:00
 draft: false
 
@@ -90,7 +90,6 @@ n: 习惯; 习性
 ```tip:c@summary-box
 n: 收获; 收成
 v: 收割; 收获
-
 
 第三人称单数: harvests
 过去式: harvested
