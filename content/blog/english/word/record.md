@@ -177,6 +177,10 @@ type: "featured"
 ```
 
 ### e-f
+```tip:t@2025-10-03:c@title-box&no-seq
+<p style="color:palevioletred">warm · E-F</p>
+<b>53,41,65,63,39,25,35,61,45,67,55,47,60,66</b>
+```
 
 ```tip:t@2025-10-01:c@title-box&no-seq
 <p style="color:palevioletred">warm · E-F · 1-20</p>

@@ -1,6 +1,6 @@
 ---
-title: "阅读"
-date: 2025-08-26T10:00:00+08:00
+title: "阅读技巧"
+date: 2025-08-02T10:00:00+08:00
 draft: false
 
 # post thumb
@@ -8,7 +8,7 @@ image: "images/post/covers/sketch.jpg"
 
 # meta description
 description: ""
-summary: "阅读技巧"
+summary: "常见逻辑信号词及答题技巧"
 
 # taxonomies
 categories:
@@ -18,7 +18,7 @@ categories:
 
 
 # post type
-type: "post"
+type: "featured"
 ---
 
 
