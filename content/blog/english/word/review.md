@@ -1,371 +1,241 @@
 ---
-title: "易忘词归纳"
-date: 2025-10-02T18:00:00+08:00
+title: "词汇记忆进度总览"
+date: 2025-08-17T10:00:00+08:00
 draft: false
 
 # post thumb
-#image: "images/post/covers/steveozmqlo.jpg"
 image: "images/slideshow/teeth.jpg"
 
-# meta description
 description: ""
-summary: "<span style='color:#FF9013'>易忘词汇归纳</span>"
+summary: "各阶段背诵情况"
 
 # taxonomies
-categories:
-  - "English"
-tags:
-  - "Word"
+#categories:
+#  - "English"
+#tags:
+#  - "Word"
 
 # post type
 type: "featured"
 ---
 
-## 易忘词
+## Top
 
-### warm · f-i
+### a-z
 
-### foreign
-
-```tip:c@summary-box
-adj: 外国的; 对外的; 外来的
+```tip:t@2025-10-01:c@title-box&no-seq
+5,58
 ```
 
-### frequently
-
-```tip:c@summary-box
-adv: 经常地; 频繁地
+```tip:t@2025-09-29:c@title-box&no-seq
+29,43,47,49,58,5,10,59,19,30
 ```
 
-### frighten
-
-```tip:c@summary-box
-v: 吓唬; 使惊恐
-
-第三人称单数: frightens
-过去式: frightened
-过去分词: frightened
-现在分词/动名词: frightening
+```tip:t@history:c@title-box&no-seq
+5,17,10,58,29,44,59,47,38,27
 ```
 
-### fun
-
-```tip:c@summary-box
-n: 乐趣; 娱乐
-adj: 有趣的
+```tip:c@title-box&no-seq&color-white
+10,58,45,55,28,59,38,44,39,18,16,17,47
 ```
 
-### fund
+## Hot
 
-```tip:c@summary-box
-n: 资金; 基金
-v: 为…提供资金
+### a-b
 
-第三人称单数: funds
-过去式: funded
-过去分词: funded
-现在分词/动名词: funding
+```tip:t@2025-10-02:c@title-box&no-seq
+~~50,46,38,34,45,35,51,4,30~~
 ```
 
-### generator
-
-```tip:c@summary-box
-n: 发电机; 发生器; 生成器
+```tip:t@2025-10-01:c@title-box&no-seq
+45,50,35,39,48,34,52,15,30,46,51,36,38
 ```
 
-### greatly
-
-```tip:c@summary-box
-adv: 非常; 很大程度上
+```tip:c@title-box&no-seq&color-white
+36,34,43,50,27,45,20,41,46,13,51,35,38,26
 ```
 
-### habit
-
-```tip:c@summary-box
-n: 习惯; 习性
+### c-e
+```tip:t@2025-10-03:c@title-box&no-seq
+56,54,55,30,46,53,9,52,18,33,31
 ```
 
-### harvest
-
-```tip:c@summary-box
-n: 收获; 收成
-v: 收割; 收获
-
-第三人称单数: harvests
-过去式: harvested
-过去分词: harvested
-现在分词/动名词: harvesting
+```tip:t@2025-10-02:c@title-box&no-seq
+54,52,7,14,10,53,33,30,4,37,35,22,46,5,56,6,47,20,36,32,18,55,9,45,50
 ```
 
-### hate
+```tip:c@title-box&color-white
+<span style="color:palevioletred">1-37</span>
+34,24,5,19,32,33,4,31,20,18,14,10,23,21,11,6,7,9,37,22,36,29,30,35
 
-```tip:c@summary-box
-v: 憎恨; 不喜欢
-n: 憎恶
+4,5,21,22,19,18,23,20,9,33,30,36,14,35
 
-第三人称单数: hates
-过去式: hated
-过去分词: hated
-现在分词/动名词: hating
+4,5,21,22,19,18,20,9,30,14
 ```
 
-### heart
-
-```tip:c@summary-box
-n: 心脏; 心灵; 中心部分
+### f-l
+```tip:t@2025-10-03:c@title-box&no-seq
+27,46,29,10,24,43,2,63,5,60,12,34,28,18,32,50,68,42,65,22,58,47,51,26
 ```
 
-### hunt
-
-```tip:c@summary-box
-v: 打猎; 搜寻
-n: 狩猎; 搜索
-
-第三人称单数: hunts
-过去式: hunted
-过去分词: hunted
-现在分词/动名词: hunting
+```tip:t@2025-10-02:c@title-box&no-seq
+47,34,67,12,5,28,2,68,10,31,24,32,30,51,22,63,26,42,53,4,65,50,6,
+43,60,18,55,46,58,27
 ```
 
-### hurry
+```tip:c@title-box&color-white
+<span style="color:palevioletred">1-40</span>
+12,32,18,2,39,28,25,6,21,24,16,10,20,3,31,22,7,5,37,34,29,30,1,26,11
 
-```tip:c@summary-box
-v: 匆忙; 催促
-n: 匆忙
+29,12,5,21,1,18,22,31,28,2,30,6,24,16,25,10,34,3,26,32,20
 
-第三人称单数: hurries
-过去式: hurried
-过去分词: hurried
-现在分词/动名词: hurrying
+20,29,12,30,10,18,24,32,31,2,16,6,26,28,3,5
+
+16,26,2,24,29,6,3,18,20,10,32,12,6
+
+<span style="color:palevioletred">41-68</span>
+42,43,44,45,46,47,48,50,51,52,53,54,55,58,59,60,61,63,64,65,66,67,68
+
+43,46,47,50,51,53,54,58,60,61,63,64,65,66,67,68
 ```
 
-### hurt
+### m-z
 
-```tip:c@summary-box
-v: 伤害; 感到痛
-adj: 受伤的
-n: 损害
-
-第三人称单数: hurts
-过去式: hurt
-过去分词: hurt
-现在分词/动名词: hurting
+```tip:t@2025-10-02:c@title-box&no-seq
+63,105,4,6,88,97,35,3,76,54,7,67,69,79,23,49,39,33,103,36,62,46,86,92,
+47,77,27,37,2,15,82,107,48,84,64,60,45,96,73,85,119,95,78,12,121,66
 ```
 
-### ill
+```tip:c@title-box&color-white
+32,76,100,40,104,70,55,51,35,77,61,64,74,91,102,116,114,41,4,69,67,97,54,
+44,58,52,78,75,72,83,45,46,85,21,56,37,31,7,18,38,95,39,62,2,65,96,66,43,
+81,60,42,59,25,71,88,83,89,103,5,86,105,101,10,82
 
-```tip:c@summary-box
-adj: 生病的; 不好的
-adv: 坏地; 不利地
+<span style="color:palevioletred">1-40</span>
+2,35,13,39,25,4,10,32,15,21,33,29,18,17,31,22,9,23,7,5,34,8,1,40,28,37,38
 ```
 
-### illness
+## Warm
 
-```tip:c@summary-box
-n: 疾病; 病症
+### a-b
+
+```tip:t@2025-10-02:c@title-box&no-seq
+72,48,58,73,37,45,46,70,74,35,3,75,54,55,18,44,64,65,20,39,8,60,62,23,
+19,49,57,33,63,4,67,28,29,11,40,66,71,56,32,68,47,30,6,27,43,34,9,36,
+21,69,52,14,51,10,22
 ```
 
-### indicate
+```tip:c@title-box&color-white
+<span style="color:palevioletred">warm · (1-40)</span>
+4,15,8,19,37,13,23,34,11,39,32,38,40,24,14,33,27,18,29,35,9,36,6,30,28,21,20,12
 
-```tip:c@summary-box
-v: 表明; 指示
+38,12,27,36,33,29,35,8,14,32,28,40,6,37,39,3,4
 
-第三人称单数: indicates
-过去式: indicated
-过去分词: indicated
-现在分词/动名词: indicating
+32,3,37,14,27,8,29,10,20,12,35,40,36,28,33,9,34,4,39
+
+33,40,14,35,32,8,34,27,29,9,39
+
+3,26,13,16,15,28,14,5,22,18,29,25,19,10,6,4,30,24,20
+<hr>
+<span style="color:palevioletred">warm · (41-75)</span>
+54,75,68,49,72,55,69,43,48,64,63,74,70,60,45,56,44,47,58,66
+
+49,51,62,43,74,48,63,45,66,69,68,70,42,75,64,44,72
 ```
 
-### influence
+### c
 
-```tip:c@summary-box
-n: 影响; 势力
-v: 影响
-
-第三人称单数: influences
-过去式: influenced
-过去分词: influenced
-现在分词/动名词: influencing
+```tip:t@2025-10-02:c@title-box&no-seq
+37,44,41,42,53,14,3,39,28,18,56,30,35,45,24,52,34,36
 ```
 
-### injure
+```tip:c@title-box&color-white
+53,52,48,44,42,41,40,39,38,37,36,35,34,31,14,13
 
-```tip:c@summary-box
-v: 伤害; 损害
-
-第三人称单数: injures
-过去式: injured
-过去分词: injured
-现在分词/动名词: injuring
+40,53,37,56,34,42,35,41,29
 ```
 
-### injury
+### d
 
-```tip:c@summary-box
-n: 受伤; 伤害
+```tip:t@2025-10-02:c@title-box&no-seq
+17,39,8,37,36,19,29,13,33,34,38,11
 ```
 
-### inspire
+```tip:t@2025-09-29:c@title-box&no-seq
+<p style="color:palevioletred">warm · (d) · 1-30</p>
 
-```tip:c@summary-box
-v: 激励; 启发
+<b>
+23,11,26,9,28,21,24,3,20,22,25,27,30,2,14,7,29,17,8,15,4,19,13<hr>
 
-第三人称单数: inspires
-过去式: inspired
-过去分词: inspired
-现在分词/动名词: inspiring
+11,27,2,20,14,24,5,29,26,28,17<hr>
+
+24,20,11,17,26<hr>
+
+19,17,11,3,24<hr>
+
+11,17,20,9,21,3,24,27,19<hr>
+
+19,17,11,3,24<hr>
+</b>
+
+<p style="color:palevioletred">warm · (d)</p>
+<b>19,38,35,3,14,36,34,24,33,11,17,40,39</b>
 ```
 
-### instance
-
-```tip:c@summary-box
-n: 例子; 情况; 实例
+### e-f
+```tip:t@2025-10-03:c@title-box&no-seq
+<p style="color:palevioletred">warm · E-F</p>
+<b>53,41,65,63,39,25,35,61,45,67,55,47,60,66</b>
 ```
 
-### instant
-
-```tip:c@summary-box
-adj: 立即的; 即食的
-n: 瞬间; 刹那
+```tip:t@2025-10-01:c@title-box&no-seq
+<p style="color:palevioletred">warm · E-F · 1-20</p>
+<b>13,15</b>
 ```
 
-### instruction
+```tip:c@title-box&color-white
+<span style="color:palevioletred">warm · E-F · 21-50</span>
+47,49,48,44,27,45,25,50,39,38,35,36,41,43,31,40
 
-```tip:c@summary-box
-n: 指示; 教导; 用法说明
+25,45,27,41,36,31,39,47,35
 ```
 
-### insurance
+```tip:c@title-box&color-white
+<span style="color:palevioletred">warm · E-F · 1-50</span>
+41,44,9,13,39,49,50,15,40,25,38,5,36,11,24,37
 
-```tip:c@summary-box
-n: 保险; 保险业; 保险费
+47,6,27,39,26,25,48,38,44,8,41,36
+
+50,38,44,27,15,6,41,48,39,25
+
+45,25,47,39,27,15,36,35,41,44
+
+25,35,39,41,45,47<hr><span style="color:palevioletred">warm · E-F · 51-70</span>
+55,60,61,63,65,66,67
 ```
 
-### introduce
 
-```tip:c@summary-box
-v: 介绍; 引入; 推出
+### f-i
+```tip:t@2025-10-04:c@title-box&no-seq
+55,30,39,66,52,67,19,65,76,11,75,56,33,27,71,50,61,13,85,57,68,83,77,84,
+4,38,69,51<hr>
 
-第三人称单数: introduces
-过去式: introduced
-过去分词: introduced
-现在分词/动名词: introducing
+65,39,50,76,30,85,67,66,13,71,52,33,19,83,57,38,77
 ```
 
-### invest
-
-```tip:c@summary-box
-v: 投资; 投入
-
-第三人称单数: invests
-过去式: invested
-过去分词: invested
-现在分词/动名词: investing
+```tip:t@2025-10-03:c@title-box&no-seq
+85,18,13,11,56,24,69,38,84,74,41,50,19,76,77,51,71,55,68,66,83,30,65,75,
+33,52,4,39
 ```
 
-### involve
+```tip:c@title-box&color-white
+<span style="color:palevioletred">warm · F-I · 1-30</span>
+13,11,30,4,19
 
-```tip:c@summary-box
-v: 涉及; 包含; 牵涉
+<span style="color:palevioletred">warm · F-I · 31-50</span>
+38,48,37,43,32,50,35,33,36,39
 
-第三人称单数: involves
-过去式: involved
-过去分词: involved
-现在分词/动名词: involving
+<span style="color:palevioletred">warm · F-I · 1-50</span>
+13,30,4,38,48,11,41,39,19,50,24,33
 ```
 
-### warm · e-f
-
-### engage
-
-```tip:c@summary-box
-v: 吸引; 参与; 雇用
-
-第三人称单数: engages
-过去式: engaged
-过去分词: engaged
-现在分词/动名词: engaging
-```
-
-### essential
-
-```tip:c@summary-box
-adj: 必要的; 本质的
-n: 必需品; 要素
-```
-
-### estimate
-
-```tip:c@summary-box
-v: 估计; 评估
-n: 估算; 估价
-
-第三人称单数: estimates
-过去式: estimated
-过去分词: estimated
-现在分词/动名词: estimating
-```
-
-### excessive
-
-```tip:c@summary-box
-adj: 过度的; 过多的
-```
-
-### excite
-
-```tip:c@summary-box
-v: 使激动; 激发; 刺激
-
-第三人称单数: excites
-过去式: excited
-过去分词: excited
-现在分词/动名词: exciting
-```
-
-### exercise
-
-```tip:c@summary-box
-n: 运动; 练习
-v: 锻炼; 运用
-
-第三人称单数: exercises
-过去式: exercised
-过去分词: exercised
-现在分词/动名词: exercising
-```
-
-### experiment
-
-```tip:c@summary-box
-n: 实验; 试验
-v: 做实验
-
-第三人称单数: experiments
-过去式: experimented
-过去分词: experimented
-现在分词/动名词: experimenting
-```
-
-### expose
-
-```tip:c@summary-box
-v: 暴露; 揭露
-
-第三人称单数: exposes
-过去式: exposed
-过去分词: exposed
-现在分词/动名词: exposing
-```
-
-### expression
-
-```tip:c@summary-box
-n: 表达; 表情; 说法
-```
-
-### extremely
-
-```tip:c@summary-box
-adv: 极其; 非常
-```
