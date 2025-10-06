@@ -47,7 +47,8 @@
 }
 
 .toc > nav > ul > li::before {
-    content: counter(level1) ". ";
+    /*content: counter(level1) ". ";*/
+    content: counter(level1) " ";
     position: absolute;
     left: -1.5em;
     padding-left: 0.3em;
