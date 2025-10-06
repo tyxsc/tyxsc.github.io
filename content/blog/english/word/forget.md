@@ -21,6 +21,270 @@ tags:
 type: "featured"
 ---
 
+## warm · k-o
+
+### lay
+
+```tip:c@summary-box
+v: 放置; 下蛋; 安排
+adj: 外行的; 外行人
+
+第三人称单数: lays
+过去式: laid
+过去分词: laid
+现在分词/动名词: laying
+```
+
+### leak
+
+```tip:c@summary-box
+v: 漏; 泄漏
+n: 漏洞; 泄漏
+
+第三人称单数: leaks
+过去式: leaked
+过去分词: leaked
+现在分词/动名词: leaking
+```
+
+### lecture
+
+```tip:c@summary-box
+n: 演讲; 讲座; 教训
+v: 演讲; 训诫
+
+第三人称单数: lectures
+过去式: lectured
+过去分词: lectured
+现在分词/动名词: lecturing
+```
+
+### legal
+
+```tip:c@summary-box
+adj: 法律的; 合法的
+```
+
+### measure
+
+```tip:c@summary-box
+v: 测量; 估量; 采取措施
+n: 措施; 尺寸; 度量
+
+第三人称单数: measures
+过去式: measured
+过去分词: measured
+现在分词/动名词: measuring
+```
+
+### mental
+
+```tip:c@summary-box
+adj: 精神的; 思想的; 心理的
+```
+
+### mention
+
+```tip:c@summary-box
+v: 提到; 说起
+n: 提及
+
+第三人称单数: mentions
+过去式: mentioned
+过去分词: mentioned
+现在分词/动名词: mentioning
+```
+
+### merchant
+
+```tip:c@summary-box
+n: 商人; 批发商
+```
+
+### metal
+
+```tip:c@summary-box
+n: 金属; 金属制品
+```
+
+### migrate
+
+```tip:c@summary-box
+v: 迁移; 移居
+
+第三人称单数: migrates
+过去式: migrated
+过去分词: migrated
+现在分词/动名词: migrating
+```
+
+### minister
+
+```tip:c@summary-box
+n: 部长; 牧师
+v: 服侍; 照顾
+```
+
+### mistake
+
+```tip:c@summary-box
+n: 错误; 失误
+v: 弄错; 误解
+
+第三人称单数: mistakes
+过去式: mistook
+过去分词: mistaken
+现在分词/动名词: mistaking
+```
+
+### moment
+
+```tip:c@summary-box
+n: 瞬间; 时刻; 片刻
+```
+
+### monument
+
+```tip:c@summary-box
+n: 纪念碑; 历史遗迹
+```
+
+### mostly
+
+```tip:c@summary-box
+adv: 大部分; 通常; 主要地
+```
+
+### mountain
+
+```tip:c@summary-box
+n: 山; 大量; 高地
+```
+
+### movement
+
+```tip:c@summary-box
+n: 运动; 动作; 活动
+```
+
+### museum
+
+```tip:c@summary-box
+n: 博物馆
+```
+
+### native
+
+```tip:c@summary-box
+adj: 本地的; 本土的; 天生的
+n: 本地人; 土著
+```
+
+### nest
+
+```tip:c@summary-box
+n: 巢; 鸟巢
+v: 筑巢; 嵌套
+
+第三人称单数: nests
+过去式: nested
+过去分词: nested
+现在分词/动名词: nesting
+```
+
+### non
+
+```tip:c@summary-box
+prefix: 非; 不; 无 (构词前缀)
+```
+
+### nor
+
+```tip:c@summary-box
+conj: 也不; 既不
+```
+
+### north
+
+```tip:c@summary-box
+n: 北方; 北部
+adj: 北方的
+adv: 向北; 在北方
+```
+
+### obvious
+
+```tip:c@summary-box
+adj: 明显的; 显而易见的
+```
+
+### occur
+
+```tip:c@summary-box
+v: 发生; 出现
+
+第三人称单数: occurs
+过去式: occurred
+过去分词: occurred
+现在分词/动名词: occurring
+```
+
+### ocean
+
+```tip:c@summary-box
+n: 海洋; 大量
+```
+
+### official
+
+```tip:c@summary-box
+adj: 官方的; 正式的
+n: 官员; 公务员
+```
+
+### opinion
+
+```tip:c@summary-box
+n: 意见; 看法; 评价
+```
+
+### oppose
+
+```tip:c@summary-box
+v: 反对; 对抗
+
+第三人称单数: opposes
+过去式: opposed
+过去分词: opposed
+现在分词/动名词: opposing
+```
+
+### orbit
+
+```tip:c@summary-box
+n: 轨道; 眼窝
+v: 绕轨道运行
+
+第三人称单数: orbits
+过去式: orbited
+过去分词: orbited
+现在分词/动名词: orbiting
+```
+
+### otherwise
+
+```tip:c@summary-box
+adv: 否则; 在其他方面
+conj: 否则; 要不
+```
+
+### overweight
+
+```tip:c@summary-box
+adj: 超重的; 过重的
+n: 超重; 负荷
+```
+
 ## warm · f-i
 
 ### foreign
@@ -647,6 +911,7 @@ adj: 文化的; 与文化相关的
 ```
 
 ## warm · a-b
+
 ### access
 
 ```tip:c@summary-box
