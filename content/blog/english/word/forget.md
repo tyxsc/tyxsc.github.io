@@ -911,30 +911,6 @@ adj: 文化的; 与文化相关的
 ```
 
 ## warm · a-b
-
-### access
-
-```tip:c@summary-box
-n: 通道; 进入; 使用权
-v: 接近; 使用; 获取
-
-第三人称单数: accesses
-过去式: accessed
-过去分词: accessed
-现在分词/动名词: accessing
-```
-
-### achieve
-
-```tip:c@summary-box
-v: 完成; 实现; 达到
-
-第三人称单数: achieves
-过去式: achieved
-过去分词: achieved
-现在分词/动名词: achieving
-```
-
 ### acquire
 
 ```tip:c@summary-box
@@ -944,6 +920,12 @@ v: 获得; 学到; 收购
 过去式: acquired
 过去分词: acquired
 现在分词/动名词: acquiring
+```
+
+### actually
+
+```tip:c@summary-box
+adv: 实际上; 真的
 ```
 
 ### adapt
@@ -990,10 +972,16 @@ v: 收养; 采用; 采纳
 现在分词/动名词: adopting
 ```
 
-### advice
+### advance
 
 ```tip:c@summary-box
-n: 建议; 忠告
+n: 前进; 进步
+v: 前进; 推进; 提前
+
+第三人称单数: advances
+过去式: advanced
+过去分词: advanced
+现在分词/动名词: advancing
 ```
 
 ### ageing
@@ -1031,14 +1019,6 @@ v: 瞄准; 旨在
 过去式: aimed
 过去分词: aimed
 现在分词/动名词: aiming
-```
-
-### airman
-
-```tip:c@summary-box
-n: 飞行员; 空军人员
-
-复数: airmen
 ```
 
 ### alive
@@ -1211,18 +1191,6 @@ n: 海滩; 沙滩
 n: 美; 美丽的人或物
 ```
 
-### bed
-
-```tip:c@summary-box
-n: 床; 河床; 花床
-v: 安置; 铺床
-
-第三人称单数: beds
-过去式: bedded
-过去分词: bedded
-现在分词/动名词: bedding
-```
-
 ### below
 
 ```tip:c@summary-box
@@ -1266,6 +1234,18 @@ v: 骑自行车
 
 ```tip:c@summary-box
 adj: 生物的; 生物学的
+```
+
+### birth
+
+```tip:c@summary-box
+n: 出生; 诞生
+v: 产生; 引起
+
+第三人称单数: births
+过去式: birthed
+过去分词: birthed
+现在分词/动名词: birthing
 ```
 
 ### bit
@@ -1419,12 +1399,6 @@ v: 使变成褐色
 adj: 现代的; 当代的; 新式的
 ```
 
-### mars
-
-```tip:c@summary-box
-n: 火星
-```
-
 ### matter
 
 ```tip:c@summary-box
@@ -1450,6 +1424,12 @@ n: 体格检查
 n: 药; 医学
 ```
 
+### mile
+
+```tip:c@summary-box
+n: 英里
+```
+
 ### mind
 
 ```tip:c@summary-box
@@ -1462,12 +1442,6 @@ v: 介意; 注意
 现在分词/动名词: minding
 ```
 
-### multitasking
-
-```tip:c@summary-box
-n: 多任务处理
-```
-
 ### nuclear
 
 ```tip:c@summary-box
@@ -1478,6 +1452,18 @@ adj: 核心的; 核能的; 原子核的
 
 ```tip:c@summary-box
 n: 机会; 时机
+```
+
+### park
+
+```tip:c@summary-box
+n: 公园; 停车场
+v: 停放(车辆)
+
+第三人称单数: parks
+过去式: parked
+过去分词: parked
+现在分词/动名词: parking
 ```
 
 ### past
@@ -1518,6 +1504,17 @@ adj: 塑料的; 可塑的
 
 ```tip:c@summary-box
 adj: 极地的; 南/北极的
+```
+
+### prepare
+
+```tip:c@summary-box
+v: 准备; 预备
+
+第三人称单数: prepares
+过去式: prepared
+过去分词: prepared
+现在分词/动名词: preparing
 ```
 
 ### present
@@ -1569,6 +1566,18 @@ n: 农产品
 现在分词/动名词: producing
 ```
 
+### product
+
+```tip:c@summary-box
+n: 产品; 成果
+```
+
+### production
+
+```tip:c@summary-box
+n: 生产; 制作; 总产量
+```
+
 ### protect
 
 ```tip:c@summary-box
@@ -1580,16 +1589,16 @@ v: 保护; 防卫
 现在分词/动名词: protecting
 ```
 
-### raise
+### quite
 
 ```tip:c@summary-box
-v: 提高; 举起; 抚养; 筹集
-n: 加薪
+adv: 相当; 很; 完全
+```
 
-第三人称单数: raises
-过去式: raised
-过去分词: raised
-现在分词/动名词: raising
+### rather
+
+```tip:c@summary-box
+adv: 宁愿; 相当; 更确切地说
 ```
 
 ### reach
@@ -1613,12 +1622,6 @@ v: 意识到; 实现
 过去式: realized
 过去分词: realized
 现在分词/动名词: realizing
-```
-
-### really
-
-```tip:c@summary-box
-adv: 真正地; 确实; 真的
 ```
 
 ### reduce
@@ -1655,10 +1658,15 @@ v: 保持; 依然; 留下
 现在分词/动名词: remaining
 ```
 
-### researcher
+### require
 
 ```tip:c@summary-box
-n: 研究人员; 调查者
+v: 需要; 要求
+
+第三人称单数: requires
+过去式: required
+过去分词: required
+现在分词/动名词: requiring
 ```
 
 ### rise
@@ -1697,10 +1705,12 @@ n: 河流
 n: 道路; 公路
 ```
 
-### sale
+### same
 
 ```tip:c@summary-box
-n: 销售; 出售; 特价销售
+adj: 相同的; 同样的
+pron: 相同的人/事物
+adv: 同样地
 ```
 
 ### saw
@@ -1708,12 +1718,6 @@ n: 销售; 出售; 特价销售
 ```tip:c@summary-box
 n: 锯子
 v: see 的过去式
-```
-
-### scientist
-
-```tip:c@summary-box
-n: 科学家
 ```
 
 ### sea
@@ -1731,6 +1735,18 @@ v: 似乎; 好像
 过去式: seemed
 过去分词: seemed
 现在分词/动名词: seeming
+```
+
+### sell
+
+```tip:c@summary-box
+v: 卖; 出售
+n: 销售
+
+第三人称单数: sells
+过去式: sold
+过去分词: sold
+现在分词/动名词: selling
 ```
 
 ### ship
@@ -1769,6 +1785,12 @@ v: 抽烟; 冒烟
 现在分词/动名词: smoking
 ```
 
+### solar
+
+```tip:c@summary-box
+adj: 太阳的; 太阳能的
+```
+
 ### soon
 
 ```tip:c@summary-box
@@ -1780,6 +1802,17 @@ adv: 很快; 不久
 ```tip:c@summary-box
 adj: 特别的; 专门的
 n: 特别的东西
+```
+
+### spend
+
+```tip:c@summary-box
+v: 花费; 度过
+
+第三人称单数: spends
+过去式: spent
+过去分词: spent
+现在分词/动名词: spending
 ```
 
 ### spread
@@ -1794,6 +1827,18 @@ n: 蔓延; 范围
 现在分词/动名词: spreading
 ```
 
+### state
+
+```tip:c@summary-box
+n: 状态; 州
+v: 陈述; 说明
+
+第三人称单数: states
+过去式: stated
+过去分词: stated
+现在分词/动名词: stating
+```
+
 ### survey
 
 ```tip:c@summary-box
@@ -1804,18 +1849,6 @@ v: 调查; 勘测
 过去式: surveyed
 过去分词: surveyed
 现在分词/动名词: surveying
-```
-
-### notice
-
-```tip:c@summary-box
-n: 注意; 通知; 布告
-v: 注意到; 留意
-
-第三人称单数: notices
-过去式: noticed
-过去分词: noticed
-现在分词/动名词: noticing
 ```
 
 ## hot · f-l
@@ -1832,6 +1865,29 @@ n: 秋天; 瀑布; 下跌
 现在分词/动名词: falling
 ```
 
+### far
+
+```tip:c@summary-box
+adj: 远的
+adv: 远; 大大地
+
+比较级: farther/further
+最高级: farthest/furthest
+```
+
+### fast
+
+```tip:c@summary-box
+adj: 快的; 紧的
+adv: 快速地; 紧紧地
+v: 禁食; 斋戒
+
+第三人称单数: fasts
+过去式: fasted
+过去分词: fasted
+现在分词/动名词: fasting
+```
+
 ### fat
 
 ```tip:c@summary-box
@@ -1845,6 +1901,18 @@ v: 养肥
 过去式: fatted
 过去分词: fatted
 现在分词/动名词: fatting
+```
+
+### feed
+
+```tip:c@summary-box
+v: 喂养; 供给; 满足
+n: 饲料; 一餐
+
+第三人称单数: feeds
+过去式: fed
+过去分词: fed
+现在分词/动名词: feeding
 ```
 
 ### flow
@@ -1871,16 +1939,28 @@ v: 支付; 步行
 现在分词/动名词: footing
 ```
 
-### garden
+### fry
 
 ```tip:c@summary-box
-n: 花园; 园子
-v: 从事园艺
+v: 油炸; 油煎
+n: 炸薯条; 鱼苗
 
-第三人称单数: gardens
-过去式: gardened
-过去分词: gardened
-现在分词/动名词: gardening
+第三人称单数: fries
+过去式: fried
+过去分词: fried
+现在分词/动名词: frying
+```
+
+### glass
+
+```tip:c@summary-box
+n: 玻璃; 杯子; 镜片
+v: 给…装玻璃
+
+第三人称单数: glasses
+过去式: glassed
+过去分词: glassed
+现在分词/动名词: glassing
 ```
 
 ### great
@@ -1902,12 +1982,6 @@ v: 使停飞; 禁足; 打基础
 过去式: grounded
 过去分词: grounded
 现在分词/动名词: grounding
-```
-
-### hall
-
-```tip:c@summary-box
-n: 大厅; 礼堂; 门厅
 ```
 
 ### hand
@@ -1963,12 +2037,6 @@ n: 掌握; 船舱
 现在分词/动名词: holding
 ```
 
-### important
-
-```tip:c@summary-box
-adj: 重要的; 重大的; 有权势的
-```
-
 ### improve
 
 ```tip:c@summary-box
@@ -2016,6 +2084,13 @@ n: 缺乏; 不足
 n: 湖; 湖泊
 ```
 
+### later
+
+```tip:c@summary-box
+adv: 后来; 之后
+adj: 后来的
+```
+
 ### least
 
 ```tip:c@summary-box
@@ -2031,13 +2106,6 @@ adj: 更少的; 较少的
 adv: 较少地
 ```
 
-### likely
-
-```tip:c@summary-box
-adj: 可能的; 有希望的
-adv: 可能
-```
-
 ### lose
 
 ```tip:c@summary-box
@@ -2047,6 +2115,13 @@ v: 失去; 输掉; 浪费
 过去式: lost
 过去分词: lost
 现在分词/动名词: losing
+```
+
+### lot
+
+```tip:c@summary-box
+n: 大量; 一批; 签
+adv: 很多
 ```
 
 ### low
@@ -2062,119 +2137,10 @@ n: 低点
 
 ## hot · c-e
 
-### care
-
-```tip:c@summary-box
-v: 关心; 照顾; 介意
-n: 关怀; 担心
-
-第三人称单数: cares
-过去式: cared
-过去分词: cared
-现在分词/动名词: caring
-```
-
-### carry
-
-```tip:c@summary-box
-v: 携带; 运送; 支撑; 承载
-
-第三人称单数: carries
-过去式: carried
-过去分词: carried
-现在分词/动名词: carrying
-```
-
-### catch
-
-```tip:c@summary-box
-v: 抓住; 赶上; 感染; 听到
-n: 捕捉; 夹子; 隐患
-
-第三人称单数: catches
-过去式: caught
-过去分词: caught
-现在分词/动名词: catching
-```
-
-### certain
-
-```tip:c@summary-box
-adj: 确定的; 某个; 无疑的
-n: 某些事物
-```
-
-### chance
-
-```tip:c@summary-box
-n: 机会; 偶然; 风险
-v: 碰巧; 冒险
-
-第三人称单数: chances
-过去式: chanced
-过去分词: chanced
-现在分词/动名词: chancing
-```
-
-### character
-
-```tip:c@summary-box
-n: 性格; 人物; 字符; 特点
-```
-
-### choice
-
-```tip:c@summary-box
-n: 选择; 精选
-adj: 精选的
-```
-
-### class
-
-```tip:c@summary-box
-n: 班级; 阶级; 种类
-v: 把……归类
-
-第三人称单数: classes
-过去式: classed
-过去分词: classed
-现在分词/动名词: classing
-```
-
 ### climate
 
 ```tip:c@summary-box
 n: 气候; 风气; 环境
-```
-
-### coconut
-
-```tip:c@summary-box
-n: 椰子; 椰子树
-```
-
-### collect
-
-```tip:c@summary-box
-v: 收集; 聚集; 接走
-n: 收款
-
-第三人称单数: collects
-过去式: collected
-过去分词: collected
-现在分词/动名词: collecting
-```
-
-### college
-
-```tip:c@summary-box
-n: 学院; 大学; 高等专科学校
-```
-
-### community
-
-```tip:c@summary-box
-n: 社区; 社团; 共同体
 ```
 
 ### concern
@@ -2187,42 +2153,6 @@ v: 关心; 涉及
 过去式: concerned
 过去分词: concerned
 现在分词/动名词: concerning
-```
-
-### contact
-
-```tip:c@summary-box
-n: 联系; 接触; 熟人
-v: 接触; 联系
-
-第三人称单数: contacts
-过去式: contacted
-过去分词: contacted
-现在分词/动名词: contacting
-```
-
-### cost
-
-```tip:c@summary-box
-n: 成本; 花费
-v: 花费; 代价
-
-第三人称单数: costs
-过去式: cost
-过去分词: cost
-现在分词/动名词: costing
-```
-
-### cover
-
-```tip:c@summary-box
-v: 覆盖; 涉及; 报道
-n: 封面; 覆盖物
-
-第三人称单数: covers
-过去式: covered
-过去分词: covered
-现在分词/动名词: covering
 ```
 
 ### culture
@@ -2243,113 +2173,10 @@ n: 交易; 数量; 份量
 现在分词/动名词: dealing
 ```
 
-### death
-
-```tip:c@summary-box
-n: 死亡; 消亡
-```
-
-### decide
-
-```tip:c@summary-box
-v: 决定; 判定
-
-第三人称单数: decides
-过去式: decided
-过去分词: decided
-现在分词/动名词: deciding
-```
-
-### deep
-
-```tip:c@summary-box
-adj: 深的; 深奥的
-adv: 深深地
-
-比较级: deeper
-最高级: deepest
-```
-
-### delivery
-
-```tip:c@summary-box
-n: 递送; 分娩; 投递
-```
-
-### design
-
-```tip:c@summary-box
-n: 设计; 图样; 意图
-v: 设计; 制图
-
-第三人称单数: designs
-过去式: designed
-过去分词: designed
-现在分词/动名词: designing
-```
-
-### develop
-
-```tip:c@summary-box
-v: 发展; 开发; 冲洗(照片)
-
-第三人称单数: develops
-过去式: developed
-过去分词: developed
-现在分词/动名词: developing
-```
-
-### development
-
-```tip:c@summary-box
-n: 发展; 开发; 形成
-```
-
-### die
-
-```tip:c@summary-box
-v: 死; 消逝
-
-第三人称单数: dies
-过去式: died
-过去分词: died
-现在分词/动名词: dying
-```
-
-### different
-
-```tip:c@summary-box
-adj: 不同的; 各种各样的
-```
-
-### difficult
-
-```tip:c@summary-box
-adj: 困难的; 棘手的
-```
-
 ### disease
 
 ```tip:c@summary-box
 n: 疾病; 病害
-```
-
-### door
-
-```tip:c@summary-box
-n: 门; 门口
-```
-
-### drive
-
-```tip:c@summary-box
-v: 驾驶; 驱动; 推动
-n: 驱动; 动力; 旅行
-
-第三人称单数: drives
-过去式: drove
-过去分词: driven
-现在分词/动名词: driving
 ```
 
 ### drone
@@ -2362,118 +2189,6 @@ v: 发嗡嗡声; 混日子
 过去式: droned
 过去分词: droned
 现在分词/动名词: droning
-```
-
-### drop
-
-```tip:c@summary-box
-v: 下降; 扔下; 减少
-n: 滴; 小量; 下降
-
-第三人称单数: drops
-过去式: dropped
-过去分词: dropped
-现在分词/动名词: dropping
-```
-
-### drug
-
-```tip:c@summary-box
-n: 药; 毒品; 药物
-v: 用药物治疗; 使服药
-
-第三人称单数: drugs
-过去式: drugged
-过去分词: drugged
-现在分词/动名词: drugging
-```
-
-### during
-
-```tip:c@summary-box
-prep: 在……期间
-```
-
-### each
-
-```tip:c@summary-box
-adj: 每个的; 各自的
-pron: 每个; 各自
-```
-
-### early
-
-```tip:c@summary-box
-adj: 早的; 提前的
-adv: 提前地; 早地
-
-比较级: earlier
-最高级: earliest
-```
-
-### earth
-
-```tip:c@summary-box
-n: 地球; 土地; 泥土
-v: 覆土; 接地
-```
-
-### easy
-
-```tip:c@summary-box
-adj: 容易的; 不费力的; 舒适的
-
-比较级: easier
-最高级: easiest
-```
-
-### education
-
-```tip:c@summary-box
-n: 教育; 培养; 教育学
-```
-
-### effect
-
-```tip:c@summary-box
-n: 影响; 效果; 作用
-v: 产生; 实现
-
-第三人称单数: effects
-过去式: effected
-过去分词: effected
-现在分词/动名词: effecting
-```
-
-### egg
-
-```tip:c@summary-box
-n: 蛋; 卵
-v: 怂恿; 煽动
-
-第三人称单数: eggs
-过去式: egged
-过去分词: egged
-现在分词/动名词: egging
-```
-
-### either
-
-```tip:c@summary-box
-adj: 任一的
-pron: 两者之一
-conj: 或…或…
-```
-
-### encourage
-
-```tip:c@summary-box
-v: 鼓励; 激励; 支持
-
-第三人称单数: encourages
-过去式: encouraged
-过去分词: encouraged
-现在分词/动名词: encouraging
 ```
 
 ### energy
@@ -2489,28 +2204,10 @@ adj: 足够的; 充足的
 adv: 足够地
 ```
 
-### entrepreneurship
-
-```tip:c@summary-box
-n: 企业家精神; 创业能力
-```
-
-### environment
-
-```tip:c@summary-box
-n: 环境; 自然环境; 周围状况
-```
-
 ### ever
 
 ```tip:c@summary-box
 adv: 曾经; 一直; 无论何时
-```
-
-### everything
-
-```tip:c@summary-box
-pron: 每件事; 一切
 ```
 
 ### evidence
@@ -2568,40 +2265,17 @@ n: 专家; 行家
 adj: 熟练的; 内行的
 ```
 
-### eye
-
-```tip:c@summary-box
-n: 眼睛; 视力; 眼状物
-v: 注视; 观察
-
-第三人称单数: eyes
-过去式: eyed
-过去分词: eyed
-现在分词/动名词: eyeing
-```
-
-### clearer
-
-```tip:c@summary-box
-adj: 更清楚的（clear 的比较级）
-```
-
 ## hot · a-b
 
-### always
+### arrive
 
 ```tip:c@summary-box
-adv: 总是; 一直; 永远
-```
+v: 到达; 来临; 抵达; 成功
 
-### bad
-
-```tip:c@summary-box
-adj: 坏的; 差的; 不舒服的
-n: 坏事
-
-比较级: worse
-最高级: worst
+第三人称单数: arrives
+过去式: arrived
+过去分词: arrived
+现在分词/动名词: arriving
 ```
 
 ### beetle
@@ -2620,74 +2294,6 @@ v: 快速移动; 吓走
 
 ```tip:c@summary-box
 n: 行为; 举止; 表现
-```
-
-### behind
-
-```tip:c@summary-box
-prep: 在……后面; 落后于
-adv: 在后面; 落后
-n: 屁股(口语)
-```
-
-### benefit
-
-```tip:c@summary-box
-n: 益处; 好处; 福利
-v: 使受益; 得益
-
-第三人称单数: benefits
-过去式: benefited / benefitted
-过去分词: benefited / benefitted
-现在分词/动名词: benefiting / benefitting
-```
-
-### better
-
-```tip:c@summary-box
-adj: 更好的
-adv: 更好地
-n: 优胜者; 较好者
-v: 改善; 胜过
-
-比较级: better
-最高级: best
-```
-
-### bottle
-
-```tip:c@summary-box
-n: 瓶子
-v: 装瓶; 抑制
-
-第三人称单数: bottles
-过去式: bottled
-过去分词: bottled
-现在分词/动名词: bottling
-```
-
-### brain
-
-```tip:c@summary-box
-n: 大脑; 智慧; 聪明人
-v: 猛击……的头部
-
-第三人称单数: brains
-过去式: brained
-过去分词: brained
-现在分词/动名词: braining
-```
-
-### breast
-
-```tip:c@summary-box
-n: 胸部; 乳房
-v: 以胸对着; 攻克
-
-第三人称单数: breasts
-过去式: breasted
-过去分词: breasted
-现在分词/动名词: breasting
 ```
 
 ### brick
@@ -2712,16 +2318,3 @@ v: 带来; 取来; 引起
 过去分词: brought
 现在分词/动名词: bringing
 ```
-
-### busy
-
-```tip:c@summary-box
-adj: 忙碌的; 繁忙的
-v: 使忙于
-
-第三人称单数: busies
-过去式: busied
-过去分词: busied
-现在分词/动名词: busying
-```
-
