@@ -43,6 +43,10 @@ type: "featured"
 
 ### a-b
 
+```tip:t@2025-10-10:c@title-box&no-seq
+35,44,27,4,38,30
+```
+
 ```tip:t@2025-10-07:c@title-box&no-seq
 34,23,51,50,35
 ```
@@ -60,6 +64,10 @@ type: "featured"
 ```
 
 ### c-e
+
+```tip:t@2025-10-10:c@title-box&no-seq
+50,14,33,9,53,18,52,55,44,46,56,54,47,20
+```
 
 ```tip:t@2025-10-07:c@title-box&no-seq
 30,56,55,54,18,46,33,53,9,50,14,19,47,52
@@ -281,6 +289,7 @@ type: "featured"
 ```
 
 ### p-r
+
 ```tip:c@title-box&color-white
 <span style="color:palevioletred">warm · P-R · 1-35</span>
 14,23,10,5,30,16,29

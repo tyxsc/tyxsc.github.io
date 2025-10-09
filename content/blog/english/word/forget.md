@@ -2162,22 +2162,10 @@ v: 关心; 涉及
 n: 文化; 修养; 培养
 ```
 
-## deal
+## death
 
 ```tip:c@summary-box
-v: 处理; 给予; 交易
-n: 交易; 数量; 份量
-
-第三人称单数: deals
-过去式: dealt
-过去分词: dealt
-现在分词/动名词: dealing
-```
-
-## disease
-
-```tip:c@summary-box
-n: 疾病; 病害
+n: 死亡; 消亡
 ```
 
 ## drone
@@ -2190,6 +2178,14 @@ v: 发嗡嗡声; 混日子
 过去式: droned
 过去分词: droned
 现在分词/动名词: droning
+```
+
+## either
+
+```tip:c@summary-box
+adj: 任一的
+pron: 两者之一
+conj: 或…或…
 ```
 
 ## energy
@@ -2268,27 +2264,25 @@ adj: 熟练的; 内行的
 
 ## hot · a-b
 
-## arrive
+## adult
 
 ```tip:c@summary-box
-v: 到达; 来临; 抵达; 成功
-
-第三人称单数: arrives
-过去式: arrived
-过去分词: arrived
-现在分词/动名词: arriving
+n: 成人; 成年动物
+adj: 成年的; 成熟的
 ```
 
-## beetle
+## both
 
 ```tip:c@summary-box
-n: 甲虫
-v: 快速移动; 吓走
+pron: 两者; 双方
+adj: 两个的; 双方的
+adv: 两者都
+```
 
-第三人称单数: beetles
-过去式: beetled
-过去分词: beetled
-现在分词/动名词: beetling
+## attention
+
+```tip:c@summary-box
+n: 注意; 关注; 立正
 ```
 
 ## behavior
@@ -2297,16 +2291,26 @@ v: 快速移动; 吓走
 n: 行为; 举止; 表现
 ```
 
-## brick
+## benefit
 
 ```tip:c@summary-box
-n: 砖; 砖块
-v: 用砖砌; 用砖围砌
+n: 益处; 好处; 福利
+v: 使受益; 得益
 
-第三人称单数: bricks
-过去式: bricked
-过去分词: bricked
-现在分词/动名词: bricking
+第三人称单数: benefits
+过去式: benefited / benefitted
+过去分词: benefited / benefitted
+现在分词/动名词: benefiting / benefitting
+```
+
+## bad
+
+```tip:c@summary-box
+adj: 坏的; 差的; 不舒服的
+n: 坏事
+
+比较级: worse
+最高级: worst
 ```
 
 ## bring

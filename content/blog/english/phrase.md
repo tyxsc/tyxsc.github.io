@@ -4,11 +4,11 @@ date: 2025-10-09T01:00:00+08:00
 draft: false
 
 # post thumb
-image: "images/post/covers/wallpaperuqiaomz.jpg"
+image: "images/slideshow/teeth.jpg"
 
 # meta description
 description: ""
-summary: "必备"
+summary: "<p style='color:palevioletred'>必背短语</p>"
 
 # taxonomies
 # categories:
@@ -17,7 +17,7 @@ summary: "必备"
 #   - "Word"
 
 # post type
-type: "post"
+type: "featured"
 ---
 
 ## look after

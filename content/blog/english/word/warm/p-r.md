@@ -311,7 +311,7 @@ v: 实践; 练习; 从事
 ## pre
 
 ```tip:c@summary-box
-prefix: 表示“前”; “预先”
+prefix: 表示"前"; "预先"
 ```
 
 ## prefer
