@@ -21,7 +21,6 @@ tags:
 type: "featured"
 ---
 
-
 ## warm · k-o
 
 ## lay
@@ -912,6 +911,7 @@ adj: 文化的; 与文化相关的
 ```
 
 ## warm · a-b
+
 ## acquire
 
 ```tip:c@summary-box

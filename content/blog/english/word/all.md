@@ -12,4410 +12,4408 @@ type: "post"
 
 ## 单词
 
-the: 2136
-to: 1095
-in: 845
-of: 751
-and: 597
-for: 352
-that: 338
-was: 300
-he: 291
-on: 279
-it: 248
-you: 221
-with: 219
-have: 211
-passage: 196
-at: 170
-there: 166
-not: 161
-they: 161
-be: 160
-as: 160
-she: 160
-can: 157
-his: 156
-part: 156
-this: 150
-from: 145
-one: 139
-when: 137
-which: 135
-following: 131
-but: 119
-more: 118
-her: 117
-has: 117
-will: 112
-their: 109
-all: 105
-had: 104
-by: 101
-each: 96
-or: 94
-so: 93
-up: 90
-people: 89
-out: 86
-an: 85
-about: 84
-than: 84
-into: 84
-some: 81
-were: 81
-should: 76
-directions: 75
-answer: 74
-them: 73
-other: 72
-then: 71
-been: 69
-years: 69
-time: 69
-best: 68
-many: 67
-water: 64
-because: 62
-sentences: 61
-him: 61
-very: 60
-after: 59
-city: 59
-only: 59
-no: 58
-who: 58
-go: 56
-school: 54
-new: 52
-now: 52
-letter: 51
-what: 50
-also: 50
-would: 50
-life: 49
-do: 49
-two: 48
-marked: 48
-just: 47
-sheet: 46
-four: 46
-corresponding: 45
-according: 45
-old: 44
-true: 43
-money: 43
-day: 43
-questions: 43
-first: 42
-made: 42
-take: 42
-your: 42
-where: 41
-make: 41
-work: 41
-based: 41
-five: 40
-went: 40
-help: 40
-long: 40
-choices: 39
-these: 39
-passages: 39
-home: 39
-over: 39
-world: 39
-reading: 38
-most: 38
-paragraph: 38
-young: 37
-blacken: 37
-food: 37
-says: 37
-like: 37
-get: 37
-use: 37
-found: 37
-students: 37
-statements: 36
-how: 36
-schools: 35
-back: 35
-three: 35
-section: 34
-going: 34
-children: 33
-too: 32
-good: 32
-often: 32
-last: 32
-friends: 31
-come: 31
-could: 31
-year: 31
-chinese: 30
-way: 30
-see: 30
-english: 30
-little: 30
-such: 29
-few: 29
-solar: 29
-fire: 29
-sea: 29
-me: 29
-our: 29
-came: 29
-off: 28
-put: 28
-said: 28
-hard: 28
-any: 28
-much: 28
-may: 28
-every: 28
-us: 28
-used: 28
-comprehension: 28
-air: 28
-million: 28
-word: 27
-next: 27
-taken: 27
-got: 27
-choose: 27
-while: 26
-keep: 26
-man: 26
-end: 26
-down: 25
-translate: 25
-know: 25
-animals: 25
-sentence: 25
-before: 25
-father: 25
-house: 25
-learn: 24
-during: 24
-group: 24
-those: 24
-away: 24
-identify: 24
-still: 24
-does: 23
-probably: 23
-through: 23
-kids: 23
-even: 23
-did: 23
-mother: 23
-well: 22
-great: 22
-parents: 22
-ban: 22
-here: 22
-health: 22
-american: 22
-since: 22
-live: 21
-read: 21
-braille: 21
-died: 21
-books: 21
-known: 21
-say: 21
-around: 21
-left: 21
-being: 21
-called: 21
-worked: 21
-both: 21
-meaning: 21
-age: 21
-never: 20
-it's: 20
-choice: 20
-lot: 20
-maggie: 20
-family: 20
-think: 20
-college: 20
-play: 20
-give: 20
-place: 20
-look: 20
-become: 19
-business: 19
-followed: 19
-sure: 19
-it’s: 19
-must: 19
-beetles: 19
-title: 19
-closest: 18
-better: 18
-another: 18
-big: 18
-week: 18
-note: 18
-car: 18
-success: 18
-games: 18
-national: 18
-book: 18
-frying: 17
-today: 17
-need: 17
-high: 17
-th: 17
-once: 17
-making: 17
-hall: 17
-days: 17
-working: 17
-person: 17
-party: 17
-york: 17
-idea: 17
-plastic: 16
-born: 16
-helena: 16
-between: 16
-jim: 16
-why: 16
-started: 16
-oldest: 16
-own: 16
-short: 16
-second: 16
-bricks: 16
-bottle: 16
-education: 16
-clearly: 16
-became: 16
-love: 16
-change: 16
-important: 16
-class: 16
-ways: 16
-tomatoes: 16
-along: 16
-breast: 16
-thing: 15
-flores: 15
-though: 15
-call: 15
-tell: 15
-black: 15
-walk: 15
-bottled: 15
-always: 15
-already: 15
-means: 15
-write: 15
-center: 15
-care: 15
-mcdonald’s: 15
-local: 15
-ella: 15
-refer: 15
-began: 15
-several: 15
-looking: 15
-single: 15
-pay: 14
-members: 14
-report: 14
-energy: 14
-doctor: 14
-morning: 14
-study: 14
-soon: 14
-popular: 14
-please: 14
-feeding: 14
-translation: 14
-team: 14
-scientists: 14
-moved: 14
-california: 14
-having: 14
-ever: 14
-oil: 14
-alone: 14
-late: 14
-same: 14
-project: 13
-mark: 13
-move: 13
-structure: 13
-industry: 13
-leave: 13
-without: 13
-organization: 13
-took: 13
-reefs: 13
-completes: 13
-arts: 13
-until: 13
-meanings: 13
-sold: 13
-thorpe: 13
-job: 13
-researchers: 13
-birthday: 13
-girls: 13
-phones: 13
-doing: 13
-buy: 13
-turn: 13
-public: 13
-space: 13
-small: 13
-everyone: 13
-large: 13
-eggs: 13
-line: 13
-power: 13
-stayed: 13
-feel: 13
-cell: 13
-boy: 13
-parts: 13
-dollars: 13
-context: 13
-everything: 13
-using: 13
-pipeline: 13
-although: 13
-trees: 13
-einstein: 12
-hours: 12
-sibling: 12
-panels: 12
-room: 12
-able: 12
-far: 12
-save: 12
-china: 12
-right: 12
-something: 12
-music: 12
-correct: 12
-together: 12
-minutes: 12
-fryers: 12
-app: 12
-want: 12
-street: 12
-system: 12
-unfinished: 12
-different: 12
-cost: 12
-set: 12
-blank: 12
-company: 12
-reached: 12
-vocabulary: 12
-viruses: 12
-future: 12
-dry: 12
-green: 11
-turtles: 11
-coming: 11
-across: 11
-bad: 11
-comes: 11
-asteroid: 11
-gave: 11
-against: 11
-main: 11
-cannot: 11
-higher: 11
-australia: 11
-follow: 11
-told: 11
-blanks: 11
-again: 11
-under: 11
-road: 11
-lives: 11
-incomplete: 11
-behind: 11
-underlined: 11
-barry: 11
-goal: 11
-risk: 11
-identification: 11
-office: 11
-summer: 11
-rogers: 11
-meeting: 11
-order: 11
-wants: 11
-grown: 11
-tobacco: 11
-blind: 11
-half: 11
-yesterday: 11
-gaming: 11
-passed: 11
-question: 11
-president: 11
-animal: 11
-cloze: 11
-things: 11
-ago: 11
-siblings: 11
-enough: 10
-times: 10
-tomato: 10
-someone: 10
-almost: 10
-phone: 10
-red: 10
-problem: 10
-stay: 10
-six: 10
-longer: 10
-dart: 10
-problems: 10
-busy: 10
-death: 10
-falls: 10
-later: 10
-seen: 10
-river: 10
-countries: 10
-eight: 10
-attention: 10
-disease: 10
-species: 10
-face: 10
-thousands: 10
-country: 10
-difficult: 10
-really: 10
-fed: 10
-least: 10
-bill: 10
-hardly: 10
-playing: 10
-news: 10
-thought: 10
-matter: 10
-james: 10
-areas: 10
-rather: 10
-baby: 10
-baobab: 10
-decide: 10
-wrong: 10
-broke: 10
-north: 10
-hughes: 10
-night: 10
-living: 10
-department: 10
-teacher: 10
-building: 10
-whether: 10
-university: 10
-finished: 10
-medical: 10
-drink: 9
-reason: 9
-plants: 9
-brown: 9
-rest: 9
-deal: 9
-tool: 9
-community: 9
-strong: 9
-fall: 9
-healthy: 9
-hand: 9
-model: 9
-jobs: 9
-history: 9
-however: 9
-lego: 9
-contact: 9
-show: 9
-marley: 9
-others: 9
-eat: 9
-won: 9
-given: 9
-close: 9
-miles: 9
-number: 9
-friendly: 9
-might: 9
-visit: 9
-saw: 9
-poor: 9
-video: 9
-message: 9
-older: 9
-decided: 9
-fits: 9
-usually: 9
-groups: 9
-americans: 9
-returned: 9
-less: 9
-quite: 9
-kind: 9
-global: 9
-gyms: 9
-deep: 9
-above: 9
-sale: 9
-baobabs: 9
-yet: 9
-earth: 9
-raised: 9
-brother: 9
-nothing: 9
-noticed: 9
-worldwide: 9
-bought: 9
-ten: 9
-soccer: 9
-changes: 9
-sometimes: 9
-plant: 9
-howard: 9
-wanted: 9
-case: 8
-rusty: 8
-cream: 8
-saved: 8
-store: 8
-limited: 8
-armstrong's: 8
-bottles: 8
-hope: 8
-babies: 8
-fly: 8
-adult: 8
-provide: 8
-climate: 8
-either: 8
-met: 8
-child: 8
-neighborhood: 8
-land: 8
-remain: 8
-monument: 8
-learned: 8
-german: 8
-safety: 8
-takes: 8
-cities: 8
-coral: 8
-talk: 8
-hotel: 8
-open: 8
-low: 8
-dog: 8
-outside: 8
-side: 8
-start: 8
-looks: 8
-knew: 8
-happy: 8
-weather: 8
-voice: 8
-works: 8
-train: 8
-fried: 8
-foods: 8
-construction: 8
-sports: 8
-easy: 8
-cooper: 8
-men: 8
-find: 8
-lost: 8
-walker: 8
-simple: 8
-japan: 8
-points: 8
-quiet: 8
-grow: 8
-run: 8
-overweight: 8
-access: 8
-raise: 8
-states: 8
-protect: 8
-heard: 8
-arrived: 8
-course: 8
-corals: 8
-door: 8
-game: 8
-among: 8
-paid: 8
-beautiful: 8
-finish: 7
-prepare: 7
-exciting: 7
-free: 7
-protest: 7
-informed: 7
-bring: 7
-besides: 7
-obama: 7
-suit: 7
-early: 7
-expensive: 7
-jane: 7
-completely: 7
-especially: 7
-whole: 7
-finally: 7
-per: 7
-talked: 7
-whose: 7
-created: 7
-except: 7
-decision: 7
-wrote: 7
-owners: 7
-sight: 7
-neither: 7
-cause: 7
-period: 7
-past: 7
-white: 7
-including: 7
-smoking: 7
-hour: 7
-stood: 7
-available: 7
-control: 7
-humans: 7
-built: 7
-benefits: 7
-knows: 7
-research: 7
-human: 7
-die: 7
-chance: 7
-costs: 7
-successful: 7
-difference: 7
-hospital: 7
-create: 7
-named: 7
-rich: 7
-helena’: 7
-preserve: 7
-within: 7
-woman: 7
-near: 7
-fish: 7
-heart: 7
-written: 7
-third: 7
-believe: 7
-state: 7
-enjoy: 7
-thinking: 7
-planning: 7
-fat: 7
-largest: 7
-africa: 7
-lessons: 7
-solution: 7
-taking: 7
-spacesuit: 7
-spend: 7
-led: 7
-makes: 7
-culture: 7
-front: 7
-prize: 7
-england: 7
-customers: 7
-collect: 7
-graduated: 7
-jayden: 7
-quickly: 7
-join: 7
-instead: 7
-tree: 7
-vegetables: 7
-designed: 7
-beyond: 7
-spent: 7
-forward: 7
-america: 7
-kept: 7
-language: 7
-meet: 7
-broken: 7
-smoke: 7
-showed: 7
-rock: 7
-war: 7
-fog: 6
-singing: 6
-encourage: 6
-fast: 6
-similar: 6
-congress: 6
-themselves: 6
-garden: 6
-watered: 6
-limit: 6
-launched: 6
-cooper's: 6
-activities: 6
-gym: 6
-killed: 6
-hsa: 6
-island: 6
-creating: 6
-station: 6
-anything: 6
-types: 6
-fell: 6
-spring: 6
-received: 6
-mayor: 6
-beach: 6
-nasm: 6
-evidence: 6
-jump: 6
-exam: 6
-randall: 6
-government: 6
-wide: 6
-beside: 6
-watch: 6
-interested: 6
-mind: 6
-bed: 6
-nearly: 6
-inside: 6
-ground: 6
-indian: 6
-display: 6
-pothole: 6
-events: 6
-married: 6
-south: 6
-result: 6
-held: 6
-bigger: 6
-campaign: 6
-rain: 6
-established: 6
-spillover: 6
-invited: 6
-habit: 6
-understand: 6
-adults: 6
-swim: 6
-likely: 6
-avoid: 6
-done: 6
-increased: 6
-easily: 6
-lived: 6
-normal: 6
-phrase: 6
-nest: 6
-eyes: 6
-wildlife: 6
-active: 6
-powerful: 6
-nt: 6
-dias: 6
-tip: 6
-stop: 6
-rules: 6
-improve: 6
-emergency: 6
-realized: 6
-advice: 6
-museum: 6
-color: 6
-wings: 6
-population: 6
-pandemic: 6
-medicine: 6
-database: 6
-point: 6
-explained: 6
-month: 6
-test: 6
-standing: 6
-serious: 6
-natural: 6
-women: 6
-diseases: 6
-danger: 6
-plastics: 6
-unable: 6
-affected: 6
-hawaii: 6
-build: 6
-records: 6
-fewer: 6
-farther: 6
-himself: 6
-mainly: 6
-lead: 6
-getting: 6
-bus: 6
-dogs: 6
-mission: 6
-design: 6
-needed: 6
-traditional: 6
-london: 6
-top: 6
-football: 6
-published: 6
-total: 6
-trip: 6
-walking: 6
-park: 6
-environment: 6
-plans: 6
-habits: 6
-allow: 6
-opened: 6
-vassar: 6
-distances: 6
-teachers: 6
-postcard: 6
-doesn’t: 6
-ll: 6
-independence: 6
-wet: 6
-grew: 6
-moving: 6
-peoples: 6
-believed: 6
-real: 6
-safe: 6
-looked: 6
-girl: 6
-fitness: 6
-taste: 6
-anxiety: 6
-skin: 6
-shanghai: 5
-begin: 5
-lectures: 5
-disorder: 5
-source: 5
-ask: 5
-native: 5
-nea: 5
-century: 5
-beijing: 5
-indians: 5
-consumed: 5
-caught: 5
-auction: 5
-return: 5
-african: 5
-toward: 5
-term: 5
-boys: 5
-developed: 5
-present: 5
-send: 5
-brain: 5
-positive: 5
-trend: 5
-hunting: 5
-bolivia: 5
-gold: 5
-speak: 5
-selection: 5
-weasel: 5
-walked: 5
-approach: 5
-tools: 5
-amount: 5
-student: 5
-parent: 5
-earn: 5
-biggest: 5
-exactly: 5
-relationship: 5
-behavior: 5
-terrible: 5
-children’s: 5
-angry: 5
-program: 5
-force: 5
-growing: 5
-receive: 5
-historical: 5
-fishing: 5
-alive: 5
-can't: 5
-universities: 5
-friday: 5
-foreign: 5
-interesting: 5
-colleges: 5
-fruits: 5
-calls: 5
-bit: 5
-step: 5
-bleaching: 5
-addition: 5
-bank: 5
-dead: 5
-learning: 5
-reaching: 5
-law: 5
-temperature: 5
-listen: 5
-played: 5
-conditions: 5
-monuments: 5
-special: 5
-attack: 5
-vacation: 5
-they: 5
-fluently: 5
-tests: 5
-classes: 5
-television: 5
-sun: 5
-remember: 5
-shop: 5
-friend: 5
-mo: 5
-accident: 5
-adding: 5
-key: 5
-ella's: 5
-fun: 5
-products: 5
-tomorrow: 5
-full: 5
-helped: 5
-remembered: 5
-exist: 5
-supply: 5
-mcdonald's: 5
-pass: 5
-protected: 5
-changed: 5
-seldom: 5
-process: 5
-player: 5
-sweet: 5
-area: 5
-graduate: 5
-develop: 5
-collision: 5
-currently: 5
-cultural: 5
-recent: 5
-steps: 5
-rivalry: 5
-colleagues: 5
-degradation: 5
-afraid: 5
-joseph: 5
-survive: 5
-restaurant: 5
-social: 5
-daughter: 5
-cin: 5
-break: 5
-moon: 5
-terms: 5
-daily: 5
-writing: 5
-dropped: 5
-guinness: 5
-story: 5
-site: 5
-drugs: 5
-impact: 5
-japanese: 5
-john: 5
-that: 5
-police: 5
-twenty: 5
-french: 5
-eating: 5
-pushed: 5
-sheridan: 5
-lisa: 5
-ability: 5
-form: 5
-entrepreneurship: 5
-felt: 5
-studied: 5
-ture: 5
-path: 5
-female: 5
-therefore: 5
-families: 5
-information: 5
-urban: 5
-minute: 5
-classroom: 5
-entrepreneurs: 5
-hopes: 5
-developing: 5
-tend: 5
-planned: 5
-rivals: 5
-teaching: 5
-carefully: 5
-concerned: 5
-spread: 5
-simply: 5
-drinking: 5
-sent: 5
-hot: 5
-orbit: 5
-rowan: 5
-visited: 5
-birds: 4
-tells: 4
-army: 4
-range: 4
-offer: 4
-responsibility: 4
-training: 4
-companies: 4
-thirsty: 4
-blood: 4
-hit: 4
-jones: 4
-lose: 4
-opportunities: 4
-excessive: 4
-nesting: 4
-monkeys: 4
-couple: 4
-library: 4
-charged: 4
-instruction: 4
-shows: 4
-assemblyman: 4
-edward: 4
-fit: 4
-contain: 4
-economies: 4
-math: 4
-charge: 4
-ale: 4
-neighborhoods: 4
-milk: 4
-drop: 4
-badly: 4
-wondering: 4
-nine: 4
-major: 4
-there’s: 4
-suffered: 4
-fruit: 4
-dust: 4
-ones: 4
-smiths: 4
-serve: 4
-relationships: 4
-desert: 4
-excited: 4
-worth: 4
-moves: 4
-kick: 4
-don: 4
-unless: 4
-proposed: 4
-sky: 4
-escaped: 4
-grandpa: 4
-talking: 4
-example: 4
-uncle: 4
-airport: 4
-wait: 4
-rubinstein: 4
-realize: 4
-wasn't: 4
-acid: 4
-pack: 4
-manager: 4
-wife: 4
-entire: 4
-places: 4
-plan: 4
-star: 4
-jams: 4
-dakota: 4
-series: 4
-mary: 4
-metal: 4
-mathew: 4
-bowl: 4
-confidence: 4
-grass: 4
-bike: 4
-edge: 4
-dollar: 4
-islands: 4
-suggested: 4
-beetle: 4
-programs: 4
-touch: 4
-richest: 4
-signs: 4
-ross: 4
-complete: 4
-cigarettes: 4
-bin: 4
-spoke: 4
-avoided: 4
-ahead: 4
-establishment: 4
-sunlight: 4
-potatoes: 4
-egg: 4
-method: 4
-remained: 4
-potholes: 4
-son: 4
-rainforests: 4
-include: 4
-try: 4
-cfor: 4
-prevent: 4
-wildebeests: 4
-homework: 4
-newspaper: 4
-nor: 4
-actually: 4
-heat: 4
-officials: 4
-coop: 4
-jackson: 4
-punished: 4
-san: 4
-funding: 4
-achieve: 4
-career: 4
-announced: 4
-dangerous: 4
-lawmakers: 4
-ranking: 4
-europe: 4
-latest: 4
-detectors: 4
-seven: 4
-federal: 4
-recorded: 4
-driving: 4
-supermarket: 4
-confident: 4
-houses: 4
-characters: 4
-policies: 4
-kenny: 4
-purpose: 4
-united: 4
-promote: 4
-eye: 4
-discover: 4
-porter: 4
-filled: 4
-hundred: 4
-dancing: 4
-traffic: 4
-andaman: 4
-turned: 4
-elderly: 4
-defense: 4
-liked: 4
-account: 4
-promised: 4
-whom: 4
-cto: 4
-logging: 4
-countryside: 4
-accept: 4
-advantage: 4
-huge: 4
-sell: 4
-hurry: 4
-injuries: 4
-performed: 4
-excuse: 4
-lack: 4
-experts: 4
-allowed: 4
-appeared: 4
-private: 4
-sand: 4
-losing: 4
-field: 4
-studies: 4
-movies: 4
-obsessed: 4
-impossible: 4
-grows: 4
-mesh: 4
-gone: 4
-expected: 4
-tiny: 4
-box: 4
-stores: 4
-evening: 4
-communities: 4
-yellow: 4
-add: 4
-donald: 4
-shirt: 4
-unlikely: 4
-maine: 4
-millions: 4
-stand: 4
-streets: 4
-songs: 4
-occurred: 4
-larger: 4
-mental: 4
-audio: 4
-track: 4
-fact: 4
-install: 4
-measure: 4
-shou: 4
-examination: 4
-asked: 4
-leaving: 4
-size: 4
-estimated: 4
-wild: 4
-measures: 4
-modern: 4
-support: 4
-pollution: 4
-data: 4
-discovered: 4
-common: 4
-direction: 4
-sleep: 4
-classmates: 4
-injured: 4
-careful: 4
-virus: 4
-keeps: 4
-sussman: 4
-level: 4
-widely: 4
-protection: 4
-mistakes: 4
-luke: 4
-tried: 4
-outsiders: 4
-practice: 4
-sioux: 4
-shall: 4
-thus: 4
-stick: 4
-successfully: 4
-wider: 4
-explain: 4
-causes: 4
-chicken: 4
-waters: 4
-frequently: 4
-india: 4
-busiest: 4
-fond: 4
-sticks: 4
-production: 4
-enforced: 4
-valley: 4
-doctors: 4
-body: 4
-months: 4
-custom: 4
-loved: 4
-science: 4
-mountain: 4
-cold: 4
-wooden: 4
-didymos: 4
-view: 4
-partly: 4
-weeks: 3
-position: 3
-patients: 3
-appear: 3
-skills: 3
-replaced: 3
-speaking: 3
-anniversary: 3
-feet: 3
-mothers: 3
-residents: 3
-chain: 3
-beauty: 3
-players: 3
-connected: 3
-interest: 3
-smarter: 3
-march: 3
-author: 3
-inform: 3
-obvious: 3
-protecting: 3
-arrows: 3
-wolf: 3
-roots: 3
-version: 3
-extraordinary: 3
-welcome: 3
-detect: 3
-tower: 3
-pop: 3
-officer: 3
-threw: 3
-attend: 3
-blame: 3
-surprised: 3
-entered: 3
-guilty: 3
-lovely: 3
-shocked: 3
-grand: 3
-yearly: 3
-dictionary: 3
-courage: 3
-treat: 3
-missing: 3
-crowded: 3
-shelter: 3
-aside: 3
-described: 3
-germany: 3
-mike: 3
-damage: 3
-baseball: 3
-seeing: 3
-hey: 3
-nature: 3
-stands: 3
-nobel: 3
-dinner: 3
-generation: 3
-harm: 3
-enjoyed: 3
-attract: 3
-installed: 3
-pentathlon: 3
-decathlon: 3
-coffee: 3
-perspective: 3
-spending: 3
-reach: 3
-tradition: 3
-newly: 3
-attitude: 3
-failed: 3
-world's: 3
-resist: 3
-temperatures: 3
-leaks: 3
-shortage: 3
-affect: 3
-experienced: 3
-strange: 3
-leaves: 3
-beaufort: 3
-unlike: 3
-appearance: 3
-fame: 3
-shopping: 3
-couldn't: 3
-1960s: 3
-equal: 3
-responsible: 3
-gifts: 3
-city’s: 3
-surprising: 3
-deer: 3
-washing: 3
-quick: 3
-hich: 3
-toronto: 3
-worried: 3
-throwing: 3
-environments: 3
-faced: 3
-ave: 3
-wall: 3
-talent: 3
-ill: 3
-heavy: 3
-alike: 3
-damaged: 3
-clerk: 3
-starting: 3
-declared: 3
-bobby: 3
-happens: 3
-klein: 3
-parents': 3
-famous: 3
-finding: 3
-athlete: 3
-ideas: 3
-below: 3
-movement: 3
-succeed: 3
-needs: 3
-billion: 3
-reputation: 3
-particularly: 3
-capital: 3
-honest: 3
-supposed: 3
-lunch: 3
-disappointed: 3
-middle: 3
-youngest: 3
-comparing: 3
-claes: 3
-else: 3
-character: 3
-medals: 3
-seems: 3
-statement: 3
-running: 3
-movie: 3
-informing: 3
-wear: 3
-variety: 3
-ending: 3
-treasure: 3
-restrict: 3
-unfortunately: 3
-thousand: 3
-dart’s: 3
-lonely: 3
-extremely: 3
-guest: 3
-dishes: 3
-stopped: 3
-items: 3
-delicious: 3
-treated: 3
-weekend: 3
-humidity: 3
-hold: 3
-pleasant: 3
-nswer: 3
-ding: 3
-energetic: 3
-smith: 3
-dropping: 3
-sandy: 3
-ride: 3
-suddenly: 3
-armstrong: 3
-trying: 3
-olesen: 3
-bottom: 3
-lasted: 3
-emergencies: 3
-brazil: 3
-ted: 3
-edinburgh: 3
-contaminated: 3
-proposal: 3
-brother's: 3
-importance: 3
-floor: 3
-speaks: 3
-suggests: 3
-sir: 3
-allows: 3
-george: 3
-locations: 3
-online: 3
-exhibition: 3
-lennox: 3
-soft: 3
-kill: 3
-harder: 3
-highest: 3
-treatment: 3
-meat: 3
-journey: 3
-founder: 3
-banned: 3
-raising: 3
-isolated: 3
-putting: 3
-educated: 3
-practical: 3
-cool: 3
-worrying: 3
-effort: 3
-illness: 3
-peter: 3
-covered: 3
-survival: 3
-secretary: 3
-contribute: 3
-bowling: 3
-salary: 3
-childhood: 3
-throw: 3
-france: 3
-leading: 3
-various: 3
-artist: 3
-sources: 3
-catch: 3
-nationwide: 3
-exercise: 3
-internet: 3
-struggle: 3
-tension: 3
-sick: 3
-pairs: 3
-francisco: 3
-allene: 3
-frightened: 3
-mac: 3
-prices: 3
-healthier: 3
-november: 3
-asteroids: 3
-whenever: 3
-sides: 3
-reasons: 3
-style: 3
-formula: 3
-cake: 3
-teamwork: 3
-cheap: 3
-carry: 3
-lay: 3
-calling: 3
-round: 3
-dark: 3
-service: 3
-growth: 3
-till: 3
-stealing: 3
-keeping: 3
-imaginations: 3
-background: 3
-pulled: 3
-younger: 3
-boring: 3
-devices: 3
-citizens: 3
-preparing: 3
-british: 3
-certain: 3
-relief: 3
-etp: 3
-stems: 3
-behaviors: 3
-blamed: 3
-freshwater: 3
-dial: 3
-warning: 3
-nice: 3
-bills: 3
-birth: 3
-accepted: 3
-extinction: 3
-possible: 3
-anyone: 3
-recover: 3
-cent: 3
-kid: 3
-lecture: 3
-spot: 3
-argue: 3
-storm: 3
-spite: 3
-thirty: 3
-miracle: 3
-exercises: 3
-tonya: 3
-town: 3
-planetary: 3
-district: 3
-catering: 3
-wildebeest: 3
-push: 3
-art: 3
-ion: 3
-camp: 3
-moisture: 3
-hear: 3
-opportunity: 3
-european: 3
-olympic: 3
-requires: 3
-primary: 3
-non: 3
-borrowed: 3
-professor: 3
-possibility: 3
-understanding: 3
-increasing: 3
-sooner: 3
-concept: 3
-association: 3
-sitting: 3
-bans: 3
-notice: 3
-nearby: 3
-presents: 3
-threats: 3
-lots: 3
-unhealthy: 3
-hidalgo: 3
-distance: 3
-entrance: 3
-passion: 3
-modest: 3
-moment: 3
-biker: 3
-sensitive: 3
-valuable: 3
-september: 3
-searching: 3
-happened: 3
-traveled: 3
-further: 3
-lucy: 3
-kym: 3
-hollow: 3
-kitchen: 3
-noisy: 3
-chad: 3
-menu: 3
-improved: 3
-scientist: 3
-miss: 3
-prototype: 3
-shouldn't: 3
-poland: 3
-workers: 3
-increase: 3
-share: 3
-negative: 3
-legal: 3
-results: 3
-numbers: 3
-sister: 3
-trouble: 3
-generally: 3
-prepared: 3
-rescue: 3
-easier: 3
-goes: 3
-contest: 3
-teach: 3
-woods: 3
-check: 3
-collected: 3
-objects: 3
-stress: 3
-board: 3
-sunday: 3
-alice: 3
-threat: 3
-breakfast: 3
-page: 3
-critical: 3
-thinks: 3
-umbrella: 3
-extra: 3
-rise: 3
-engine: 3
-ran: 3
-particular: 3
-gives: 3
-basketball: 3
-spends: 3
-mean: 3
-greatest: 3
-rose: 3
-closer: 3
-central: 3
-unloaded: 3
-destroyed: 3
-environmental: 3
-tough: 3
-displayed: 3
-chances: 3
-affects: 3
-rains: 3
-publishing: 3
-ahas: 3
-cut: 3
-stage: 3
-reduced: 3
-reduce: 3
-type: 3
-basis: 3
-destroy: 2
-impoverished: 2
-ked: 2
-gills: 2
-bup: 2
-borrow: 2
-compromise: 2
-clair: 2
-father’s: 2
-status: 2
-hen: 2
-fetch: 2
-weekends: 2
-housing: 2
-telling: 2
-self: 2
-soil: 2
-concern: 2
-taxes: 2
-seniors: 2
-oldenburg: 2
-feeling: 2
-underwater: 2
-hospitalized: 2
-foot: 2
-tribe: 2
-eliminate: 2
-watching: 2
-jerry: 2
-honestly: 2
-lions: 2
-schoolchildren: 2
-partially: 2
-convinced: 2
-king: 2
-relax: 2
-morn: 2
-specialized: 2
-resource: 2
-professors: 2
-toy: 2
-sixty: 2
-helps: 2
-hat: 2
-cases: 2
-boss: 2
-brothers: 2
-gain: 2
-celebrate: 2
-branches: 2
-opinion: 2
-discoveries: 2
-peaceful: 2
-advanced: 2
-caused: 2
-combined: 2
-yonkers: 2
-forests: 2
-goods: 2
-decreasing: 2
-turtle's: 2
-courthouse: 2
-certainly: 2
-approaching: 2
-spacecraft: 2
-scientific: 2
-hated: 2
-threatens: 2
-that's: 2
-mistake: 2
-cleared: 2
-claimed: 2
-twice: 2
-victims: 2
-listening: 2
-brittle: 2
-varies: 2
-seats: 2
-computer: 2
-machine: 2
-grants: 2
-includes: 2
-jenny: 2
-sound: 2
-donations: 2
-diligence: 2
-speak: 2
-uses: 2
-covers: 2
-jose: 2
-society: 2
-electricity: 2
-sport: 2
-oklahoma: 2
-windows: 2
-memoir: 2
-causing: 2
-jars: 2
-rice: 2
-spaces: 2
-eats: 2
-carried: 2
-frailer: 2
-forest: 2
-depend: 2
-continues: 2
-standard: 2
-arrested: 2
-swordsman: 2
-administration: 2
-crime: 2
-privacy: 2
-asian: 2
-dif: 2
-neil: 2
-houston: 2
-wood: 2
-paula: 2
-parallel: 2
-raises: 2
-double: 2
-controversy: 2
-fry: 2
-agree: 2
-efficiently: 2
-schooling: 2
-ship: 2
-smiled: 2
-worse: 2
-powered: 2
-tinted: 2
-scarcely: 2
-action: 2
-stepped: 2
-ain: 2
-clock: 2
-hav: 2
-honesty: 2
-disturbed: 2
-severely: 2
-fresh: 2
-cas: 2
-losses: 2
-wagner: 2
-ato: 2
-kayla: 2
-weaker: 2
-happier: 2
-admired: 2
-matthew: 2
-you'd: 2
-offices: 2
-neutral: 2
-skilled: 2
-juices: 2
-conscious: 2
-wil: 2
-immediately: 2
-stephan: 2
-dat: 2
-kilograms: 2
-pity: 2
-nonprofit: 2
-speed: 2
-blues: 2
-slate: 2
-tens: 2
-stream: 2
-refused: 2
-reducing: 2
-granted: 2
-sales: 2
-protesters: 2
-sweden: 2
-experiments: 2
-functional: 2
-city's: 2
-gradually: 2
-firm: 2
-warns: 2
-strict: 2
-pounds: 2
-favorite: 2
-joining: 2
-tuesday: 2
-upset: 2
-october: 2
-connection: 2
-campuses: 2
-baths: 2
-comprehension30: 2
-caricatures: 2
-landing: 2
-attended: 2
-talks: 2
-clifford: 2
-pets: 2
-unusual: 2
-originally: 2
-obviously: 2
-useless: 2
-tall: 2
-identity: 2
-earned: 2
-rainy: 2
-damp: 2
-reporter: 2
-primarily: 2
-waste: 2
-din: 2
-cooking: 2
-creatures: 2
-people's: 2
-jive: 2
-foundation: 2
-sodas: 2
-gambler: 2
-aon: 2
-photography: 2
-concert: 2
-stations: 2
-ready: 2
-win: 2
-hungry: 2
-italy: 2
-hometown: 2
-prior: 2
-supporters: 2
-loneliness: 2
-trainers: 2
-promotes: 2
-pandemics: 2
-aim: 2
-cross: 2
-mud: 2
-drops: 2
-snow: 2
-hate: 2
-subjects: 2
-contacted: 2
-slowly: 2
-gofundme: 2
-comfortable: 2
-june: 2
-mrs: 2
-postcards: 2
-counties: 2
-cide: 2
-western: 2
-taken: 2
-cwhy: 2
-parks: 2
-beans: 2
-husband: 2
-helpful: 2
-harmful: 2
-everywhere: 2
-crow: 2
-purchase: 2
-development: 2
-luck: 2
-goals: 2
-artwork: 2
-poem: 2
-merchant: 2
-policy: 2
-complained: 2
-gentle: 2
-clear: 2
-explaining: 2
-loves: 2
-income: 2
-whe: 2
-degrees: 2
-devote: 2
-ipad: 2
-personal: 2
-spoken: 2
-hurting: 2
-incorporate: 2
-drank: 2
-shortly: 2
-head: 2
-hoose: 2
-waiter: 2
-pitting: 2
-treasures: 2
-funeral: 2
-travel: 2
-peace: 2
-fan: 2
-hobby: 2
-ended: 2
-ready: 2
-removed: 2
-blocks: 2
-appropriate: 2
-mostly: 2
-perform: 2
-seat: 2
-productions: 2
-rural: 2
-sounds: 2
-increasingly: 2
-toronto's: 2
-boats: 2
-tons: 2
-specific: 2
-discriminatory: 2
-plus: 2
-lake: 2
-sunk: 2
-kong: 2
-role: 2
-toys: 2
-surface: 2
-ocean: 2
-require: 2
-laws: 2
-boston: 2
-beard: 2
-spectrum: 2
-replace: 2
-industrial: 2
-dressed: 2
-encouraging: 2
-moreover: 2
-cure: 2
-paris: 2
-difficulty: 2
-grasp: 2
-added: 2
-address: 2
-risky: 2
-product: 2
-involves: 2
-hung: 2
-turns: 2
-race: 2
-nursing: 2
-sit: 2
-equipment: 2
-punch: 2
-rooms: 2
-ought: 2
-air: 2
-threatened: 2
-necessary: 2
-trust: 2
-ho: 2
-degrade: 2
-repair: 2
-rule: 2
-renewable: 2
-scene: 2
-walkable: 2
-reluctant: 2
-addictive: 2
-unwind: 2
-issue: 2
-seasons: 2
-cousin: 2
-guide: 2
-beginning: 2
-republicans: 2
-awards: 2
-fryer: 2
-minister: 2
-regular: 2
-tourists: 2
-festival: 2
-visitors: 2
-gas: 2
-name: 2
-wealthy: 2
-answered: 2
-fear: 2
-beg: 2
-seemed: 2
-rainwater: 2
-corner: 2
-messages: 2
-empty: 2
-nobody: 2
-knocked: 2
-weapons: 2
-varieties: 2
-mirrors: 2
-watched: 2
-youth: 2
-otherwise: 2
-copenhagen: 2
-afternoon: 2
-classical: 2
-economic: 2
-duty: 2
-fourth: 2
-aid: 2
-ring: 2
-businessman: 2
-weight: 2
-bush: 2
-colonies: 2
-adulthood: 2
-separate: 2
-danish: 2
-survived: 2
-curious: 2
-valves: 2
-window: 2
-shout: 2
-condition: 2
-ruins: 2
-wise: 2
-value: 2
-knobs: 2
-scholarship: 2
-pale: 2
-susan: 2
-anyway: 2
-released: 2
-grange: 2
-temper: 2
-agency: 2
-passage3: 2
-slave: 2
-exposed: 2
-target: 2
-hoped: 2
-sufficient: 2
-abandoned: 2
-henry: 2
-thanks: 2
-table: 2
-related: 2
-seconds: 2
-happiness: 2
-village: 2
-feelings: 2
-bookstore: 2
-lovesick: 2
-constant: 2
-heal: 2
-light: 2
-acquired: 2
-attacked: 2
-pleasure: 2
-chard: 2
-determine: 2
-scent: 2
-albert: 2
-creams: 2
-percent: 2
-policing: 2
-yes: 2
-farm: 2
-riverbank: 2
-nutritious: 2
-square: 2
-containers: 2
-thank: 2
-surprise: 2
-fells: 2
-continue: 2
-manage: 2
-prince: 2
-bold: 2
-possibly: 2
-anne: 2
-focuses: 2
-ensure: 2
-trump’: 2
-regions: 2
-situation: 2
-slightly: 2
-employment: 2
-employee: 2
-vacant: 2
-raining: 2
-speeds: 2
-practices: 2
-moments: 2
-twain: 2
-theater: 2
-season: 2
-lasting: 2
-willing: 2
-treats: 2
-totalled: 2
-flippers: 2
-regardless: 2
-unfair: 2
-diets: 2
-lie: 2
-shrink: 2
-potentially: 2
-car-focused: 2
-pennsylvania: 2
-genes: 2
-titus: 2
-reservation: 2
-offered: 2
-troublemaker: 2
-sites: 2
-playground: 2
-equally: 2
-cage: 2
-examined: 2
-melbourne: 2
-handwritten: 2
-protests: 2
-philadelphia: 2
-nation's: 2
-doyle: 2
-suffers: 2
-elements: 2
-supportive: 2
-ies: 2
-owned: 2
-planet: 2
-proud: 2
-happily: 2
-sense: 2
-cars: 2
-traveling: 2
-portion: 2
-persistence: 2
-magazine: 2
-pressure: 2
-christmas: 2
-governor’s: 2
-calm: 2
-cover: 2
-ubiquitous: 2
-normally: 2
-germs: 2
-bass: 2
-devoted: 2
-vegetable: 2
-glass: 2
-surgeon: 2
-consists: 2
-offers: 2
-careless: 2
-resemble: 2
-sentinel: 2
-effective: 2
-critics: 2
-storms: 2
-letters: 2
-trusted: 2
-shoot: 2
-applied: 2
-brick: 2
-noticing: 2
-separated: 2
-hoping: 2
-helping: 2
-determined: 2
-clothing: 2
-arose: 2
-fight: 2
-involved: 2
-professional: 2
-singer: 2
-typically: 2
-repaired: 2
-eventually: 2
-dig: 2
-hairs: 2
-bread: 2
-decades: 2
-glance: 2
-pick: 2
-counsel: 2
-governor: 2
-paper: 2
-sparked: 2
-societies: 2
-reject: 2
-drive: 2
-motion: 2
-strike: 2
-competition: 2
-factors: 2
-welcomed: 2
-levels: 2
-proven: 2
-dying: 2
-trump: 2
-balanced: 2
-easygoing: 2
-potato: 2
-polite: 2
-exceeded: 2
-physics: 2
-tourism: 2
-treasurer: 2
-hunt: 2
-pointed: 2
-gather: 2
-driver: 2
-text: 2
-bored: 2
-frank: 2
-discovery: 2
-asking: 2
-roll: 2
-royal: 2
-transfer: 2
-hands: 2
-voices: 2
-evenly: 2
-theories: 2
-yow: 2
-baggage: 2
-texas: 2
-pink: 2
-individuals: 2
-freedom: 2
-describe: 2
-express: 2
-suggest: 2
-due: 2
-washington: 2
-moreno: 2
-soda: 2
-scored: 2
-depends: 2
-member: 2
-thirds: 2
-las: 2
-pair: 2
-fights: 2
-vitamin: 2
-represent: 2
-beside: 2
-winter: 2
-facilities: 2
-saying: 2
-current: 2
-fred: 2
-migrate: 2
-warm: 2
-myself: 2
-wish: 2
-storing: 2
-evaluates: 2
-cat: 2
-buying: 2
-cheat: 2
-fou: 2
-properly: 2
-studio: 2
-compared: 2
-shift: 2
-mine: 2
-previous: 2
-earlier: 2
-legally: 2
-mining: 2
-tran: 2
-enjoys: 2
-with: 2
-kennedy: 2
-tired: 2
-homes: 2
-remains: 2
-technology: 2
-financial: 2
-final: 2
-likelihood: 2
-jean: 2
-interfering: 2
-boat: 2
-remove: 2
-highly: 2
-grateful: 2
-whitewashing: 2
-raincoat: 2
-website: 2
-difficulties: 2
-populations: 2
-nervous: 2
-tap: 2
-fine: 2
-opposition: 2
-accounted: 2
-produced: 2
-coast: 2
-breathe: 2
-aat: 2
-today’s: 2
-reported: 2
-tha: 2
-imagine: 2
-sat: 2
-recently: 2
-bomb: 2
-skinny: 2
-forbid: 2
-fifteen: 2
-doses: 2
-lies: 2
-drivers: 2
-ice: 2
-conclusion: 2
-competed: 2
-jumped: 2
-rocks: 2
-resources: 2
-rush: 2
-storage: 2
-airplane: 2
-alcohol: 2
-general: 2
-nasa: 2
-participate: 2
-hem: 2
-fats: 2
-regularly: 2
-allowing: 2
-creativity: 2
-letting: 2
-planet: 2
-shoulder: 2
-sign: 2
-methods: 2
-passengers: 2
-kenneth: 2
-produce: 2
-nations: 2
-nerves: 2
-bodies: 2
-stronger: 2
-ruin: 2
-electronic: 2
-provides: 2
-radio: 2
-feed: 2
-han: 2
-enlarged: 2
-frightening: 2
-coasts: 2
-advance: 2
-tour: 2
-worry: 2
-family: 2
-factor: 2
-wind: 2
-curriculum: 2
-herded: 2
-likes: 2
-effects: 2
-stake: 2
-forbidden: 2
-jam: 2
-engage: 2
-sad: 2
-formal: 2
-daytime: 2
-deadly: 2
-tested: 2
-price: 2
-novel: 2
-users: 2
-homeless: 2
-invite: 2
-buyer: 2
-rights: 2
-insects: 1
-elaine: 1
-impressed: 1
-thorough: 1
-wedding: 1
-bassist: 1
-assistant: 1
-surgery: 1
-bathing: 1
-tells: 1
-selassie: 1
-ranks: 1
-inner: 1
-disc: 1
-grange: 1
-advantageous: 1
-disposition: 1
-meter: 1
-truth: 1
-let: 1
-mic: 1
-gate: 1
-shadow: 1
-they've: 1
-herself: 1
-softly: 1
-midwest: 1
-reaches: 1
-tiredly: 1
-sensible: 1
-shortcomings: 1
-ica: 1
-frig: 1
-scan: 1
-husband: 1
-classified: 1
-arrange: 1
-valuable: 1
-grandpa: 1
-drilling: 1
-invent: 1
-assistants: 1
-packaged: 1
-equality: 1
-absorbed: 1
-respected: 1
-responsibly: 1
-attempt: 1
-seed: 1
-rate: 1
-walks: 1
-mother’: 1
-passing: 1
-nose: 1
-clever: 1
-arrangements: 1
-endowment: 1
-observe: 1
-formally: 1
-follow: 1
-funny: 1
-deeper: 1
-minecraft: 1
-helmet: 1
-racing: 1
-headed: 1
-detector: 1
-intended: 1
-closet: 1
-farmers: 1
-idle: 1
-stories: 1
-block: 1
-mutually: 1
-mystery: 1
-mississippi: 1
-stone: 1
-partners: 1
-oregon: 1
-crazy: 1
-conclusion: 1
-charles: 1
-college76: 1
-card: 1
-create: 1
-tribes: 1
-bothered: 1
-multimillion: 1
-bodily: 1
-gun: 1
-essence: 1
-invited: 1
-placed: 1
-furthermore: 1
-floated: 1
-preparation: 1
-anti: 1
-completed: 1
-nap: 1
-permian: 1
-guests: 1
-justified: 1
-sailor: 1
-loan: 1
-asia: 1
-served: 1
-publishers: 1
-bicycle: 1
-disgust: 1
-colorado: 1
-factory: 1
-lowe: 1
-hero: 1
-lying: 1
-discussion: 1
-guaranteed: 1
-autism: 1
-equipped: 1
-ayed: 1
-invest: 1
-rout: 1
-reward: 1
-smiling: 1
-criticize: 1
-frustrated: 1
-promise: 1
-delivered: 1
-objection: 1
-none: 1
-bolivian: 1
-smell: 1
-david: 1
-incr: 1
-director: 1
-mutual: 1
-wiener: 1
-campus: 1
-confirmed: 1
-held: 1
-preventable: 1
-deep: 1
-globally: 1
-scholars: 1
-supplies: 1
-challenge: 1
-agrees: 1
-inspired: 1
-vary: 1
-neighbors: 1
-negotiation: 1
-council: 1
-foll: 1
-rear: 1
-giving: 1
-magnificent: 1
-sidney: 1
-vanish: 1
-schedule: 1
-starts: 1
-tokyo: 1
-hatched: 1
-fought: 1
-cook: 1
-dramatic: 1
-bones: 1
-shape: 1
-contributes: 1
-attach: 1
-mile: 1
-winner: 1
-required: 1
-task: 1
-rac: 1
-wright: 1
-mad: 1
-deaths: 1
-opposed: 1
-parties: 1
-arise: 1
-beetl: 1
-hurt: 1
-slept: 1
-president's: 1
-minor: 1
-analysis: 1
-promised: 1
-employed: 1
-pres: 1
-privilege: 1
-stomach: 1
-market: 1
-lea: 1
-writer: 1
-customs: 1
-ely: 1
-sank: 1
-thicker: 1
-condense: 1
-innovation: 1
-yelling: 1
-considered: 1
-minds: 1
-burgers: 1
-peking: 1
-concerns: 1
-excite: 1
-mixed: 1
-1an: 1
-harvest: 1
-lower: 1
-b650: 1
-staying: 1
-belief: 1
-dance: 1
-costa: 1
-pouring: 1
-storey: 1
-passage': 1
-steals: 1
-tapping: 1
-flat: 1
-memories: 1
-appointment: 1
-adequately: 1
-lowering: 1
-burger: 1
-bott: 1
-attracted: 1
-soc: 1
-sars: 1
-marking: 1
-investigation: 1
-husband's: 1
-gree: 1
-packed: 1
-consume: 1
-beaches: 1
-screen: 1
-touring: 1
-psychiatrist: 1
-adapt: 1
-unhealthiness: 1
-accompanying: 1
-legend: 1
-wherever: 1
-designs: 1
-conducts: 1
-evolution: 1
-abraham: 1
-slow: 1
-disadvantages: 1
-arrive: 1
-creature: 1
-hughes: 1
-silence: 1
-stressed: 1
-stones: 1
-tank: 1
-eave: 1
-tireless: 1
-percentage: 1
-solo: 1
-dormitory: 1
-drove: 1
-isolation: 1
-flowing: 1
-celebrates: 1
-hardworking: 1
-citizen: 1
-deterioration: 1
-northward: 1
-yours: 1
-gets: 1
-meeting: 1
-someday: 1
-required: 1
-safely: 1
-lonelier: 1
-whomever: 1
-property: 1
-surely: 1
-formed: 1
-words: 1
-proof: 1
-cooling: 1
-creased: 1
-hatch: 1
-smiles: 1
-pools: 1
-paragraphs: 1
-dislike: 1
-achievement: 1
-sum: 1
-dusk: 1
-flying: 1
-strategies: 1
-nearest: 1
-shone: 1
-habitat: 1
-thirst: 1
-lays: 1
-lear: 1
-departed: 1
-memory: 1
-specialists: 1
-camping: 1
-hugh: 1
-minute: 1
-flattened: 1
-ect: 1
-scattering: 1
-gloves: 1
-corfu: 1
-motivated: 1
-producing: 1
-sunny: 1
-enlarge: 1
-runs: 1
-bare: 1
-mistakenly: 1
-human-centric: 1
-bedroom: 1
-minimum: 1
-dozen: 1
-approximately: 1
-betterment: 1
-hearing: 1
-killing: 1
-reduces: 1
-basic: 1
-advertise: 1
-sometime: 1
-injuring: 1
-safer: 1
-elevated: 1
-understood: 1
-fence: 1
-burns: 1
-professionally: 1
-hist: 1
-afforded: 1
-thin: 1
-disasters: 1
-satellites: 1
-oak: 1
-worn: 1
-carries: 1
-hitting: 1
-tomorrow’s: 1
-oddest: 1
-searchers: 1
-controversial: 1
-obey: 1
-politicians: 1
-omnivores: 1
-thorkild: 1
-refuses: 1
-medal: 1
-austra: 1
-twin: 1
-steady: 1
-touched: 1
-degree: 1
-leaders: 1
-ere: 1
-knock: 1
-grammy: 1
-expression: 1
-pleased: 1
-container: 1
-dating: 1
-improves: 1
-owing: 1
-severe: 1
-imperial: 1
-release: 1
-accused: 1
-yor: 1
-indiana: 1
-recommend: 1
-57alive: 1
-additional: 1
-rejected: 1
-afford: 1
-people’s: 1
-embarrassment: 1
-canada: 1
-resulted: 1
-emmanuel: 1
-pictures: 1
-unequal: 1
-jack: 1
-bernardo: 1
-containing: 1
-wake: 1
-nail: 1
-alphabet: 1
-activity: 1
-officers: 1
-missouri: 1
-wel: 1
-machines: 1
-recall: 1
-location: 1
-sailors: 1
-proteins: 1
-transform: 1
-generations: 1
-enforce: 1
-whatever: 1
-republican: 1
-seek: 1
-pays: 1
-realizing: 1
-chase: 1
-anywhere: 1
-continued: 1
-heated: 1
-fallow: 1
-differences: 1
-tastes: 1
-lent: 1
-oppose: 1
-scient: 1
-provided: 1
-alter: 1
-handling: 1
-truck: 1
-hunger: 1
-analyzed: 1
-interview: 1
-1940s: 1
-maybe: 1
-experiencing: 1
-cures: 1
-punishing: 1
-nanjing: 1
-confusing: 1
-maintain: 1
-cmany: 1
-troubles: 1
-security: 1
-ideal: 1
-railway: 1
-closely: 1
-transmissible: 1
-finds: 1
-musical: 1
-captain: 1
-russia: 1
-bidding: 1
-teams: 1
-curve: 1
-destruction: 1
-attractive: 1
-curiously: 1
-pet: 1
-entrepreneurial: 1
-wounded: 1
-economist: 1
-violent: 1
-delivering: 1
-appreciated: 1
-operations: 1
-strikes: 1
-cared: 1
-ctool: 1
-shut: 1
-gazing: 1
-maintained: 1
-ruining: 1
-buried: 1
-according: 1
-improving: 1
-councilors: 1
-toughness: 1
-inexperienced: 1
-volunteers: 1
-determination: 1
-arrest: 1
-europeans: 1
-leaning: 1
-encounter: 1
-rely: 1
-discuss: 1
-overcoat: 1
-crimes: 1
-intellectual: 1
-poses: 1
-generate: 1
-protagonists: 1
-roxie: 1
-thick: 1
-moreno’s: 1
-neoprene: 1
-expansion: 1
-antimony: 1
-managing: 1
-hair: 1
-thursday: 1
-dawn: 1
-colony: 1
-approval: 1
-clean: 1
-farmer: 1
-suited: 1
-supposes: 1
-currencies': 1
-globalization: 1
-lacked: 1
-forms: 1
-wes: 1
-uncontrolled: 1
-experience: 1
-contribution: 1
-plenty: 1
-sees: 1
-schoolteachers: 1
-intend: 1
-rewritten: 1
-dispute: 1
-greet: 1
-gift: 1
-seaports: 1
-answering: 1
-parenting: 1
-progress: 1
-remaining: 1
-alia: 1
-mastery: 1
-rebecca: 1
-wars: 1
-cheapest: 1
-beings: 1
-route: 1
-person’: 1
-predict: 1
-dismissed: 1
-tle: 1
-med: 1
-backing: 1
-knives: 1
-tow: 1
-telescopes: 1
-collection: 1
-inches: 1
-preserved: 1
-juice: 1
-carbohydrates: 1
-foxes: 1
-ticket: 1
-waited: 1
-notes: 1
-luke's: 1
-rarely: 1
-unnecessary: 1
-detects: 1
-writers: 1
-nonviolent: 1
-viewed: 1
-virginia: 1
-rankings: 1
-cone: 1
-grandparents': 1
-enemies: 1
-77they: 1
-sprung: 1
-bear: 1
-precious: 1
-spain: 1
-annually: 1
-seeds: 1
-12th: 1
-emotions: 1
-package: 1
-satisfactory: 1
-oor: 1
-sensing: 1
-43a: 1
-strongly: 1
-30when: 1
-raincoats: 1
-depressed: 1
-rebuild: 1
-conservationists: 1
-towards: 1
-cla: 1
-crowding: 1
-permitting: 1
-handle: 1
-stic: 1
-sole: 1
-leadership: 1
-circles: 1
-accelerate: 1
-73ain: 1
-acidic: 1
-similarities: 1
-diet: 1
-sending: 1
-flight: 1
-competing: 1
-refrigerator-size: 1
-arguing: 1
-wetlands: 1
-moderate: 1
-abuse: 1
-cinema: 1
-lobby: 1
-umber: 1
-weeds: 1
-actively: 1
-protested: 1
-discovering: 1
-greenhouse: 1
-politician: 1
-assist: 1
-glanced: 1
-aug: 1
-rodriguez: 1
-redirection: 1
-spe: 1
-shoes: 1
-layer: 1
-glasses: 1
-driven: 1
-pretest: 1
-adopted: 1
-merciless: 1
-mountains: 1
-neighbor's: 1
-naturally: 1
-bikes: 1
-businesses: 1
-pushing: 1
-fighting: 1
-twist: 1
-lone: 1
-peo: 1
-rolled: 1
-initially: 1
-increases: 1
-enjoying: 1
-addiction: 1
-robert: 1
-faces: 1
-distribut: 1
-chin: 1
-strictly: 1
-jealousy: 1
-produces: 1
-60life: 1
-patterns: 1
-giant: 1
-enjoyable: 1
-jamaica: 1
-presidency: 1
-outbreaks: 1
-judgment: 1
-reform: 1
-lucky: 1
-guitar: 1
-tur: 1
-anna: 1
-craft: 1
-losers: 1
-undergoing: 1
-bells: 1
-shapes: 1
-reasonable: 1
-ambitious: 1
-long-lost: 1
-papers: 1
-parkland: 1
-defines: 1
-staging: 1
-watering: 1
-disappearing: 1
-thinner: 1
-cooperative: 1
-clast: 1
-anderson: 1
-crowd: 1
-outsider: 1
-quality: 1
-contents: 1
-carvings: 1
-grandma's: 1
-eaten: 1
-trick: 1
-amer: 1
-publicly: 1
-makers: 1
-mak: 1
-judge: 1
-ash: 1
-beating: 1
-ctakes: 1
-poured: 1
-algae: 1
-sheridan’s: 1
-influence: 1
-sights: 1
-reluctantly: 1
-29young: 1
-ginza: 1
-excites: 1
-personally: 1
-bags: 1
-hooked: 1
-salads: 1
-truly: 1
-opposes: 1
-richmond: 1
-eldest: 1
-institutions: 1
-diligent: 1
-justice: 1
-positions: 1
-carrying: 1
-beer: 1
-jennifer’s: 1
-railings: 1
-celebration: 1
-imagined: 1
-quantity: 1
-centre: 1
-engaged: 1
-seaweed: 1
-relative: 1
-notepaper: 1
-confirm: 1
-providers: 1
-wealth: 1
-cooler: 1
-shifting: 1
-animal’s: 1
-pardon: 1
-soup: 1
-restart: 1
-independent: 1
-infer: 1
-brings: 1
-near-earth: 1
-organized: 1
-lab: 1
-identified: 1
-argued: 1
-dis: 1
-scenes: 1
-mother’s: 1
-reads: 1
-buyers: 1
-represents: 1
-prospect: 1
-shares: 1
-vegas: 1
-becoming: 1
-conti: 1
-researcher: 1
-retired: 1
-princess: 1
-finger: 1
-dedicating: 1
-let’s: 1
-donated: 1
-gallon: 1
-motorcycle: 1
-actress: 1
-davis: 1
-traditions: 1
-physically: 1
-pulling: 1
-begun: 1
-scanners: 1
-flames: 1
-instru: 1
-hundreds: 1
-barack: 1
-portions: 1
-profits: 1
-becomes: 1
-touching: 1
-yellowed: 1
-reminded: 1
-sharp: 1
-ratliff: 1
-unexpectedly: 1
-adjust: 1
-forget: 1
-enormous: 1
-streetlights: 1
-greatly: 1
-camera: 1
-rapid: 1
-thankful: 1
-worsen: 1
-coastlines: 1
-turkey: 1
-lifetime: 1
-migrating: 1
-chauvinism: 1
-supported: 1
-enlarging: 1
-cultures: 1
-delayed: 1
-pioneers: 1
-stockholm: 1
-argues: 1
-frustrating: 1
-cancer: 1
-wildfire: 1
-italians: 1
-assembly: 1
-unpredictable: 1
-happen: 1
-keeper: 1
-saf: 1
-occurring: 1
-insult: 1
-collage: 1
-image: 1
-stuck: 1
-crash: 1
-cried: 1
-victim: 1
-cents: 1
-aware: 1
-permission: 1
-wore: 1
-twists: 1
-armed: 1
-decent: 1
-prison: 1
-doubt: 1
-elena: 1
-accelerates: 1
-profession: 1
-region: 1
-bpack: 1
-lips: 1
-retail: 1
-straw: 1
-terr: 1
-puts: 1
-vel: 1
-snakes: 1
-evidently: 1
-wrapped: 1
-globe: 1
-ratter: 1
-score: 1
-preserving: 1
-piece: 1
-shorten: 1
-ood: 1
-ell: 1
-existed: 1
-changing: 1
-relying: 1
-terrorist: 1
-advertising: 1
-daudio: 1
-forty: 1
-country’: 1
-mines: 1
-riding: 1
-coff: 1
-bell: 1
-located: 1
-immunity: 1
-climates: 1
-sen: 1
-clothes: 1
-affordable: 1
-brought: 1
-proponents: 1
-haven: 1
-moist: 1
-arch: 1
-fashioned: 1
-ordered: 1
-uneven: 1
-cleaner: 1
-articles: 1
-drinks: 1
-situated: 1
-let’: 1
-fountains: 1
-elementary: 1
-policymakers: 1
-lands: 1
-cafe: 1
-altogether: 1
-everybody: 1
-strings: 1
-motherless: 1
-conducted: 1
-roads: 1
-response: 1
-sword: 1
-unprecedented: 1
-shrimp: 1
-fatally: 1
-motorcycles: 1
-beetles’: 1
-enters: 1
-permanent: 1
-orbits: 1
-sussman’s: 1
-throughout: 1
-maintenance: 1
-tal: 1
-extend: 1
-mixing: 1
-ancient: 1
-charges: 1
-responsibilities: 1
-bridges: 1
-founded: 1
-struc: 1
-rising: 1
-interests: 1
-rry’s: 1
-ism: 1
-january: 1
-locals: 1
-flow: 1
-scared: 1
-snake: 1
-winners: 1
-resign: 1
-await: 1
-motivation: 1
-afterward: 1
-sour: 1
-union: 1
-tore: 1
-24she: 1
-abilities: 1
-region’s: 1
-presented: 1
-twenty-four: 1
-introduce: 1
-super: 1
-inherited: 1
-acceptable: 1
-holes: 1
-principle: 1
-partner: 1
-waved: 1
-reusable: 1
-rank: 1
-embarrassing: 1
-bloomberg: 1
-circumstance: 1
-partial: 1
-queen: 1
-funded: 1
-celebrated: 1
-soldier: 1
-alongside: 1
-dirt: 1
-eager: 1
-exercising: 1
-numb: 1
-wasted: 1
-theory: 1
-visually: 1
-freshman: 1
-unloading: 1
-corrections: 1
-fingertips: 1
-associate: 1
-focusing: 1
-imaginative: 1
-crisis: 1
-superior: 1
-realistic: 1
-compete: 1
-laugh: 1
-bused: 1
-councilors': 1
-branching: 1
-bears: 1
-tomorrow: 1
-ers: 1
-floating: 1
-persuading: 1
-rica: 1
-jerusalem: 1
-react: 1
-wang: 1
-coons: 1
-lately: 1
-turtle: 1
-musician: 1
-unpaid: 1
-mark’s: 1
-planting: 1
-learnt: 1
-notable: 1
-indoors: 1
-instance: 1
-tes: 1
-management: 1
-destroying: 1
-bitter: 1
-shells: 1
-void: 1
-dick: 1
-anxious: 1
-stays: 1
-alert: 1
-democratic: 1
-classics: 1
-atmospheric: 1
-awkwardness: 1
-slows: 1
-operation: 1
-thief: 1
-ons: 1
-issues: 1
-toll: 1
-reductions: 1
-hang: 1
-employees: 1
-students’: 1
-dickens: 1
-wash: 1
-dir: 1
-arrival: 1
-assembly’s: 1
-athletic: 1
-intentionally: 1
-discussing: 1
-visiting: 1
-genetic: 1
-recreate: 1
-founding: 1
-reflection: 1
-conclude: 1
-grounds: 1
-prevention: 1
-harlem: 1
-swing: 1
-encounters: 1
-consistent: 1
-grandma: 1
-desk: 1
-supports: 1
-harvesting: 1
-delivery: 1
-prime: 1
-wastes: 1
-signed: 1
-hotter: 1
-refrigerator: 1
-cutting: 1
-lunchtime: 1
-weigh: 1
-downtown: 1
-administrations: 1
-highlands: 1
-scores: 1
-lowest: 1
-guess: 1
-hid: 1
-retreat: 1
-ou: 1
-ear: 1
-30c: 1
-bis: 1
-piano: 1
-efficient: 1
-material: 1
-imaginary: 1
-familiar: 1
-shouldn’t: 1
-industries: 1
-salaries: 1
-symbol: 1
-paste: 1
-switching: 1
-medicines: 1
-barrels: 1
-gathered: 1
-wishes: 1
-amazed: 1
-picked: 1
-aspirations: 1
-immense: 1
-athey: 1
-libraries: 1
-sheep: 1
-pollute: 1
-agreeable: 1
-accomplish: 1
-angeles: 1
-ells: 1
-expand: 1
-mood: 1
-malta: 1
-purchased: 1
-waiting: 1
-imply: 1
-florida’s: 1
-competitors: 1
-biology: 1
-polluted: 1
-pronunciation: 1
-mere: 1
-bird: 1
-transition: 1
-fearful: 1
-collins: 1
-rates: 1
-ordering: 1
-recognition: 1
-restless: 1
-respond: 1
-rang: 1
-strongest: 1
-holiday: 1
-barriers: 1
-awareness: 1
-haste: 1
-childish: 1
-link: 1
-edition: 1
-breaching: 1
-hesitate: 1
-differs: 1
-loo: 1
-pockets: 1
-intentional: 1
-belongings: 1
-risks: 1
-asleep: 1
-favorable: 1
-eps: 1
-fasten: 1
-election: 1
-doubtful: 1
-reader: 1
-elder: 1
-sightseeing: 1
-noble: 1
-responds: 1
-considering: 1
-morison: 1
-disadvantage: 1
-escape: 1
-eases: 1
-decade: 1
-boundaries: 1
-filling: 1
-match: 1
-backyard: 1
-stopping: 1
-dozens: 1
-unknown: 1
-prospects: 1
-post: 1
-coastline: 1
-shown: 1
-wine: 1
-pieces: 1
-ignore: 1
-systems: 1
-torres: 1
-d2022: 1
-italian: 1
-gentleman: 1
-today’: 1
-people77: 1
-draw: 1
-hello: 1
-imp: 1
-hired: 1
-smart: 1
-a17: 1
-tern: 1
-vans: 1
-yle: 1
-27we: 1
-mentioned: 1
-represented: 1
-listened: 1
-scale: 1
-halfway: 1
-visits: 1
-tragedies: 1
-earthquake: 1
-restaurants: 1
-educational: 1
-rea: 1
-complain: 1
-boldly: 1
-he'd: 1
-los: 1
-gallons: 1
-stored: 1
-elp: 1
-36c: 1
-chains: 1
-watches: 1
-endure: 1
-referred: 1
-spare: 1
-region's: 1
-24hen: 1
-dby: 1
-highlighted: 1
-jumping: 1
-harmony: 1
-combine: 1
-lining: 1
-sudden: 1
-proves: 1
-ordinary: 1
-ups: 1
-cash: 1
-matthew’: 1
-essential: 1
-drawing: 1
-translating: 1
-rid: 1
-elephants: 1
-announcement: 1
-compound: 1
-gotten: 1
-laying: 1
-beneficial: 1
-monitor: 1
-laid: 1
-rom: 1
-wildfires: 1
-fastest: 1
-contemporaries: 1
-laundry: 1
-ake: 1
-sleeping: 1
-controlled: 1
-exploded: 1
-specialness: 1
-cleaning: 1
-barley: 1
-aimed: 1
-depending: 1
-seeking: 1
-friend’: 1
-acres: 1
-socks: 1
-aboard: 1
-relies: 1
-meters: 1
-unsure: 1
-fifty: 1
-indu: 1
-earth-threatening: 1
-demands: 1
-speech: 1
-reports: 1
-sweets: 1
-vocal: 1
-quantities: 1
-index: 1
-symbolize: 1
-favorites: 1
-workout: 1
-instant: 1
-remotely: 1
-fully: 1
-string: 1
-krakow: 1
-hotels: 1
-appears: 1
-poles: 1
-capturing: 1
-ase: 1
-rises: 1
-audience: 1
-monday: 1
-essay: 1
-tightly: 1
-girlfriend: 1
-remembering: 1
-performing: 1
-picnic: 1
-mixed-used: 1
-molecules: 1
-excellent: 1
-captured: 1
-indicate: 1
-colorful: 1
-ceremony: 1
-discounted: 1
-oldenburg: 1
-alley: 1
-majority: 1
-depression: 1
-loss: 1
-producer: 1
-collecting: 1
-mechanic: 1
-beast: 1
-brain: 1
-images: 1
-voted: 1
-april: 1
-uman: 1
-thomas: 1
-chemist: 1
-smallest: 1
-climb: 1
-greenhouses: 1
-official: 1
-telegraph: 1
-swinging: 1
-bryant: 1
-effect: 1
-spell: 1
-bringing: 1
-advantages: 1
-leak: 1
-regarded: 1
-pastes: 1
-maker: 1
-workaholic: 1
-expands: 1
-asks: 1
-dress: 1
-sect: 1
-application: 1
-randa: 1
-insisted: 1
-purposes: 1
-releases: 1
-differing: 1
-cleans: 1
-cooker: 1
-loose: 1
-texts: 1
-drunk: 1
-pattern: 1
-healthiest: 1
-guards: 1
-sizes: 1
-customer: 1
-firefighters: 1
-reviews: 1
-shirts: 1
-disastrous: 1
-detected: 1
-neglected: 1
-recognized: 1
-guy: 1
-misery: 1
-emissions: 1
-suffering: 1
-direct: 1
-richly: 1
-rela: 1
-bathroom: 1
-pipe: 1
-approved: 1
-butter: 1
-failure: 1
-quit: 1
-calmer: 1
-csum: 1
-dad: 1
-tony: 1
-government’: 1
-attacks: 1
-sighted: 1
-crashing: 1
-ambition: 1
-regard: 1
-object: 1
-asteroid’s: 1
-scarce: 1
-resistance: 1
-pushes: 1
-fields: 1
-chemical: 1
-memory: 1
-utilizing: 1
-linking: 1
-twelve: 1
-mention: 1
-researched: 1
-wildebeests’: 1
-enforcing: 1
-julie: 1
-loaded: 1
-east: 1
-joked: 1
-exists: 1
-quarter: 1
-managers: 1
-aren’: 1
-establishing: 1
-sadly: 1
-anymore: 1
-zoe: 1
-silver: 1
-offering: 1
-people’: 1
-cosmetics: 1
-contests: 1
-lasio: 1
-footprints: 1
-annoyed: 1
-simpson: 1
-9how: 1
-carolina: 1
-bod: 1
-tum: 1
-neighbor: 1
-nets: 1
-calculated: 1
-troubled: 1
-existing: 1
-gen: 1
-enforcement: 1
-mix: 1
-obeyed: 1
-friendlier: 1
-grandniece: 1
-satisfied: 1
-prefer: 1
-enriching: 1
-resolved: 1
-portland: 1
-publishes: 1
-golf: 1
-editor: 1
-lend: 1
-glued: 1
-warn: 1
-burial: 1
-arriving: 1
-studying: 1
-brok: 1
-fishes: 1
-margaret: 1
-accessibility: 1
-overed: 1
-controller: 1
-grader: 1
-indeed: 1
-sing: 1
-turning: 1
-overlook: 1
-unfriendly: 1
-arranged: 1
-seaside: 1
-encountered: 1
-suburbs: 1
-consider: 1
-necessarily: 1
-distribution: 1
-senior: 1
-mirror: 1
-feature: 1
-actor: 1
-sample: 1
-capable: 1
-sadness: 1
-blasted: 1
-wing: 1
-shifts: 1
-swimming: 1
-warming: 1
-undergraduate: 1
-former: 1
-observed: 1
-shock: 1
-reality: 1
-vacations: 1
-float: 1
-chameleon: 1
-grasped: 1
-awfully: 1
-chronic: 1
-plays: 1
-review: 1
-blair: 1
-impatient: 1
-cools: 1
-skip: 1
-permit: 1
-stare: 1
-collide: 1
-fatal: 1
-earth-based: 1
-schoolwork: 1
-distinguished: 1
-worst: 1
-blanket: 1
-speeding: 1
-teen: 1
-mailbox: 1
-43there: 1
-shiloh: 1
-graduates: 1
-shouting: 1
-injure: 1
-desire: 1
-teens: 1
-trade: 1
-villagers: 1
-pretended: 1
-volunteer: 1
-believer: 1
-bridge: 1
-loans: 1
-markets: 1
-liming: 1
-closeness: 1
-strength: 1
-hastily: 1
-stressful: 1
-helen: 1
-ranked: 1
-unhappy: 1
-firefighter: 1
-van: 1
-testing: 1
-repairing: 1
-returns: 1
-forecast: 1
-adul: 1
-benefit: 1
-outdoors: 1
-beat: 1
-lively: 1
-constructed: 1
-approaches: 1
-daddy: 1
-thrive: 1
-belt: 1
-nation: 1
-mid: 1
-johnson: 1
-pretty: 1
-re-election: 1
-wonder: 1
-hopefully: 1
-whoever: 1
-they'll: 1
-seriously: 1
-corn: 1
-martin: 1
-smithsonian's: 1
-sig: 1
-fix: 1
-edi: 1
-proved: 1
-ark: 1
-isn: 1
-citywide: 1
-crowds: 1
-beetle: 1
-associated: 1
-faster: 1
-tops: 1
-academic: 1
-thoroughly: 1
-covid: 1
-sons: 1
-groups’: 1
-keys: 1
-entitled: 1
-23i: 1
-adventures: 1
-pats: 1
-retreated: 1
-maine's: 1
-upside: 1
-compelling: 1
-mainland: 1
-survey: 1
-univ: 1
-included: 1
-hiding: 1
-persons: 1
-coach: 1
-farmhouse: 1
-spokesman: 1
-beforehand: 1
-awake: 1
-fair: 1
-parked: 1
-shed: 1
-web: 1
-australian: 1
-voyage: 1
-quieter: 1
-quart: 1
-cloth: 1
-hilton: 1
-kiss: 1
-ury: 1
-longed: 1
-sang: 1
-cakes: 1
-appreciate: 1
-improvements: 1
-poverty: 1
-steam: 1
-corresp: 1
-despite: 1
-wooded: 1
-lifeless: 1
-ville: 1
-hunted: 1
-sisters: 1
-diverse: 1
-preserves: 1
-lawn: 1
-facing: 1
-pace: 1
-imported: 1
-sixth: 1
-filed: 1
-recovered: 1
-cushioning: 1
-doubling: 1
-sorry: 1
-camped: 1
-shelled: 1
-preferred: 1
-she’s: 1
-janine: 1
-proudly: 1
-relaxed: 1
-controlling: 1
-differ: 1
-outdoor: 1
-width: 1
-georgia: 1
-impressive: 1
-valued: 1
-breaking: 1
-springs: 1
-lincoln: 1
-sets: 1
-author's: 1
-rivaling: 1
-forgettable: 1
-establish: 1
-waves: 1
-fashions: 1
-beneath: 1
-leads: 1
-towns: 1
-raced: 1
-hearted: 1
-doors: 1
-reaction: 1
-weren't: 1
-suppose: 1
-firs: 1
-media: 1
-friendship: 1
-chemistry: 1
-des: 1
-barely: 1
-struction: 1
-daft: 1
-durin: 1
-teenagers: 1
-tax: 1
-ses: 1
-offend: 1
-worries: 1
-recommends: 1
-trunk: 1
-subway: 1
-bury: 1
-ourselves: 1
-accustomed: 1
-efforts: 1
-evaluate: 1
-rare: 1
-doff: 1
-courses: 1
-brooks: 1
-odd: 1
-length: 1
-muscle: 1
-begged: 1
-civil: 1
-bre: 1
-laura: 1
-america: 1
-staff: 1
-jayden’: 1
-guard: 1
-impaired: 1
-fore: 1
-vote: 1
-hungrily: 1
-heirs: 1
-lancet: 1
-clet: 1
-monkey: 1
-restlessness: 1
-purchasing: 1
-stonework: 1
-fined: 1
-useful: 1
-secrets: 1
-stroke: 1
-preside: 1
-views: 1
-dpay: 1
-katy: 1
-mcdonald: 1
-yourself: 1
-hides: 1
-bee: 1
-stadium: 1
-remarkable: 1
-businessmen: 1
-tor: 1
-buildings: 1
-threes: 1
-empire: 1
-cloud: 1
-revolution: 1
-beef: 1
-obama's: 1
-underneath: 1
-uncles: 1
-outer: 1
-atus: 1
-kid’s: 1
-kinds: 1
-ty: 1
-cbb: 1
-mail: 1
-shallow: 1
-wit: 1
-albums: 1
-chairs: 1
-republic: 1
-uninjured: 1
-feared: 1
-kno: 1
-goo: 1
-longest: 1
-trucks: 1
-bay: 1
-mon: 1
-honor: 1
-stability: 1
-jaden: 1
-stimulating: 1
-trac: 1
-explains: 1
-secret: 1
-opposed: 1
-brea: 1
-harms: 1
-develops: 1
-nowhere: 1
-mankind: 1
-installing: 1
-tooth: 1
-land's: 1
-reinforcing: 1
-smaller: 1
-output: 1
-instilled: 1
-facts: 1
-som: 1
-beginners: 1
-document: 1
-watchlist: 1
-secondly: 1
-song: 1
-contributed: 1
-flowers: 1
-principles: 1
-financially: 1
-figure: 1
-whitewash: 1
-saving: 1
-nests: 1
-especial: 1
-institute: 1
-sped: 1
-grou: 1
-concentrate: 1
-gamers: 1
-michael: 1
-racism: 1
-complicated: 1
-import: 1
-hopeful: 1
-ronald: 1
-acted: 1
-doe: 1
-tricky: 1
-heavily: 1
-launch: 1
-monthly: 1
-robbed: 1
-committed: 1
-accumulates: 1
-missed: 1
-credit: 1
-afterwards: 1
-tendency: 1
-content: 1
-performance: 1
-claims: 1
-fluent: 1
-thr: 1
-intelligence: 1
-meaningful: 1
-cats: 1
-consisting: 1
-vapor: 1
-respect: 1
-believing: 1
-lobbying: 1
-grandparents: 1
-paying: 1
-taught: 1
-diploma: 1
-hospitals: 1
-divided: 1
-kate: 1
-emerge: 1
-openings: 1
-oid: 1
-dang: 1
-stupid: 1
-signature: 1
-spreading: 1
-tenet: 1
-dated: 1
-spotted: 1
-abroad: 1
-west: 1
-cen: 1
-salty: 1
-conversation: 1
-stars: 1
-rabbits: 1
-cal: 1
-routes: 1
-creation: 1
-trembles: 1
-creates: 1
-defending: 1
-apart: 1
-list: 1
-apple: 1
-rent: 1
-billions: 1
-tries: 1
-washed: 1
-healthcare: 1
-walls: 1
+## the: 2136
+## to: 1095
+## in: 845
+## of: 751
+## and: 597
+## for: 352
+## that: 338
+## was: 300
+## he: 291
+## on: 279
+## it: 248
+## you: 221
+## with: 219
+## have: 211
+## passage: 196
+## at: 170
+## there: 166
+## not: 161
+## they: 161
+## be: 160
+## as: 160
+## she: 160
+## can: 157
+## his: 156
+## part: 156
+## this: 150
+## from: 145
+## one: 139
+## when: 137
+## which: 135
+## following: 131
+## but: 119
+## more: 118
+## her: 117
+## has: 117
+## will: 112
+## their: 109
+## all: 105
+## had: 104
+## by: 101
+## each: 96
+## or: 94
+## so: 93
+## up: 90
+## people: 89
+## out: 86
+## an: 85
+## about: 84
+## than: 84
+## into: 84
+## some: 81
+## were: 81
+## should: 76
+## directions: 75
+## answer: 74
+## them: 73
+## other: 72
+## then: 71
+## been: 69
+## years: 69
+## time: 69
+## best: 68
+## many: 67
+## water: 64
+## because: 62
+## sentences: 61
+## him: 61
+## very: 60
+## after: 59
+## city: 59
+## only: 59
+## no: 58
+## who: 58
+## go: 56
+## school: 54
+## new: 52
+## now: 52
+## letter: 51
+## what: 50
+## also: 50
+## would: 50
+## life: 49
+## do: 49
+## two: 48
+## marked: 48
+## just: 47
+## sheet: 46
+## four: 46
+## corresponding: 45
+## according: 45
+## old: 44
+## true: 43
+## money: 43
+## day: 43
+## questions: 43
+## first: 42
+## made: 42
+## take: 42
+## your: 42
+## where: 41
+## make: 41
+## work: 41
+## based: 41
+## five: 40
+## went: 40
+## help: 40
+## long: 40
+## choices: 39
+## these: 39
+## passages: 39
+## home: 39
+## over: 39
+## world: 39
+## reading: 38
+## most: 38
+## paragraph: 38
+## young: 37
+## blacken: 37
+## food: 37
+## says: 37
+## like: 37
+## get: 37
+## use: 37
+## found: 37
+## students: 37
+## statements: 36
+## how: 36
+## schools: 35
+## back: 35
+## three: 35
+## section: 34
+## going: 34
+## children: 33
+## too: 32
+## good: 32
+## often: 32
+## last: 32
+## friends: 31
+## come: 31
+## could: 31
+## year: 31
+## chinese: 30
+## way: 30
+## see: 30
+## english: 30
+## little: 30
+## such: 29
+## few: 29
+## solar: 29
+## fire: 29
+## sea: 29
+## me: 29
+## our: 29
+## came: 29
+## off: 28
+## put: 28
+## said: 28
+## hard: 28
+## any: 28
+## much: 28
+## may: 28
+## every: 28
+## us: 28
+## used: 28
+## comprehension: 28
+## air: 28
+## million: 28
+## word: 27
+## next: 27
+## taken: 27
+## got: 27
+## choose: 27
+## while: 26
+## keep: 26
+## man: 26
+## end: 26
+## down: 25
+## translate: 25
+## know: 25
+## animals: 25
+## sentence: 25
+## before: 25
+## father: 25
+## house: 25
+## learn: 24
+## during: 24
+## group: 24
+## those: 24
+## away: 24
+## identify: 24
+## still: 24
+## does: 23
+## probably: 23
+## through: 23
+## kids: 23
+## even: 23
+## did: 23
+## mother: 23
+## well: 22
+## great: 22
+## parents: 22
+## ban: 22
+## here: 22
+## health: 22
+## american: 22
+## since: 22
+## live: 21
+## read: 21
+## braille: 21
+## died: 21
+## books: 21
+## known: 21
+## say: 21
+## around: 21
+## left: 21
+## being: 21
+## called: 21
+## worked: 21
+## both: 21
+## meaning: 21
+## age: 21
+## never: 20
+## it's: 20
+## choice: 20
+## lot: 20
+## maggie: 20
+## family: 20
+## think: 20
+## college: 20
+## play: 20
+## give: 20
+## place: 20
+## look: 20
+## become: 19
+## business: 19
+## followed: 19
+## sure: 19
+## it’s: 19
+## must: 19
+## beetles: 19
+## title: 19
+## closest: 18
+## better: 18
+## another: 18
+## big: 18
+## week: 18
+## note: 18
+## car: 18
+## success: 18
+## games: 18
+## national: 18
+## book: 18
+## frying: 17
+## today: 17
+## need: 17
+## high: 17
+## th: 17
+## once: 17
+## making: 17
+## hall: 17
+## days: 17
+## working: 17
+## person: 17
+## party: 17
+## york: 17
+## idea: 17
+## plastic: 16
+## born: 16
+## helena: 16
+## between: 16
+## jim: 16
+## why: 16
+## started: 16
+## oldest: 16
+## own: 16
+## short: 16
+## second: 16
+## bricks: 16
+## bottle: 16
+## education: 16
+## clearly: 16
+## became: 16
+## love: 16
+## change: 16
+## important: 16
+## class: 16
+## ways: 16
+## tomatoes: 16
+## along: 16
+## breast: 16
+## thing: 15
+## flores: 15
+## though: 15
+## call: 15
+## tell: 15
+## black: 15
+## walk: 15
+## bottled: 15
+## always: 15
+## already: 15
+## means: 15
+## write: 15
+## center: 15
+## care: 15
+## mcdonald’s: 15
+## local: 15
+## ella: 15
+## refer: 15
+## began: 15
+## several: 15
+## looking: 15
+## single: 15
+## pay: 14
+## members: 14
+## report: 14
+## energy: 14
+## doctor: 14
+## morning: 14
+## study: 14
+## soon: 14
+## popular: 14
+## please: 14
+## feeding: 14
+## translation: 14
+## team: 14
+## scientists: 14
+## moved: 14
+## california: 14
+## having: 14
+## ever: 14
+## oil: 14
+## alone: 14
+## late: 14
+## same: 14
+## project: 13
+## mark: 13
+## move: 13
+## structure: 13
+## industry: 13
+## leave: 13
+## without: 13
+## organization: 13
+## took: 13
+## reefs: 13
+## completes: 13
+## arts: 13
+## until: 13
+## meanings: 13
+## sold: 13
+## thorpe: 13
+## job: 13
+## researchers: 13
+## birthday: 13
+## girls: 13
+## phones: 13
+## doing: 13
+## buy: 13
+## turn: 13
+## public: 13
+## space: 13
+## small: 13
+## everyone: 13
+## large: 13
+## eggs: 13
+## line: 13
+## power: 13
+## stayed: 13
+## feel: 13
+## cell: 13
+## boy: 13
+## parts: 13
+## dollars: 13
+## context: 13
+## everything: 13
+## using: 13
+## pipeline: 13
+## although: 13
+## trees: 13
+## einstein: 12
+## hours: 12
+## sibling: 12
+## panels: 12
+## room: 12
+## able: 12
+## far: 12
+## save: 12
+## china: 12
+## right: 12
+## something: 12
+## music: 12
+## correct: 12
+## together: 12
+## minutes: 12
+## fryers: 12
+## app: 12
+## want: 12
+## street: 12
+## system: 12
+## unfinished: 12
+## different: 12
+## cost: 12
+## set: 12
+## blank: 12
+## company: 12
+## reached: 12
+## vocabulary: 12
+## viruses: 12
+## future: 12
+## dry: 12
+## green: 11
+## turtles: 11
+## coming: 11
+## across: 11
+## bad: 11
+## comes: 11
+## asteroid: 11
+## gave: 11
+## against: 11
+## main: 11
+## cannot: 11
+## higher: 11
+## australia: 11
+## follow: 11
+## told: 11
+## blanks: 11
+## again: 11
+## under: 11
+## road: 11
+## lives: 11
+## incomplete: 11
+## behind: 11
+## underlined: 11
+## barry: 11
+## goal: 11
+## risk: 11
+## identification: 11
+## office: 11
+## summer: 11
+## rogers: 11
+## meeting: 11
+## order: 11
+## wants: 11
+## grown: 11
+## tobacco: 11
+## blind: 11
+## half: 11
+## yesterday: 11
+## gaming: 11
+## passed: 11
+## question: 11
+## president: 11
+## animal: 11
+## cloze: 11
+## things: 11
+## ago: 11
+## siblings: 11
+## enough: 10
+## times: 10
+## tomato: 10
+## someone: 10
+## almost: 10
+## phone: 10
+## red: 10
+## problem: 10
+## stay: 10
+## six: 10
+## longer: 10
+## dart: 10
+## problems: 10
+## busy: 10
+## death: 10
+## falls: 10
+## later: 10
+## seen: 10
+## river: 10
+## countries: 10
+## eight: 10
+## attention: 10
+## disease: 10
+## species: 10
+## face: 10
+## thousands: 10
+## country: 10
+## difficult: 10
+## really: 10
+## fed: 10
+## least: 10
+## bill: 10
+## hardly: 10
+## playing: 10
+## news: 10
+## thought: 10
+## matter: 10
+## james: 10
+## areas: 10
+## rather: 10
+## baby: 10
+## baobab: 10
+## decide: 10
+## wrong: 10
+## broke: 10
+## north: 10
+## hughes: 10
+## night: 10
+## living: 10
+## department: 10
+## teacher: 10
+## building: 10
+## whether: 10
+## university: 10
+## finished: 10
+## medical: 10
+## drink: 9
+## reason: 9
+## plants: 9
+## brown: 9
+## rest: 9
+## deal: 9
+## tool: 9
+## community: 9
+## strong: 9
+## fall: 9
+## healthy: 9
+## hand: 9
+## model: 9
+## jobs: 9
+## history: 9
+## however: 9
+## lego: 9
+## contact: 9
+## show: 9
+## marley: 9
+## others: 9
+## eat: 9
+## won: 9
+## given: 9
+## close: 9
+## miles: 9
+## number: 9
+## friendly: 9
+## might: 9
+## visit: 9
+## saw: 9
+## poor: 9
+## video: 9
+## message: 9
+## older: 9
+## decided: 9
+## fits: 9
+## usually: 9
+## groups: 9
+## americans: 9
+## returned: 9
+## less: 9
+## quite: 9
+## kind: 9
+## global: 9
+## gyms: 9
+## deep: 9
+## above: 9
+## sale: 9
+## baobabs: 9
+## yet: 9
+## earth: 9
+## raised: 9
+## brother: 9
+## nothing: 9
+## noticed: 9
+## worldwide: 9
+## bought: 9
+## ten: 9
+## soccer: 9
+## changes: 9
+## sometimes: 9
+## plant: 9
+## howard: 9
+## wanted: 9
+## case: 8
+## rusty: 8
+## cream: 8
+## saved: 8
+## store: 8
+## limited: 8
+## armstrong's: 8
+## bottles: 8
+## hope: 8
+## babies: 8
+## fly: 8
+## adult: 8
+## provide: 8
+## climate: 8
+## either: 8
+## met: 8
+## child: 8
+## neighborhood: 8
+## land: 8
+## remain: 8
+## monument: 8
+## learned: 8
+## german: 8
+## safety: 8
+## takes: 8
+## cities: 8
+## coral: 8
+## talk: 8
+## hotel: 8
+## open: 8
+## low: 8
+## dog: 8
+## outside: 8
+## side: 8
+## start: 8
+## looks: 8
+## knew: 8
+## happy: 8
+## weather: 8
+## voice: 8
+## works: 8
+## train: 8
+## fried: 8
+## foods: 8
+## construction: 8
+## sports: 8
+## easy: 8
+## cooper: 8
+## men: 8
+## find: 8
+## lost: 8
+## walker: 8
+## simple: 8
+## japan: 8
+## points: 8
+## quiet: 8
+## grow: 8
+## run: 8
+## overweight: 8
+## access: 8
+## raise: 8
+## states: 8
+## protect: 8
+## heard: 8
+## arrived: 8
+## course: 8
+## corals: 8
+## door: 8
+## game: 8
+## among: 8
+## paid: 8
+## beautiful: 8
+## finish: 7
+## prepare: 7
+## exciting: 7
+## free: 7
+## protest: 7
+## informed: 7
+## bring: 7
+## besides: 7
+## obama: 7
+## suit: 7
+## early: 7
+## expensive: 7
+## jane: 7
+## completely: 7
+## especially: 7
+## whole: 7
+## finally: 7
+## per: 7
+## talked: 7
+## whose: 7
+## created: 7
+## except: 7
+## decision: 7
+## wrote: 7
+## owners: 7
+## sight: 7
+## neither: 7
+## cause: 7
+## period: 7
+## past: 7
+## white: 7
+## including: 7
+## smoking: 7
+## hour: 7
+## stood: 7
+## available: 7
+## control: 7
+## humans: 7
+## built: 7
+## benefits: 7
+## knows: 7
+## research: 7
+## human: 7
+## die: 7
+## chance: 7
+## costs: 7
+## successful: 7
+## difference: 7
+## hospital: 7
+## create: 7
+## named: 7
+## rich: 7
+## helena’: 7
+## preserve: 7
+## within: 7
+## woman: 7
+## near: 7
+## fish: 7
+## heart: 7
+## written: 7
+## third: 7
+## believe: 7
+## state: 7
+## enjoy: 7
+## thinking: 7
+## planning: 7
+## fat: 7
+## largest: 7
+## africa: 7
+## lessons: 7
+## solution: 7
+## taking: 7
+## spacesuit: 7
+## spend: 7
+## led: 7
+## makes: 7
+## culture: 7
+## front: 7
+## prize: 7
+## england: 7
+## customers: 7
+## collect: 7
+## graduated: 7
+## jayden: 7
+## quickly: 7
+## join: 7
+## instead: 7
+## tree: 7
+## vegetables: 7
+## designed: 7
+## beyond: 7
+## spent: 7
+## forward: 7
+## america: 7
+## kept: 7
+## language: 7
+## meet: 7
+## broken: 7
+## smoke: 7
+## showed: 7
+## rock: 7
+## war: 7
+## fog: 6
+## singing: 6
+## encourage: 6
+## fast: 6
+## similar: 6
+## congress: 6
+## themselves: 6
+## garden: 6
+## watered: 6
+## limit: 6
+## launched: 6
+## cooper's: 6
+## activities: 6
+## gym: 6
+## killed: 6
+## hsa: 6
+## island: 6
+## creating: 6
+## station: 6
+## anything: 6
+## types: 6
+## fell: 6
+## spring: 6
+## received: 6
+## mayor: 6
+## beach: 6
+## nasm: 6
+## evidence: 6
+## jump: 6
+## exam: 6
+## randall: 6
+## government: 6
+## wide: 6
+## beside: 6
+## watch: 6
+## interested: 6
+## mind: 6
+## bed: 6
+## nearly: 6
+## inside: 6
+## ground: 6
+## indian: 6
+## display: 6
+## pothole: 6
+## events: 6
+## married: 6
+## south: 6
+## result: 6
+## held: 6
+## bigger: 6
+## campaign: 6
+## rain: 6
+## established: 6
+## spillover: 6
+## invited: 6
+## habit: 6
+## understand: 6
+## adults: 6
+## swim: 6
+## likely: 6
+## avoid: 6
+## done: 6
+## increased: 6
+## easily: 6
+## lived: 6
+## normal: 6
+## phrase: 6
+## nest: 6
+## eyes: 6
+## wildlife: 6
+## active: 6
+## powerful: 6
+## nt: 6
+## dias: 6
+## tip: 6
+## stop: 6
+## rules: 6
+## improve: 6
+## emergency: 6
+## realized: 6
+## advice: 6
+## museum: 6
+## color: 6
+## wings: 6
+## population: 6
+## pandemic: 6
+## medicine: 6
+## database: 6
+## point: 6
+## explained: 6
+## month: 6
+## test: 6
+## standing: 6
+## serious: 6
+## natural: 6
+## women: 6
+## diseases: 6
+## danger: 6
+## plastics: 6
+## unable: 6
+## affected: 6
+## hawaii: 6
+## build: 6
+## records: 6
+## fewer: 6
+## farther: 6
+## himself: 6
+## mainly: 6
+## lead: 6
+## getting: 6
+## bus: 6
+## dogs: 6
+## mission: 6
+## design: 6
+## needed: 6
+## traditional: 6
+## london: 6
+## top: 6
+## football: 6
+## published: 6
+## total: 6
+## trip: 6
+## walking: 6
+## park: 6
+## environment: 6
+## plans: 6
+## habits: 6
+## allow: 6
+## opened: 6
+## vassar: 6
+## distances: 6
+## teachers: 6
+## postcard: 6
+## doesn’t: 6
+## ll: 6
+## independence: 6
+## wet: 6
+## grew: 6
+## moving: 6
+## peoples: 6
+## believed: 6
+## real: 6
+## safe: 6
+## looked: 6
+## girl: 6
+## fitness: 6
+## taste: 6
+## anxiety: 6
+## skin: 6
+## shanghai: 5
+## begin: 5
+## lectures: 5
+## disorder: 5
+## source: 5
+## ask: 5
+## native: 5
+## nea: 5
+## century: 5
+## beijing: 5
+## indians: 5
+## consumed: 5
+## caught: 5
+## auction: 5
+## return: 5
+## african: 5
+## toward: 5
+## term: 5
+## boys: 5
+## developed: 5
+## present: 5
+## send: 5
+## brain: 5
+## positive: 5
+## trend: 5
+## hunting: 5
+## bolivia: 5
+## gold: 5
+## speak: 5
+## selection: 5
+## weasel: 5
+## walked: 5
+## approach: 5
+## tools: 5
+## amount: 5
+## student: 5
+## parent: 5
+## earn: 5
+## biggest: 5
+## exactly: 5
+## relationship: 5
+## behavior: 5
+## terrible: 5
+## children’s: 5
+## angry: 5
+## program: 5
+## force: 5
+## growing: 5
+## receive: 5
+## historical: 5
+## fishing: 5
+## alive: 5
+## can't: 5
+## universities: 5
+## friday: 5
+## foreign: 5
+## interesting: 5
+## colleges: 5
+## fruits: 5
+## calls: 5
+## bit: 5
+## step: 5
+## bleaching: 5
+## addition: 5
+## bank: 5
+## dead: 5
+## learning: 5
+## reaching: 5
+## law: 5
+## temperature: 5
+## listen: 5
+## played: 5
+## conditions: 5
+## monuments: 5
+## special: 5
+## attack: 5
+## vacation: 5
+## they: 5
+## fluently: 5
+## tests: 5
+## classes: 5
+## television: 5
+## sun: 5
+## remember: 5
+## shop: 5
+## friend: 5
+## mo: 5
+## accident: 5
+## adding: 5
+## key: 5
+## ella's: 5
+## fun: 5
+## products: 5
+## tomorrow: 5
+## full: 5
+## helped: 5
+## remembered: 5
+## exist: 5
+## supply: 5
+## mcdonald's: 5
+## pass: 5
+## protected: 5
+## changed: 5
+## seldom: 5
+## process: 5
+## player: 5
+## sweet: 5
+## area: 5
+## graduate: 5
+## develop: 5
+## collision: 5
+## currently: 5
+## cultural: 5
+## recent: 5
+## steps: 5
+## rivalry: 5
+## colleagues: 5
+## degradation: 5
+## afraid: 5
+## joseph: 5
+## survive: 5
+## restaurant: 5
+## social: 5
+## daughter: 5
+## cin: 5
+## break: 5
+## moon: 5
+## terms: 5
+## daily: 5
+## writing: 5
+## dropped: 5
+## guinness: 5
+## story: 5
+## site: 5
+## drugs: 5
+## impact: 5
+## japanese: 5
+## john: 5
+## that: 5
+## police: 5
+## twenty: 5
+## french: 5
+## eating: 5
+## pushed: 5
+## sheridan: 5
+## lisa: 5
+## ability: 5
+## form: 5
+## entrepreneurship: 5
+## felt: 5
+## studied: 5
+## ture: 5
+## path: 5
+## female: 5
+## therefore: 5
+## families: 5
+## information: 5
+## urban: 5
+## minute: 5
+## classroom: 5
+## entrepreneurs: 5
+## hopes: 5
+## developing: 5
+## tend: 5
+## planned: 5
+## rivals: 5
+## teaching: 5
+## carefully: 5
+## concerned: 5
+## spread: 5
+## simply: 5
+## drinking: 5
+## sent: 5
+## hot: 5
+## orbit: 5
+## rowan: 5
+## visited: 5
+## birds: 4
+## tells: 4
+## army: 4
+## range: 4
+## offer: 4
+## responsibility: 4
+## training: 4
+## companies: 4
+## thirsty: 4
+## blood: 4
+## hit: 4
+## jones: 4
+## lose: 4
+## opportunities: 4
+## excessive: 4
+## nesting: 4
+## monkeys: 4
+## couple: 4
+## library: 4
+## charged: 4
+## instruction: 4
+## shows: 4
+## assemblyman: 4
+## edward: 4
+## fit: 4
+## contain: 4
+## economies: 4
+## math: 4
+## charge: 4
+## ale: 4
+## neighborhoods: 4
+## milk: 4
+## drop: 4
+## badly: 4
+## wondering: 4
+## nine: 4
+## major: 4
+## there’s: 4
+## suffered: 4
+## fruit: 4
+## dust: 4
+## ones: 4
+## smiths: 4
+## serve: 4
+## relationships: 4
+## desert: 4
+## excited: 4
+## worth: 4
+## moves: 4
+## kick: 4
+## don: 4
+## unless: 4
+## proposed: 4
+## sky: 4
+## escaped: 4
+## grandpa: 4
+## talking: 4
+## example: 4
+## uncle: 4
+## airport: 4
+## wait: 4
+## rubinstein: 4
+## realize: 4
+## wasn't: 4
+## acid: 4
+## pack: 4
+## manager: 4
+## wife: 4
+## entire: 4
+## places: 4
+## plan: 4
+## star: 4
+## jams: 4
+## dakota: 4
+## series: 4
+## mary: 4
+## metal: 4
+## mathew: 4
+## bowl: 4
+## confidence: 4
+## grass: 4
+## bike: 4
+## edge: 4
+## dollar: 4
+## islands: 4
+## suggested: 4
+## beetle: 4
+## programs: 4
+## touch: 4
+## richest: 4
+## signs: 4
+## ross: 4
+## complete: 4
+## cigarettes: 4
+## bin: 4
+## spoke: 4
+## avoided: 4
+## ahead: 4
+## establishment: 4
+## sunlight: 4
+## potatoes: 4
+## egg: 4
+## method: 4
+## remained: 4
+## potholes: 4
+## son: 4
+## rainforests: 4
+## include: 4
+## try: 4
+## cfor: 4
+## prevent: 4
+## wildebeests: 4
+## homework: 4
+## newspaper: 4
+## nor: 4
+## actually: 4
+## heat: 4
+## officials: 4
+## coop: 4
+## jackson: 4
+## punished: 4
+## san: 4
+## funding: 4
+## achieve: 4
+## career: 4
+## announced: 4
+## dangerous: 4
+## lawmakers: 4
+## ranking: 4
+## europe: 4
+## latest: 4
+## detectors: 4
+## seven: 4
+## federal: 4
+## recorded: 4
+## driving: 4
+## supermarket: 4
+## confident: 4
+## houses: 4
+## characters: 4
+## policies: 4
+## kenny: 4
+## purpose: 4
+## united: 4
+## promote: 4
+## eye: 4
+## discover: 4
+## porter: 4
+## filled: 4
+## hundred: 4
+## dancing: 4
+## traffic: 4
+## andaman: 4
+## turned: 4
+## elderly: 4
+## defense: 4
+## liked: 4
+## account: 4
+## promised: 4
+## whom: 4
+## cto: 4
+## logging: 4
+## countryside: 4
+## accept: 4
+## advantage: 4
+## huge: 4
+## sell: 4
+## hurry: 4
+## injuries: 4
+## performed: 4
+## excuse: 4
+## lack: 4
+## experts: 4
+## allowed: 4
+## appeared: 4
+## private: 4
+## sand: 4
+## losing: 4
+## field: 4
+## studies: 4
+## movies: 4
+## obsessed: 4
+## impossible: 4
+## grows: 4
+## mesh: 4
+## gone: 4
+## expected: 4
+## tiny: 4
+## box: 4
+## stores: 4
+## evening: 4
+## communities: 4
+## yellow: 4
+## add: 4
+## donald: 4
+## shirt: 4
+## unlikely: 4
+## maine: 4
+## millions: 4
+## stand: 4
+## streets: 4
+## songs: 4
+## occurred: 4
+## larger: 4
+## mental: 4
+## audio: 4
+## track: 4
+## fact: 4
+## install: 4
+## measure: 4
+## shou: 4
+## examination: 4
+## asked: 4
+## leaving: 4
+## size: 4
+## estimated: 4
+## wild: 4
+## measures: 4
+## modern: 4
+## support: 4
+## pollution: 4
+## data: 4
+## discovered: 4
+## common: 4
+## direction: 4
+## sleep: 4
+## classmates: 4
+## injured: 4
+## careful: 4
+## virus: 4
+## keeps: 4
+## sussman: 4
+## level: 4
+## widely: 4
+## protection: 4
+## mistakes: 4
+## luke: 4
+## tried: 4
+## outsiders: 4
+## practice: 4
+## sioux: 4
+## shall: 4
+## thus: 4
+## stick: 4
+## successfully: 4
+## wider: 4
+## explain: 4
+## causes: 4
+## chicken: 4
+## waters: 4
+## frequently: 4
+## india: 4
+## busiest: 4
+## fond: 4
+## sticks: 4
+## production: 4
+## enforced: 4
+## valley: 4
+## doctors: 4
+## body: 4
+## months: 4
+## custom: 4
+## loved: 4
+## science: 4
+## mountain: 4
+## cold: 4
+## wooden: 4
+## didymos: 4
+## view: 4
+## partly: 4
+## weeks: 3
+## position: 3
+## patients: 3
+## appear: 3
+## skills: 3
+## replaced: 3
+## speaking: 3
+## anniversary: 3
+## feet: 3
+## mothers: 3
+## residents: 3
+## chain: 3
+## beauty: 3
+## players: 3
+## connected: 3
+## interest: 3
+## smarter: 3
+## march: 3
+## author: 3
+## inform: 3
+## obvious: 3
+## protecting: 3
+## arrows: 3
+## wolf: 3
+## roots: 3
+## version: 3
+## extraordinary: 3
+## welcome: 3
+## detect: 3
+## tower: 3
+## pop: 3
+## officer: 3
+## threw: 3
+## attend: 3
+## blame: 3
+## surprised: 3
+## entered: 3
+## guilty: 3
+## lovely: 3
+## shocked: 3
+## grand: 3
+## yearly: 3
+## dictionary: 3
+## courage: 3
+## treat: 3
+## missing: 3
+## crowded: 3
+## shelter: 3
+## aside: 3
+## described: 3
+## germany: 3
+## mike: 3
+## damage: 3
+## baseball: 3
+## seeing: 3
+## hey: 3
+## nature: 3
+## stands: 3
+## nobel: 3
+## dinner: 3
+## generation: 3
+## harm: 3
+## enjoyed: 3
+## attract: 3
+## installed: 3
+## pentathlon: 3
+## decathlon: 3
+## coffee: 3
+## perspective: 3
+## spending: 3
+## reach: 3
+## tradition: 3
+## newly: 3
+## attitude: 3
+## failed: 3
+## world's: 3
+## resist: 3
+## temperatures: 3
+## leaks: 3
+## shortage: 3
+## affect: 3
+## experienced: 3
+## strange: 3
+## leaves: 3
+## beaufort: 3
+## unlike: 3
+## appearance: 3
+## fame: 3
+## shopping: 3
+## couldn't: 3
+## 1960s: 3
+## equal: 3
+## responsible: 3
+## gifts: 3
+## city’s: 3
+## surprising: 3
+## deer: 3
+## washing: 3
+## quick: 3
+## hich: 3
+## toronto: 3
+## worried: 3
+## throwing: 3
+## environments: 3
+## faced: 3
+## ave: 3
+## wall: 3
+## talent: 3
+## ill: 3
+## heavy: 3
+## alike: 3
+## damaged: 3
+## clerk: 3
+## starting: 3
+## declared: 3
+## bobby: 3
+## happens: 3
+## klein: 3
+## parents': 3
+## famous: 3
+## finding: 3
+## athlete: 3
+## ideas: 3
+## below: 3
+## movement: 3
+## succeed: 3
+## needs: 3
+## billion: 3
+## reputation: 3
+## particularly: 3
+## capital: 3
+## honest: 3
+## supposed: 3
+## lunch: 3
+## disappointed: 3
+## middle: 3
+## youngest: 3
+## comparing: 3
+## claes: 3
+## else: 3
+## character: 3
+## medals: 3
+## seems: 3
+## statement: 3
+## running: 3
+## movie: 3
+## informing: 3
+## wear: 3
+## variety: 3
+## ending: 3
+## treasure: 3
+## restrict: 3
+## unfortunately: 3
+## thousand: 3
+## dart’s: 3
+## lonely: 3
+## extremely: 3
+## guest: 3
+## dishes: 3
+## stopped: 3
+## items: 3
+## delicious: 3
+## treated: 3
+## weekend: 3
+## humidity: 3
+## hold: 3
+## pleasant: 3
+## nswer: 3
+## ding: 3
+## energetic: 3
+## smith: 3
+## dropping: 3
+## sandy: 3
+## ride: 3
+## suddenly: 3
+## armstrong: 3
+## trying: 3
+## olesen: 3
+## bottom: 3
+## lasted: 3
+## emergencies: 3
+## brazil: 3
+## ted: 3
+## edinburgh: 3
+## contaminated: 3
+## proposal: 3
+## brother's: 3
+## importance: 3
+## floor: 3
+## speaks: 3
+## suggests: 3
+## sir: 3
+## allows: 3
+## george: 3
+## locations: 3
+## online: 3
+## exhibition: 3
+## lennox: 3
+## soft: 3
+## kill: 3
+## harder: 3
+## highest: 3
+## treatment: 3
+## meat: 3
+## journey: 3
+## founder: 3
+## banned: 3
+## raising: 3
+## isolated: 3
+## putting: 3
+## educated: 3
+## practical: 3
+## cool: 3
+## worrying: 3
+## effort: 3
+## illness: 3
+## peter: 3
+## covered: 3
+## survival: 3
+## secretary: 3
+## contribute: 3
+## bowling: 3
+## salary: 3
+## childhood: 3
+## throw: 3
+## france: 3
+## leading: 3
+## various: 3
+## artist: 3
+## sources: 3
+## catch: 3
+## nationwide: 3
+## exercise: 3
+## internet: 3
+## struggle: 3
+## tension: 3
+## sick: 3
+## pairs: 3
+## francisco: 3
+## allene: 3
+## frightened: 3
+## mac: 3
+## prices: 3
+## healthier: 3
+## november: 3
+## asteroids: 3
+## whenever: 3
+## sides: 3
+## reasons: 3
+## style: 3
+## formula: 3
+## cake: 3
+## teamwork: 3
+## cheap: 3
+## carry: 3
+## lay: 3
+## calling: 3
+## round: 3
+## dark: 3
+## service: 3
+## growth: 3
+## till: 3
+## stealing: 3
+## keeping: 3
+## imaginations: 3
+## background: 3
+## pulled: 3
+## younger: 3
+## boring: 3
+## devices: 3
+## citizens: 3
+## preparing: 3
+## british: 3
+## certain: 3
+## relief: 3
+## etp: 3
+## stems: 3
+## behaviors: 3
+## blamed: 3
+## freshwater: 3
+## dial: 3
+## warning: 3
+## nice: 3
+## bills: 3
+## birth: 3
+## accepted: 3
+## extinction: 3
+## possible: 3
+## anyone: 3
+## recover: 3
+## cent: 3
+## kid: 3
+## lecture: 3
+## spot: 3
+## argue: 3
+## storm: 3
+## spite: 3
+## thirty: 3
+## miracle: 3
+## exercises: 3
+## tonya: 3
+## town: 3
+## planetary: 3
+## district: 3
+## catering: 3
+## wildebeest: 3
+## push: 3
+## art: 3
+## ion: 3
+## camp: 3
+## moisture: 3
+## hear: 3
+## opportunity: 3
+## european: 3
+## olympic: 3
+## requires: 3
+## primary: 3
+## non: 3
+## borrowed: 3
+## professor: 3
+## possibility: 3
+## understanding: 3
+## increasing: 3
+## sooner: 3
+## concept: 3
+## association: 3
+## sitting: 3
+## bans: 3
+## notice: 3
+## nearby: 3
+## presents: 3
+## threats: 3
+## lots: 3
+## unhealthy: 3
+## hidalgo: 3
+## distance: 3
+## entrance: 3
+## passion: 3
+## modest: 3
+## moment: 3
+## biker: 3
+## sensitive: 3
+## valuable: 3
+## september: 3
+## searching: 3
+## happened: 3
+## traveled: 3
+## further: 3
+## lucy: 3
+## kym: 3
+## hollow: 3
+## kitchen: 3
+## noisy: 3
+## chad: 3
+## menu: 3
+## improved: 3
+## scientist: 3
+## miss: 3
+## prototype: 3
+## shouldn't: 3
+## poland: 3
+## workers: 3
+## increase: 3
+## share: 3
+## negative: 3
+## legal: 3
+## results: 3
+## numbers: 3
+## sister: 3
+## trouble: 3
+## generally: 3
+## prepared: 3
+## rescue: 3
+## easier: 3
+## goes: 3
+## contest: 3
+## teach: 3
+## woods: 3
+## check: 3
+## collected: 3
+## objects: 3
+## stress: 3
+## board: 3
+## sunday: 3
+## alice: 3
+## threat: 3
+## breakfast: 3
+## page: 3
+## critical: 3
+## thinks: 3
+## umbrella: 3
+## extra: 3
+## rise: 3
+## engine: 3
+## ran: 3
+## particular: 3
+## gives: 3
+## basketball: 3
+## spends: 3
+## mean: 3
+## greatest: 3
+## rose: 3
+## closer: 3
+## central: 3
+## unloaded: 3
+## destroyed: 3
+## environmental: 3
+## tough: 3
+## displayed: 3
+## chances: 3
+## affects: 3
+## rains: 3
+## publishing: 3
+## ahas: 3
+## cut: 3
+## stage: 3
+## reduced: 3
+## reduce: 3
+## type: 3
+## basis: 3
+## destroy: 2
+## impoverished: 2
+## ked: 2
+## gills: 2
+## bup: 2
+## borrow: 2
+## compromise: 2
+## clair: 2
+## father’s: 2
+## status: 2
+## hen: 2
+## fetch: 2
+## weekends: 2
+## housing: 2
+## telling: 2
+## self: 2
+## soil: 2
+## concern: 2
+## taxes: 2
+## seniors: 2
+## oldenburg: 2
+## feeling: 2
+## underwater: 2
+## hospitalized: 2
+## foot: 2
+## tribe: 2
+## eliminate: 2
+## watching: 2
+## jerry: 2
+## honestly: 2
+## lions: 2
+## schoolchildren: 2
+## partially: 2
+## convinced: 2
+## king: 2
+## relax: 2
+## morn: 2
+## specialized: 2
+## resource: 2
+## professors: 2
+## toy: 2
+## sixty: 2
+## helps: 2
+## hat: 2
+## cases: 2
+## boss: 2
+## brothers: 2
+## gain: 2
+## celebrate: 2
+## branches: 2
+## opinion: 2
+## discoveries: 2
+## peaceful: 2
+## advanced: 2
+## caused: 2
+## combined: 2
+## yonkers: 2
+## forests: 2
+## goods: 2
+## decreasing: 2
+## turtle's: 2
+## courthouse: 2
+## certainly: 2
+## approaching: 2
+## spacecraft: 2
+## scientific: 2
+## hated: 2
+## threatens: 2
+## that's: 2
+## mistake: 2
+## cleared: 2
+## claimed: 2
+## twice: 2
+## victims: 2
+## listening: 2
+## brittle: 2
+## varies: 2
+## seats: 2
+## computer: 2
+## machine: 2
+## grants: 2
+## includes: 2
+## jenny: 2
+## sound: 2
+## donations: 2
+## diligence: 2
+## speak: 2
+## uses: 2
+## covers: 2
+## jose: 2
+## society: 2
+## electricity: 2
+## sport: 2
+## oklahoma: 2
+## windows: 2
+## memoir: 2
+## causing: 2
+## jars: 2
+## rice: 2
+## spaces: 2
+## eats: 2
+## carried: 2
+## frailer: 2
+## forest: 2
+## depend: 2
+## continues: 2
+## standard: 2
+## arrested: 2
+## swordsman: 2
+## administration: 2
+## crime: 2
+## privacy: 2
+## asian: 2
+## dif: 2
+## neil: 2
+## houston: 2
+## wood: 2
+## paula: 2
+## parallel: 2
+## raises: 2
+## double: 2
+## controversy: 2
+## fry: 2
+## agree: 2
+## efficiently: 2
+## schooling: 2
+## ship: 2
+## smiled: 2
+## worse: 2
+## powered: 2
+## tinted: 2
+## scarcely: 2
+## action: 2
+## stepped: 2
+## ain: 2
+## clock: 2
+## hav: 2
+## honesty: 2
+## disturbed: 2
+## severely: 2
+## fresh: 2
+## cas: 2
+## losses: 2
+## wagner: 2
+## ato: 2
+## kayla: 2
+## weaker: 2
+## happier: 2
+## admired: 2
+## matthew: 2
+## you'd: 2
+## offices: 2
+## neutral: 2
+## skilled: 2
+## juices: 2
+## conscious: 2
+## wil: 2
+## immediately: 2
+## stephan: 2
+## dat: 2
+## kilograms: 2
+## pity: 2
+## nonprofit: 2
+## speed: 2
+## blues: 2
+## slate: 2
+## tens: 2
+## stream: 2
+## refused: 2
+## reducing: 2
+## granted: 2
+## sales: 2
+## protesters: 2
+## sweden: 2
+## experiments: 2
+## functional: 2
+## city's: 2
+## gradually: 2
+## firm: 2
+## warns: 2
+## strict: 2
+## pounds: 2
+## favorite: 2
+## joining: 2
+## tuesday: 2
+## upset: 2
+## october: 2
+## connection: 2
+## campuses: 2
+## baths: 2
+## comprehension30: 2
+## caricatures: 2
+## landing: 2
+## attended: 2
+## talks: 2
+## clifford: 2
+## pets: 2
+## unusual: 2
+## originally: 2
+## obviously: 2
+## useless: 2
+## tall: 2
+## identity: 2
+## earned: 2
+## rainy: 2
+## damp: 2
+## reporter: 2
+## primarily: 2
+## waste: 2
+## din: 2
+## cooking: 2
+## creatures: 2
+## people's: 2
+## jive: 2
+## foundation: 2
+## sodas: 2
+## gambler: 2
+## aon: 2
+## photography: 2
+## concert: 2
+## stations: 2
+## ready: 2
+## win: 2
+## hungry: 2
+## italy: 2
+## hometown: 2
+## prior: 2
+## supporters: 2
+## loneliness: 2
+## trainers: 2
+## promotes: 2
+## pandemics: 2
+## aim: 2
+## cross: 2
+## mud: 2
+## drops: 2
+## snow: 2
+## hate: 2
+## subjects: 2
+## contacted: 2
+## slowly: 2
+## gofundme: 2
+## comfortable: 2
+## june: 2
+## mrs: 2
+## postcards: 2
+## counties: 2
+## cide: 2
+## western: 2
+## taken: 2
+## cwhy: 2
+## parks: 2
+## beans: 2
+## husband: 2
+## helpful: 2
+## harmful: 2
+## everywhere: 2
+## crow: 2
+## purchase: 2
+## development: 2
+## luck: 2
+## goals: 2
+## artwork: 2
+## poem: 2
+## merchant: 2
+## policy: 2
+## complained: 2
+## gentle: 2
+## clear: 2
+## explaining: 2
+## loves: 2
+## income: 2
+## whe: 2
+## degrees: 2
+## devote: 2
+## ipad: 2
+## personal: 2
+## spoken: 2
+## hurting: 2
+## incorporate: 2
+## drank: 2
+## shortly: 2
+## head: 2
+## hoose: 2
+## waiter: 2
+## pitting: 2
+## treasures: 2
+## funeral: 2
+## travel: 2
+## peace: 2
+## fan: 2
+## hobby: 2
+## ended: 2
+## ready: 2
+## removed: 2
+## blocks: 2
+## appropriate: 2
+## mostly: 2
+## perform: 2
+## seat: 2
+## productions: 2
+## rural: 2
+## sounds: 2
+## increasingly: 2
+## toronto's: 2
+## boats: 2
+## tons: 2
+## specific: 2
+## discriminatory: 2
+## plus: 2
+## lake: 2
+## sunk: 2
+## kong: 2
+## role: 2
+## toys: 2
+## surface: 2
+## ocean: 2
+## require: 2
+## laws: 2
+## boston: 2
+## beard: 2
+## spectrum: 2
+## replace: 2
+## industrial: 2
+## dressed: 2
+## encouraging: 2
+## moreover: 2
+## cure: 2
+## paris: 2
+## difficulty: 2
+## grasp: 2
+## added: 2
+## address: 2
+## risky: 2
+## product: 2
+## involves: 2
+## hung: 2
+## turns: 2
+## race: 2
+## nursing: 2
+## sit: 2
+## equipment: 2
+## punch: 2
+## rooms: 2
+## ought: 2
+## air: 2
+## threatened: 2
+## necessary: 2
+## trust: 2
+## ho: 2
+## degrade: 2
+## repair: 2
+## rule: 2
+## renewable: 2
+## scene: 2
+## walkable: 2
+## reluctant: 2
+## addictive: 2
+## unwind: 2
+## issue: 2
+## seasons: 2
+## cousin: 2
+## guide: 2
+## beginning: 2
+## republicans: 2
+## awards: 2
+## fryer: 2
+## minister: 2
+## regular: 2
+## tourists: 2
+## festival: 2
+## visitors: 2
+## gas: 2
+## name: 2
+## wealthy: 2
+## answered: 2
+## fear: 2
+## beg: 2
+## seemed: 2
+## rainwater: 2
+## corner: 2
+## messages: 2
+## empty: 2
+## nobody: 2
+## knocked: 2
+## weapons: 2
+## varieties: 2
+## mirrors: 2
+## watched: 2
+## youth: 2
+## otherwise: 2
+## copenhagen: 2
+## afternoon: 2
+## classical: 2
+## economic: 2
+## duty: 2
+## fourth: 2
+## aid: 2
+## ring: 2
+## businessman: 2
+## weight: 2
+## bush: 2
+## colonies: 2
+## adulthood: 2
+## separate: 2
+## danish: 2
+## survived: 2
+## curious: 2
+## valves: 2
+## window: 2
+## shout: 2
+## condition: 2
+## ruins: 2
+## wise: 2
+## value: 2
+## knobs: 2
+## scholarship: 2
+## pale: 2
+## susan: 2
+## anyway: 2
+## released: 2
+## grange: 2
+## temper: 2
+## agency: 2
+## passage3: 2
+## slave: 2
+## exposed: 2
+## target: 2
+## hoped: 2
+## sufficient: 2
+## abandoned: 2
+## henry: 2
+## thanks: 2
+## table: 2
+## related: 2
+## seconds: 2
+## happiness: 2
+## village: 2
+## feelings: 2
+## bookstore: 2
+## lovesick: 2
+## constant: 2
+## heal: 2
+## light: 2
+## acquired: 2
+## attacked: 2
+## pleasure: 2
+## chard: 2
+## determine: 2
+## scent: 2
+## albert: 2
+## creams: 2
+## percent: 2
+## policing: 2
+## yes: 2
+## farm: 2
+## riverbank: 2
+## nutritious: 2
+## square: 2
+## containers: 2
+## thank: 2
+## surprise: 2
+## fells: 2
+## continue: 2
+## manage: 2
+## prince: 2
+## bold: 2
+## possibly: 2
+## anne: 2
+## focuses: 2
+## ensure: 2
+## trump’: 2
+## regions: 2
+## situation: 2
+## slightly: 2
+## employment: 2
+## employee: 2
+## vacant: 2
+## raining: 2
+## speeds: 2
+## practices: 2
+## moments: 2
+## twain: 2
+## theater: 2
+## season: 2
+## lasting: 2
+## willing: 2
+## treats: 2
+## totalled: 2
+## flippers: 2
+## regardless: 2
+## unfair: 2
+## diets: 2
+## lie: 2
+## shrink: 2
+## potentially: 2
+## car-focused: 2
+## pennsylvania: 2
+## genes: 2
+## titus: 2
+## reservation: 2
+## offered: 2
+## troublemaker: 2
+## sites: 2
+## playground: 2
+## equally: 2
+## cage: 2
+## examined: 2
+## melbourne: 2
+## handwritten: 2
+## protests: 2
+## philadelphia: 2
+## nation's: 2
+## doyle: 2
+## suffers: 2
+## elements: 2
+## supportive: 2
+## ies: 2
+## owned: 2
+## planet: 2
+## proud: 2
+## happily: 2
+## sense: 2
+## cars: 2
+## traveling: 2
+## portion: 2
+## persistence: 2
+## magazine: 2
+## pressure: 2
+## christmas: 2
+## governor’s: 2
+## calm: 2
+## cover: 2
+## ubiquitous: 2
+## normally: 2
+## germs: 2
+## bass: 2
+## devoted: 2
+## vegetable: 2
+## glass: 2
+## surgeon: 2
+## consists: 2
+## offers: 2
+## careless: 2
+## resemble: 2
+## sentinel: 2
+## effective: 2
+## critics: 2
+## storms: 2
+## letters: 2
+## trusted: 2
+## shoot: 2
+## applied: 2
+## brick: 2
+## noticing: 2
+## separated: 2
+## hoping: 2
+## helping: 2
+## determined: 2
+## clothing: 2
+## arose: 2
+## fight: 2
+## involved: 2
+## professional: 2
+## singer: 2
+## typically: 2
+## repaired: 2
+## eventually: 2
+## dig: 2
+## hairs: 2
+## bread: 2
+## decades: 2
+## glance: 2
+## pick: 2
+## counsel: 2
+## governor: 2
+## paper: 2
+## sparked: 2
+## societies: 2
+## reject: 2
+## drive: 2
+## motion: 2
+## strike: 2
+## competition: 2
+## factors: 2
+## welcomed: 2
+## levels: 2
+## proven: 2
+## dying: 2
+## trump: 2
+## balanced: 2
+## easygoing: 2
+## potato: 2
+## polite: 2
+## exceeded: 2
+## physics: 2
+## tourism: 2
+## treasurer: 2
+## hunt: 2
+## pointed: 2
+## gather: 2
+## driver: 2
+## text: 2
+## bored: 2
+## frank: 2
+## discovery: 2
+## asking: 2
+## roll: 2
+## royal: 2
+## transfer: 2
+## hands: 2
+## voices: 2
+## evenly: 2
+## theories: 2
+## yow: 2
+## baggage: 2
+## texas: 2
+## pink: 2
+## individuals: 2
+## freedom: 2
+## describe: 2
+## express: 2
+## suggest: 2
+## due: 2
+## washington: 2
+## moreno: 2
+## soda: 2
+## scored: 2
+## depends: 2
+## member: 2
+## thirds: 2
+## las: 2
+## pair: 2
+## fights: 2
+## vitamin: 2
+## represent: 2
+## beside: 2
+## winter: 2
+## facilities: 2
+## saying: 2
+## current: 2
+## fred: 2
+## migrate: 2
+## warm: 2
+## myself: 2
+## wish: 2
+## storing: 2
+## evaluates: 2
+## cat: 2
+## buying: 2
+## cheat: 2
+## fou: 2
+## properly: 2
+## studio: 2
+## compared: 2
+## shift: 2
+## mine: 2
+## previous: 2
+## earlier: 2
+## legally: 2
+## mining: 2
+## tran: 2
+## enjoys: 2
+## with: 2
+## kennedy: 2
+## tired: 2
+## homes: 2
+## remains: 2
+## technology: 2
+## financial: 2
+## final: 2
+## likelihood: 2
+## jean: 2
+## interfering: 2
+## boat: 2
+## remove: 2
+## highly: 2
+## grateful: 2
+## whitewashing: 2
+## raincoat: 2
+## website: 2
+## difficulties: 2
+## populations: 2
+## nervous: 2
+## tap: 2
+## fine: 2
+## opposition: 2
+## accounted: 2
+## produced: 2
+## coast: 2
+## breathe: 2
+## aat: 2
+## today’s: 2
+## reported: 2
+## tha: 2
+## imagine: 2
+## sat: 2
+## recently: 2
+## bomb: 2
+## skinny: 2
+## forbid: 2
+## fifteen: 2
+## doses: 2
+## lies: 2
+## drivers: 2
+## ice: 2
+## conclusion: 2
+## competed: 2
+## jumped: 2
+## rocks: 2
+## resources: 2
+## rush: 2
+## storage: 2
+## airplane: 2
+## alcohol: 2
+## general: 2
+## nasa: 2
+## participate: 2
+## hem: 2
+## fats: 2
+## regularly: 2
+## allowing: 2
+## creativity: 2
+## letting: 2
+## planet: 2
+## shoulder: 2
+## sign: 2
+## methods: 2
+## passengers: 2
+## kenneth: 2
+## produce: 2
+## nations: 2
+## nerves: 2
+## bodies: 2
+## stronger: 2
+## ruin: 2
+## electronic: 2
+## provides: 2
+## radio: 2
+## feed: 2
+## han: 2
+## enlarged: 2
+## frightening: 2
+## coasts: 2
+## advance: 2
+## tour: 2
+## worry: 2
+## family: 2
+## factor: 2
+## wind: 2
+## curriculum: 2
+## herded: 2
+## likes: 2
+## effects: 2
+## stake: 2
+## forbidden: 2
+## jam: 2
+## engage: 2
+## sad: 2
+## formal: 2
+## daytime: 2
+## deadly: 2
+## tested: 2
+## price: 2
+## novel: 2
+## users: 2
+## homeless: 2
+## invite: 2
+## buyer: 2
+## rights: 2
+## insects: 1
+## elaine: 1
+## impressed: 1
+## thorough: 1
+## wedding: 1
+## bassist: 1
+## assistant: 1
+## surgery: 1
+## bathing: 1
+## tells: 1
+## selassie: 1
+## ranks: 1
+## inner: 1
+## disc: 1
+## grange: 1
+## advantageous: 1
+## disposition: 1
+## meter: 1
+## truth: 1
+## let: 1
+## mic: 1
+## gate: 1
+## shadow: 1
+## they've: 1
+## herself: 1
+## softly: 1
+## midwest: 1
+## reaches: 1
+## tiredly: 1
+## sensible: 1
+## shortcomings: 1
+## ica: 1
+## frig: 1
+## scan: 1
+## husband: 1
+## classified: 1
+## arrange: 1
+## valuable: 1
+## grandpa: 1
+## drilling: 1
+## invent: 1
+## assistants: 1
+## packaged: 1
+## equality: 1
+## absorbed: 1
+## respected: 1
+## responsibly: 1
+## attempt: 1
+## seed: 1
+## rate: 1
+## walks: 1
+## mother’: 1
+## passing: 1
+## nose: 1
+## clever: 1
+## arrangements: 1
+## endowment: 1
+## observe: 1
+## formally: 1
+## follow: 1
+## funny: 1
+## deeper: 1
+## minecraft: 1
+## helmet: 1
+## racing: 1
+## headed: 1
+## detector: 1
+## intended: 1
+## closet: 1
+## farmers: 1
+## idle: 1
+## stories: 1
+## block: 1
+## mutually: 1
+## mystery: 1
+## mississippi: 1
+## stone: 1
+## partners: 1
+## oregon: 1
+## crazy: 1
+## conclusion: 1
+## charles: 1
+## college76: 1
+## card: 1
+## create: 1
+## tribes: 1
+## bothered: 1
+## multimillion: 1
+## bodily: 1
+## gun: 1
+## essence: 1
+## invited: 1
+## placed: 1
+## furthermore: 1
+## floated: 1
+## preparation: 1
+## anti: 1
+## completed: 1
+## nap: 1
+## permian: 1
+## guests: 1
+## justified: 1
+## sailor: 1
+## loan: 1
+## asia: 1
+## served: 1
+## publishers: 1
+## bicycle: 1
+## disgust: 1
+## colorado: 1
+## factory: 1
+## lowe: 1
+## hero: 1
+## lying: 1
+## discussion: 1
+## guaranteed: 1
+## autism: 1
+## equipped: 1
+## ayed: 1
+## invest: 1
+## rout: 1
+## reward: 1
+## smiling: 1
+## criticize: 1
+## frustrated: 1
+## promise: 1
+## delivered: 1
+## objection: 1
+## none: 1
+## bolivian: 1
+## smell: 1
+## david: 1
+## incr: 1
+## director: 1
+## mutual: 1
+## wiener: 1
+## campus: 1
+## confirmed: 1
+## held: 1
+## preventable: 1
+## deep: 1
+## globally: 1
+## scholars: 1
+## supplies: 1
+## challenge: 1
+## agrees: 1
+## inspired: 1
+## vary: 1
+## neighbors: 1
+## negotiation: 1
+## council: 1
+## foll: 1
+## rear: 1
+## giving: 1
+## magnificent: 1
+## sidney: 1
+## vanish: 1
+## schedule: 1
+## starts: 1
+## tokyo: 1
+## hatched: 1
+## fought: 1
+## cook: 1
+## dramatic: 1
+## bones: 1
+## shape: 1
+## contributes: 1
+## attach: 1
+## mile: 1
+## winner: 1
+## required: 1
+## task: 1
+## rac: 1
+## wright: 1
+## mad: 1
+## deaths: 1
+## opposed: 1
+## parties: 1
+## arise: 1
+## beetl: 1
+## hurt: 1
+## slept: 1
+## president's: 1
+## minor: 1
+## analysis: 1
+## promised: 1
+## employed: 1
+## pres: 1
+## privilege: 1
+## stomach: 1
+## market: 1
+## lea: 1
+## writer: 1
+## customs: 1
+## ely: 1
+## sank: 1
+## thicker: 1
+## condense: 1
+## innovation: 1
+## yelling: 1
+## considered: 1
+## minds: 1
+## burgers: 1
+## peking: 1
+## concerns: 1
+## excite: 1
+## mixed: 1
+## 1an: 1
+## harvest: 1
+## lower: 1
+## b650: 1
+## staying: 1
+## belief: 1
+## dance: 1
+## costa: 1
+## pouring: 1
+## storey: 1
+## passage': 1
+## steals: 1
+## tapping: 1
+## flat: 1
+## memories: 1
+## appointment: 1
+## adequately: 1
+## lowering: 1
+## burger: 1
+## bott: 1
+## attracted: 1
+## soc: 1
+## sars: 1
+## marking: 1
+## investigation: 1
+## husband's: 1
+## gree: 1
+## packed: 1
+## consume: 1
+## beaches: 1
+## screen: 1
+## touring: 1
+## psychiatrist: 1
+## adapt: 1
+## unhealthiness: 1
+## accompanying: 1
+## legend: 1
+## wherever: 1
+## designs: 1
+## conducts: 1
+## evolution: 1
+## abraham: 1
+## slow: 1
+## disadvantages: 1
+## arrive: 1
+## creature: 1
+## hughes: 1
+## silence: 1
+## stressed: 1
+## stones: 1
+## tank: 1
+## eave: 1
+## tireless: 1
+## percentage: 1
+## solo: 1
+## dormitory: 1
+## drove: 1
+## isolation: 1
+## flowing: 1
+## celebrates: 1
+## hardworking: 1
+## citizen: 1
+## deterioration: 1
+## northward: 1
+## yours: 1
+## gets: 1
+## meeting: 1
+## someday: 1
+## required: 1
+## safely: 1
+## lonelier: 1
+## whomever: 1
+## property: 1
+## surely: 1
+## formed: 1
+## words: 1
+## proof: 1
+## cooling: 1
+## creased: 1
+## hatch: 1
+## smiles: 1
+## pools: 1
+## paragraphs: 1
+## dislike: 1
+## achievement: 1
+## sum: 1
+## dusk: 1
+## flying: 1
+## strategies: 1
+## nearest: 1
+## shone: 1
+## habitat: 1
+## thirst: 1
+## lays: 1
+## lear: 1
+## departed: 1
+## memory: 1
+## specialists: 1
+## camping: 1
+## hugh: 1
+## minute: 1
+## flattened: 1
+## ect: 1
+## scattering: 1
+## gloves: 1
+## corfu: 1
+## motivated: 1
+## producing: 1
+## sunny: 1
+## enlarge: 1
+## runs: 1
+## bare: 1
+## mistakenly: 1
+## human-centric: 1
+## bedroom: 1
+## minimum: 1
+## dozen: 1
+## approximately: 1
+## betterment: 1
+## hearing: 1
+## killing: 1
+## reduces: 1
+## basic: 1
+## advertise: 1
+## sometime: 1
+## injuring: 1
+## safer: 1
+## elevated: 1
+## understood: 1
+## fence: 1
+## burns: 1
+## professionally: 1
+## hist: 1
+## afforded: 1
+## thin: 1
+## disasters: 1
+## satellites: 1
+## oak: 1
+## worn: 1
+## carries: 1
+## hitting: 1
+## tomorrow’s: 1
+## oddest: 1
+## searchers: 1
+## controversial: 1
+## obey: 1
+## politicians: 1
+## omnivores: 1
+## thorkild: 1
+## refuses: 1
+## medal: 1
+## austra: 1
+## twin: 1
+## steady: 1
+## touched: 1
+## degree: 1
+## leaders: 1
+## ere: 1
+## knock: 1
+## grammy: 1
+## expression: 1
+## pleased: 1
+## container: 1
+## dating: 1
+## improves: 1
+## owing: 1
+## severe: 1
+## imperial: 1
+## release: 1
+## accused: 1
+## yor: 1
+## indiana: 1
+## recommend: 1
+## 57alive: 1
+## additional: 1
+## rejected: 1
+## afford: 1
+## people’s: 1
+## embarrassment: 1
+## canada: 1
+## resulted: 1
+## emmanuel: 1
+## pictures: 1
+## unequal: 1
+## jack: 1
+## bernardo: 1
+## containing: 1
+## wake: 1
+## nail: 1
+## alphabet: 1
+## activity: 1
+## officers: 1
+## missouri: 1
+## wel: 1
+## machines: 1
+## recall: 1
+## location: 1
+## sailors: 1
+## proteins: 1
+## transform: 1
+## generations: 1
+## enforce: 1
+## whatever: 1
+## republican: 1
+## seek: 1
+## pays: 1
+## realizing: 1
+## chase: 1
+## anywhere: 1
+## continued: 1
+## heated: 1
+## fallow: 1
+## differences: 1
+## tastes: 1
+## lent: 1
+## oppose: 1
+## scient: 1
+## provided: 1
+## alter: 1
+## handling: 1
+## truck: 1
+## hunger: 1
+## analyzed: 1
+## interview: 1
+## 1940s: 1
+## maybe: 1
+## experiencing: 1
+## cures: 1
+## punishing: 1
+## nanjing: 1
+## confusing: 1
+## maintain: 1
+## cmany: 1
+## troubles: 1
+## security: 1
+## ideal: 1
+## railway: 1
+## closely: 1
+## transmissible: 1
+## finds: 1
+## musical: 1
+## captain: 1
+## russia: 1
+## bidding: 1
+## teams: 1
+## curve: 1
+## destruction: 1
+## attractive: 1
+## curiously: 1
+## pet: 1
+## entrepreneurial: 1
+## wounded: 1
+## economist: 1
+## violent: 1
+## delivering: 1
+## appreciated: 1
+## operations: 1
+## strikes: 1
+## cared: 1
+## ctool: 1
+## shut: 1
+## gazing: 1
+## maintained: 1
+## ruining: 1
+## buried: 1
+## according: 1
+## improving: 1
+## councilors: 1
+## toughness: 1
+## inexperienced: 1
+## volunteers: 1
+## determination: 1
+## arrest: 1
+## europeans: 1
+## leaning: 1
+## encounter: 1
+## rely: 1
+## discuss: 1
+## overcoat: 1
+## crimes: 1
+## intellectual: 1
+## poses: 1
+## generate: 1
+## protagonists: 1
+## roxie: 1
+## thick: 1
+## moreno’s: 1
+## neoprene: 1
+## expansion: 1
+## antimony: 1
+## managing: 1
+## hair: 1
+## thursday: 1
+## dawn: 1
+## colony: 1
+## approval: 1
+## clean: 1
+## farmer: 1
+## suited: 1
+## supposes: 1
+## currencies': 1
+## globalization: 1
+## lacked: 1
+## forms: 1
+## wes: 1
+## uncontrolled: 1
+## experience: 1
+## contribution: 1
+## plenty: 1
+## sees: 1
+## schoolteachers: 1
+## intend: 1
+## rewritten: 1
+## dispute: 1
+## greet: 1
+## gift: 1
+## seaports: 1
+## answering: 1
+## parenting: 1
+## progress: 1
+## remaining: 1
+## alia: 1
+## mastery: 1
+## rebecca: 1
+## wars: 1
+## cheapest: 1
+## beings: 1
+## route: 1
+## person’: 1
+## predict: 1
+## dismissed: 1
+## tle: 1
+## med: 1
+## backing: 1
+## knives: 1
+## tow: 1
+## telescopes: 1
+## collection: 1
+## inches: 1
+## preserved: 1
+## juice: 1
+## carbohydrates: 1
+## foxes: 1
+## ticket: 1
+## waited: 1
+## notes: 1
+## luke's: 1
+## rarely: 1
+## unnecessary: 1
+## detects: 1
+## writers: 1
+## nonviolent: 1
+## viewed: 1
+## virginia: 1
+## rankings: 1
+## cone: 1
+## grandparents': 1
+## enemies: 1
+## 77they: 1
+## sprung: 1
+## bear: 1
+## precious: 1
+## spain: 1
+## annually: 1
+## seeds: 1
+## 12th: 1
+## emotions: 1
+## package: 1
+## satisfactory: 1
+## oor: 1
+## sensing: 1
+## 43a: 1
+## strongly: 1
+## 30when: 1
+## raincoats: 1
+## depressed: 1
+## rebuild: 1
+## conservationists: 1
+## towards: 1
+## cla: 1
+## crowding: 1
+## permitting: 1
+## handle: 1
+## stic: 1
+## sole: 1
+## leadership: 1
+## circles: 1
+## accelerate: 1
+## 73ain: 1
+## acidic: 1
+## similarities: 1
+## diet: 1
+## sending: 1
+## flight: 1
+## competing: 1
+## refrigerator-size: 1
+## arguing: 1
+## wetlands: 1
+## moderate: 1
+## abuse: 1
+## cinema: 1
+## lobby: 1
+## umber: 1
+## weeds: 1
+## actively: 1
+## protested: 1
+## discovering: 1
+## greenhouse: 1
+## politician: 1
+## assist: 1
+## glanced: 1
+## aug: 1
+## rodriguez: 1
+## redirection: 1
+## spe: 1
+## shoes: 1
+## layer: 1
+## glasses: 1
+## driven: 1
+## pretest: 1
+## adopted: 1
+## merciless: 1
+## mountains: 1
+## neighbor's: 1
+## naturally: 1
+## bikes: 1
+## businesses: 1
+## pushing: 1
+## fighting: 1
+## twist: 1
+## lone: 1
+## peo: 1
+## rolled: 1
+## initially: 1
+## increases: 1
+## enjoying: 1
+## addiction: 1
+## robert: 1
+## faces: 1
+## distribut: 1
+## chin: 1
+## strictly: 1
+## jealousy: 1
+## produces: 1
+## 60life: 1
+## patterns: 1
+## giant: 1
+## enjoyable: 1
+## jamaica: 1
+## presidency: 1
+## outbreaks: 1
+## judgment: 1
+## reform: 1
+## lucky: 1
+## guitar: 1
+## tur: 1
+## anna: 1
+## craft: 1
+## losers: 1
+## undergoing: 1
+## bells: 1
+## shapes: 1
+## reasonable: 1
+## ambitious: 1
+## long-lost: 1
+## papers: 1
+## parkland: 1
+## defines: 1
+## staging: 1
+## watering: 1
+## disappearing: 1
+## thinner: 1
+## cooperative: 1
+## clast: 1
+## anderson: 1
+## crowd: 1
+## outsider: 1
+## quality: 1
+## contents: 1
+## carvings: 1
+## grandma's: 1
+## eaten: 1
+## trick: 1
+## amer: 1
+## publicly: 1
+## makers: 1
+## mak: 1
+## judge: 1
+## ash: 1
+## beating: 1
+## ctakes: 1
+## poured: 1
+## algae: 1
+## sheridan’s: 1
+## influence: 1
+## sights: 1
+## reluctantly: 1
+## 29young: 1
+## ginza: 1
+## excites: 1
+## personally: 1
+## bags: 1
+## hooked: 1
+## salads: 1
+## truly: 1
+## opposes: 1
+## richmond: 1
+## eldest: 1
+## institutions: 1
+## diligent: 1
+## justice: 1
+## positions: 1
+## carrying: 1
+## beer: 1
+## jennifer’s: 1
+## railings: 1
+## celebration: 1
+## imagined: 1
+## quantity: 1
+## centre: 1
+## engaged: 1
+## seaweed: 1
+## relative: 1
+## notepaper: 1
+## confirm: 1
+## providers: 1
+## wealth: 1
+## cooler: 1
+## shifting: 1
+## animal’s: 1
+## pardon: 1
+## soup: 1
+## restart: 1
+## independent: 1
+## infer: 1
+## brings: 1
+## near-earth: 1
+## organized: 1
+## lab: 1
+## identified: 1
+## argued: 1
+## dis: 1
+## scenes: 1
+## mother’s: 1
+## reads: 1
+## buyers: 1
+## represents: 1
+## prospect: 1
+## shares: 1
+## vegas: 1
+## becoming: 1
+## conti: 1
+## researcher: 1
+## retired: 1
+## princess: 1
+## finger: 1
+## dedicating: 1
+## let’s: 1
+## donated: 1
+## gallon: 1
+## motorcycle: 1
+## actress: 1
+## davis: 1
+## traditions: 1
+## physically: 1
+## pulling: 1
+## begun: 1
+## scanners: 1
+## flames: 1
+## instru: 1
+## hundreds: 1
+## barack: 1
+## portions: 1
+## profits: 1
+## becomes: 1
+## touching: 1
+## yellowed: 1
+## reminded: 1
+## sharp: 1
+## ratliff: 1
+## unexpectedly: 1
+## adjust: 1
+## forget: 1
+## enormous: 1
+## streetlights: 1
+## greatly: 1
+## camera: 1
+## rapid: 1
+## thankful: 1
+## worsen: 1
+## coastlines: 1
+## turkey: 1
+## lifetime: 1
+## migrating: 1
+## chauvinism: 1
+## supported: 1
+## enlarging: 1
+## cultures: 1
+## delayed: 1
+## pioneers: 1
+## stockholm: 1
+## argues: 1
+## frustrating: 1
+## cancer: 1
+## wildfire: 1
+## italians: 1
+## assembly: 1
+## unpredictable: 1
+## happen: 1
+## keeper: 1
+## saf: 1
+## occurring: 1
+## insult: 1
+## collage: 1
+## image: 1
+## stuck: 1
+## crash: 1
+## cried: 1
+## victim: 1
+## cents: 1
+## aware: 1
+## permission: 1
+## wore: 1
+## twists: 1
+## armed: 1
+## decent: 1
+## prison: 1
+## doubt: 1
+## elena: 1
+## accelerates: 1
+## profession: 1
+## region: 1
+## bpack: 1
+## lips: 1
+## retail: 1
+## straw: 1
+## terr: 1
+## puts: 1
+## vel: 1
+## snakes: 1
+## evidently: 1
+## wrapped: 1
+## globe: 1
+## ratter: 1
+## score: 1
+## preserving: 1
+## piece: 1
+## shorten: 1
+## ood: 1
+## ell: 1
+## existed: 1
+## changing: 1
+## relying: 1
+## terrorist: 1
+## advertising: 1
+## daudio: 1
+## forty: 1
+## country’: 1
+## mines: 1
+## riding: 1
+## coff: 1
+## bell: 1
+## located: 1
+## immunity: 1
+## climates: 1
+## sen: 1
+## clothes: 1
+## affordable: 1
+## brought: 1
+## proponents: 1
+## haven: 1
+## moist: 1
+## arch: 1
+## fashioned: 1
+## ordered: 1
+## uneven: 1
+## cleaner: 1
+## articles: 1
+## drinks: 1
+## situated: 1
+## let’: 1
+## fountains: 1
+## elementary: 1
+## policymakers: 1
+## lands: 1
+## cafe: 1
+## altogether: 1
+## everybody: 1
+## strings: 1
+## motherless: 1
+## conducted: 1
+## roads: 1
+## response: 1
+## sword: 1
+## unprecedented: 1
+## shrimp: 1
+## fatally: 1
+## motorcycles: 1
+## beetles’: 1
+## enters: 1
+## permanent: 1
+## orbits: 1
+## sussman’s: 1
+## throughout: 1
+## maintenance: 1
+## tal: 1
+## extend: 1
+## mixing: 1
+## ancient: 1
+## charges: 1
+## responsibilities: 1
+## bridges: 1
+## founded: 1
+## struc: 1
+## rising: 1
+## interests: 1
+## rry’s: 1
+## ism: 1
+## january: 1
+## locals: 1
+## flow: 1
+## scared: 1
+## snake: 1
+## winners: 1
+## resign: 1
+## await: 1
+## motivation: 1
+## afterward: 1
+## sour: 1
+## union: 1
+## tore: 1
+## 24she: 1
+## abilities: 1
+## region’s: 1
+## presented: 1
+## twenty-four: 1
+## introduce: 1
+## super: 1
+## inherited: 1
+## acceptable: 1
+## holes: 1
+## principle: 1
+## partner: 1
+## waved: 1
+## reusable: 1
+## rank: 1
+## embarrassing: 1
+## bloomberg: 1
+## circumstance: 1
+## partial: 1
+## queen: 1
+## funded: 1
+## celebrated: 1
+## soldier: 1
+## alongside: 1
+## dirt: 1
+## eager: 1
+## exercising: 1
+## numb: 1
+## wasted: 1
+## theory: 1
+## visually: 1
+## freshman: 1
+## unloading: 1
+## corrections: 1
+## fingertips: 1
+## associate: 1
+## focusing: 1
+## imaginative: 1
+## crisis: 1
+## superior: 1
+## realistic: 1
+## compete: 1
+## laugh: 1
+## bused: 1
+## councilors': 1
+## branching: 1
+## bears: 1
+## tomorrow: 1
+## ers: 1
+## floating: 1
+## persuading: 1
+## rica: 1
+## jerusalem: 1
+## react: 1
+## wang: 1
+## coons: 1
+## lately: 1
+## turtle: 1
+## musician: 1
+## unpaid: 1
+## mark’s: 1
+## planting: 1
+## learnt: 1
+## notable: 1
+## indoors: 1
+## instance: 1
+## tes: 1
+## management: 1
+## destroying: 1
+## bitter: 1
+## shells: 1
+## void: 1
+## dick: 1
+## anxious: 1
+## stays: 1
+## alert: 1
+## democratic: 1
+## classics: 1
+## atmospheric: 1
+## awkwardness: 1
+## slows: 1
+## operation: 1
+## thief: 1
+## ons: 1
+## issues: 1
+## toll: 1
+## reductions: 1
+## hang: 1
+## employees: 1
+## students’: 1
+## dickens: 1
+## wash: 1
+## dir: 1
+## arrival: 1
+## assembly’s: 1
+## athletic: 1
+## intentionally: 1
+## discussing: 1
+## visiting: 1
+## genetic: 1
+## recreate: 1
+## founding: 1
+## reflection: 1
+## conclude: 1
+## grounds: 1
+## prevention: 1
+## harlem: 1
+## swing: 1
+## encounters: 1
+## consistent: 1
+## grandma: 1
+## desk: 1
+## supports: 1
+## harvesting: 1
+## delivery: 1
+## prime: 1
+## wastes: 1
+## signed: 1
+## hotter: 1
+## refrigerator: 1
+## cutting: 1
+## lunchtime: 1
+## weigh: 1
+## downtown: 1
+## administrations: 1
+## highlands: 1
+## scores: 1
+## lowest: 1
+## guess: 1
+## hid: 1
+## retreat: 1
+## ou: 1
+## ear: 1
+## 30c: 1
+## bis: 1
+## piano: 1
+## efficient: 1
+## material: 1
+## imaginary: 1
+## familiar: 1
+## shouldn’t: 1
+## industries: 1
+## salaries: 1
+## symbol: 1
+## paste: 1
+## switching: 1
+## medicines: 1
+## barrels: 1
+## gathered: 1
+## wishes: 1
+## amazed: 1
+## picked: 1
+## aspirations: 1
+## immense: 1
+## athey: 1
+## libraries: 1
+## sheep: 1
+## pollute: 1
+## agreeable: 1
+## accomplish: 1
+## angeles: 1
+## ells: 1
+## expand: 1
+## mood: 1
+## malta: 1
+## purchased: 1
+## waiting: 1
+## imply: 1
+## florida’s: 1
+## competitors: 1
+## biology: 1
+## polluted: 1
+## pronunciation: 1
+## mere: 1
+## bird: 1
+## transition: 1
+## fearful: 1
+## collins: 1
+## rates: 1
+## ordering: 1
+## recognition: 1
+## restless: 1
+## respond: 1
+## rang: 1
+## strongest: 1
+## holiday: 1
+## barriers: 1
+## awareness: 1
+## haste: 1
+## childish: 1
+## link: 1
+## edition: 1
+## breaching: 1
+## hesitate: 1
+## differs: 1
+## loo: 1
+## pockets: 1
+## intentional: 1
+## belongings: 1
+## risks: 1
+## asleep: 1
+## favorable: 1
+## eps: 1
+## fasten: 1
+## election: 1
+## doubtful: 1
+## reader: 1
+## elder: 1
+## sightseeing: 1
+## noble: 1
+## responds: 1
+## considering: 1
+## morison: 1
+## disadvantage: 1
+## escape: 1
+## eases: 1
+## decade: 1
+## boundaries: 1
+## filling: 1
+## match: 1
+## backyard: 1
+## stopping: 1
+## dozens: 1
+## unknown: 1
+## prospects: 1
+## post: 1
+## coastline: 1
+## shown: 1
+## wine: 1
+## pieces: 1
+## ignore: 1
+## systems: 1
+## torres: 1
+## d2022: 1
+## italian: 1
+## gentleman: 1
+## today’: 1
+## people77: 1
+## draw: 1
+## hello: 1
+## imp: 1
+## hired: 1
+## smart: 1
+## a17: 1
+## tern: 1
+## vans: 1
+## yle: 1
+## 27we: 1
+## mentioned: 1
+## represented: 1
+## listened: 1
+## scale: 1
+## halfway: 1
+## visits: 1
+## tragedies: 1
+## earthquake: 1
+## restaurants: 1
+## educational: 1
+## rea: 1
+## complain: 1
+## boldly: 1
+## he'd: 1
+## los: 1
+## gallons: 1
+## stored: 1
+## elp: 1
+## 36c: 1
+## chains: 1
+## watches: 1
+## endure: 1
+## referred: 1
+## spare: 1
+## region's: 1
+## 24hen: 1
+## dby: 1
+## highlighted: 1
+## jumping: 1
+## harmony: 1
+## combine: 1
+## lining: 1
+## sudden: 1
+## proves: 1
+## ordinary: 1
+## ups: 1
+## cash: 1
+## matthew’: 1
+## essential: 1
+## drawing: 1
+## translating: 1
+## rid: 1
+## elephants: 1
+## announcement: 1
+## compound: 1
+## gotten: 1
+## laying: 1
+## beneficial: 1
+## monitor: 1
+## laid: 1
+## rom: 1
+## wildfires: 1
+## fastest: 1
+## contemporaries: 1
+## laundry: 1
+## ake: 1
+## sleeping: 1
+## controlled: 1
+## exploded: 1
+## specialness: 1
+## cleaning: 1
+## barley: 1
+## aimed: 1
+## depending: 1
+## seeking: 1
+## friend’: 1
+## acres: 1
+## socks: 1
+## aboard: 1
+## relies: 1
+## meters: 1
+## unsure: 1
+## fifty: 1
+## indu: 1
+## earth-threatening: 1
+## demands: 1
+## speech: 1
+## reports: 1
+## sweets: 1
+## vocal: 1
+## quantities: 1
+## index: 1
+## symbolize: 1
+## favorites: 1
+## workout: 1
+## instant: 1
+## remotely: 1
+## fully: 1
+## string: 1
+## krakow: 1
+## hotels: 1
+## appears: 1
+## poles: 1
+## capturing: 1
+## ase: 1
+## rises: 1
+## audience: 1
+## monday: 1
+## essay: 1
+## tightly: 1
+## girlfriend: 1
+## remembering: 1
+## performing: 1
+## picnic: 1
+## mixed-used: 1
+## molecules: 1
+## excellent: 1
+## captured: 1
+## indicate: 1
+## colorful: 1
+## ceremony: 1
+## discounted: 1
+## oldenburg: 1
+## alley: 1
+## majority: 1
+## depression: 1
+## loss: 1
+## producer: 1
+## collecting: 1
+## mechanic: 1
+## beast: 1
+## brain: 1
+## images: 1
+## voted: 1
+## april: 1
+## uman: 1
+## thomas: 1
+## chemist: 1
+## smallest: 1
+## climb: 1
+## greenhouses: 1
+## official: 1
+## telegraph: 1
+## swinging: 1
+## bryant: 1
+## effect: 1
+## spell: 1
+## bringing: 1
+## advantages: 1
+## leak: 1
+## regarded: 1
+## pastes: 1
+## maker: 1
+## workaholic: 1
+## expands: 1
+## asks: 1
+## dress: 1
+## sect: 1
+## application: 1
+## randa: 1
+## insisted: 1
+## purposes: 1
+## releases: 1
+## differing: 1
+## cleans: 1
+## cooker: 1
+## loose: 1
+## texts: 1
+## drunk: 1
+## pattern: 1
+## healthiest: 1
+## guards: 1
+## sizes: 1
+## customer: 1
+## firefighters: 1
+## reviews: 1
+## shirts: 1
+## disastrous: 1
+## detected: 1
+## neglected: 1
+## recognized: 1
+## guy: 1
+## misery: 1
+## emissions: 1
+## suffering: 1
+## direct: 1
+## richly: 1
+## rela: 1
+## bathroom: 1
+## pipe: 1
+## approved: 1
+## butter: 1
+## failure: 1
+## quit: 1
+## calmer: 1
+## csum: 1
+## dad: 1
+## tony: 1
+## government’: 1
+## attacks: 1
+## sighted: 1
+## crashing: 1
+## ambition: 1
+## regard: 1
+## object: 1
+## asteroid’s: 1
+## scarce: 1
+## resistance: 1
+## pushes: 1
+## fields: 1
+## chemical: 1
+## memory: 1
+## utilizing: 1
+## linking: 1
+## twelve: 1
+## mention: 1
+## researched: 1
+## wildebeests’: 1
+## enforcing: 1
+## julie: 1
+## loaded: 1
+## east: 1
+## joked: 1
+## exists: 1
+## quarter: 1
+## managers: 1
+## aren’: 1
+## establishing: 1
+## sadly: 1
+## anymore: 1
+## zoe: 1
+## silver: 1
+## offering: 1
+## people: 1
+## cosmetics: 1
+## contests: 1
+## footprints: 1
+## annoyed: 1
+## simpson: 1
+## carolina: 1
+## bod: 1
+## tum: 1
+## neighbor: 1
+## nets: 1
+## calculated: 1
+## troubled: 1
+## existing: 1
+## gen: 1
+## enforcement: 1
+## mix: 1
+## obeyed: 1
+## friendlier: 1
+## grandniece: 1
+## satisfied: 1
+## prefer: 1
+## enriching: 1
+## resolved: 1
+## portland: 1
+## publishes: 1
+## golf: 1
+## editor: 1
+## lend: 1
+## glued: 1
+## warn: 1
+## burial: 1
+## arriving: 1
+## studying: 1
+## brok: 1
+## fishes: 1
+## margaret: 1
+## accessibility: 1
+## overed: 1
+## controller: 1
+## grader: 1
+## indeed: 1
+## sing: 1
+## turning: 1
+## overlook: 1
+## unfriendly: 1
+## arranged: 1
+## seaside: 1
+## encountered: 1
+## suburbs: 1
+## consider: 1
+## necessarily: 1
+## distribution: 1
+## senior: 1
+## mirror: 1
+## feature: 1
+## actor: 1
+## sample: 1
+## capable: 1
+## sadness: 1
+## blasted: 1
+## wing: 1
+## shifts: 1
+## swimming: 1
+## warming: 1
+## undergraduate: 1
+## former: 1
+## observed: 1
+## shock: 1
+## reality: 1
+## vacations: 1
+## float: 1
+## chameleon: 1
+## grasped: 1
+## awfully: 1
+## chronic: 1
+## plays: 1
+## review: 1
+## blair: 1
+## impatient: 1
+## cools: 1
+## skip: 1
+## permit: 1
+## stare: 1
+## collide: 1
+## fatal: 1
+## earth-based: 1
+## schoolwork: 1
+## distinguished: 1
+## worst: 1
+## blanket: 1
+## speeding: 1
+## teen: 1
+## mailbox: 1
+## 43there: 1
+## shiloh: 1
+## graduates: 1
+## shouting: 1
+## injure: 1
+## desire: 1
+## teens: 1
+## trade: 1
+## villagers: 1
+## pretended: 1
+## volunteer: 1
+## believer: 1
+## bridge: 1
+## loans: 1
+## markets: 1
+## liming: 1
+## closeness: 1
+## strength: 1
+## hastily: 1
+## stressful: 1
+## helen: 1
+## ranked: 1
+## unhappy: 1
+## firefighter: 1
+## van: 1
+## testing: 1
+## repairing: 1
+## returns: 1
+## forecast: 1
+## adul: 1
+## benefit: 1
+## outdoors: 1
+## beat: 1
+## lively: 1
+## constructed: 1
+## approaches: 1
+## daddy: 1
+## thrive: 1
+## belt: 1
+## nation: 1
+## mid: 1
+## johnson: 1
+## pretty: 1
+## re-election: 1
+## wonder: 1
+## hopefully: 1
+## whoever: 1
+## they'll: 1
+## seriously: 1
+## corn: 1
+## martin: 1
+## smithsonian's: 1
+## sig: 1
+## fix: 1
+## edi: 1
+## proved: 1
+## ark: 1
+## isn: 1
+## citywide: 1
+## crowds: 1
+## beetle: 1
+## associated: 1
+## faster: 1
+## tops: 1
+## academic: 1
+## thoroughly: 1
+## covid: 1
+## sons: 1
+## groups’: 1
+## keys: 1
+## entitled: 1
+## 23i: 1
+## adventures: 1
+## pats: 1
+## retreated: 1
+## maine's: 1
+## upside: 1
+## compelling: 1
+## mainland: 1
+## survey: 1
+## univ: 1
+## included: 1
+## hiding: 1
+## persons: 1
+## coach: 1
+## farmhouse: 1
+## spokesman: 1
+## beforehand: 1
+## awake: 1
+## fair: 1
+## parked: 1
+## shed: 1
+## web: 1
+## australian: 1
+## voyage: 1
+## quieter: 1
+## quart: 1
+## cloth: 1
+## hilton: 1
+## kiss: 1
+## ury: 1
+## longed: 1
+## sang: 1
+## cakes: 1
+## appreciate: 1
+## improvements: 1
+## poverty: 1
+## steam: 1
+## corresp: 1
+## despite: 1
+## wooded: 1
+## lifeless: 1
+## ville: 1
+## hunted: 1
+## sisters: 1
+## diverse: 1
+## preserves: 1
+## lawn: 1
+## facing: 1
+## pace: 1
+## imported: 1
+## sixth: 1
+## filed: 1
+## recovered: 1
+## cushioning: 1
+## doubling: 1
+## sorry: 1
+## camped: 1
+## shelled: 1
+## preferred: 1
+## she’s: 1
+## janine: 1
+## proudly: 1
+## relaxed: 1
+## controlling: 1
+## differ: 1
+## outdoor: 1
+## width: 1
+## georgia: 1
+## impressive: 1
+## valued: 1
+## breaking: 1
+## springs: 1
+## lincoln: 1
+## sets: 1
+## author's: 1
+## rivaling: 1
+## forgettable: 1
+## establish: 1
+## waves: 1
+## fashions: 1
+## beneath: 1
+## leads: 1
+## towns: 1
+## raced: 1
+## hearted: 1
+## doors: 1
+## reaction: 1
+## weren't: 1
+## suppose: 1
+## firs: 1
+## media: 1
+## friendship: 1
+## chemistry: 1
+## des: 1
+## barely: 1
+## struction: 1
+## daft: 1
+## durin: 1
+## teenagers: 1
+## tax: 1
+## ses: 1
+## offend: 1
+## worries: 1
+## recommends: 1
+## trunk: 1
+## subway: 1
+## bury: 1
+## ourselves: 1
+## accustomed: 1
+## efforts: 1
+## evaluate: 1
+## rare: 1
+## doff: 1
+## courses: 1
+## brooks: 1
+## odd: 1
+## length: 1
+## muscle: 1
+## begged: 1
+## civil: 1
+## bre: 1
+## laura: 1
+## america: 1
+## staff: 1
+## jayden’: 1
+## guard: 1
+## impaired: 1
+## fore: 1
+## vote: 1
+## hungrily: 1
+## heirs: 1
+## lancet: 1
+## clet: 1
+## monkey: 1
+## restlessness: 1
+## purchasing: 1
+## stonework: 1
+## fined: 1
+## useful: 1
+## secrets: 1
+## stroke: 1
+## preside: 1
+## views: 1
+## dpay: 1
+## katy: 1
+## mcdonald: 1
+## yourself: 1
+## hides: 1
+## bee: 1
+## stadium: 1
+## remarkable: 1
+## businessmen: 1
+## tor: 1
+## buildings: 1
+## threes: 1
+## empire: 1
+## cloud: 1
+## revolution: 1
+## beef: 1
+## obama's: 1
+## underneath: 1
+## uncles: 1
+## outer: 1
+## atus: 1
+## kid’s: 1
+## kinds: 1
+## ty: 1
+## cbb: 1
+## mail: 1
+## shallow: 1
+## wit: 1
+## albums: 1
+## chairs: 1
+## republic: 1
+## uninjured: 1
+## feared: 1
+## kno: 1
+## goo: 1
+## longest: 1
+## trucks: 1
+## bay: 1
+## mon: 1
+## honor: 1
+## stability: 1
+## jaden: 1
+## stimulating: 1
+## trac: 1
+## explains: 1
+## secret: 1
+## opposed: 1
+## brea: 1
+## harms: 1
+## develops: 1
+## nowhere: 1
+## mankind: 1
+## installing: 1
+## tooth: 1
+## land's: 1
+## reinforcing: 1
+## smaller: 1
+## output: 1
+## instilled: 1
+## facts: 1
+## som: 1
+## beginners: 1
+## document: 1
+## watchlist: 1
+## secondly: 1
+## song: 1
+## contributed: 1
+## flowers: 1
+## principles: 1
+## financially: 1
+## figure: 1
+## whitewash: 1
+## saving: 1
+## nests: 1
+## especial: 1
+## institute: 1
+## sped: 1
+## grou: 1
+## concentrate: 1
+## gamers: 1
+## michael: 1
+## racism: 1
+## complicated: 1
+## import: 1
+## hopeful: 1
+## ronald: 1
+## acted: 1
+## doe: 1
+## tricky: 1
+## heavily: 1
+## launch: 1
+## monthly: 1
+## robbed: 1
+## committed: 1
+## accumulates: 1
+## missed: 1
+## credit: 1
+## afterwards: 1
+## tendency: 1
+## content: 1
+## performance: 1
+## claims: 1
+## fluent: 1
+## thr: 1
+## intelligence: 1
+## meaningful: 1
+## cats: 1
+## consisting: 1
+## vapor: 1
+## respect: 1
+## believing: 1
+## lobbying: 1
+## grandparents: 1
+## paying: 1
+## taught: 1
+## diploma: 1
+## hospitals: 1
+## divided: 1
+## kate: 1
+## emerge: 1
+## openings: 1
+## oid: 1
+## dang: 1
+## stupid: 1
+## signature: 1
+## spreading: 1
+## tenet: 1
+## dated: 1
+## spotted: 1
+## abroad: 1
+## west: 1
+## cen: 1
+## salty: 1
+## conversation: 1
+## stars: 1
+## rabbits: 1
+## cal: 1
+## routes: 1
+## creation: 1
+## trembles: 1
+## creates: 1
+## defending: 1
+## apart: 1
+## list: 1
+## apple: 1
+## rent: 1
+## billions: 1
+## tries: 1
+## washed: 1
+## healthcare: 1
+## walls: 1
