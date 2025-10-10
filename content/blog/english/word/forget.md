@@ -21,6 +21,226 @@ tags:
 type: "featured"
 ---
 
+## warm · p-r
+
+##  pack
+
+```tip:c@summary-box
+n: 包; 一群; 一包
+v: 打包; 塞满
+
+第三人称单数: packs
+过去式: packed
+过去分词: packed
+现在分词/动名词: packing
+```
+
+##  participant
+
+```tip:c@summary-box
+n: 参与者; 参加者
+adj: 参加的
+```
+
+##  patient
+
+```tip:c@summary-box
+n: 病人; 患者
+adj: 有耐心的; 能忍耐的
+```
+
+##  perform
+
+```tip:c@summary-box
+v: 执行; 表演; 履行
+
+第三人称单数: performs
+过去式: performed
+过去分词: performed
+现在分词/动名词: performing
+```
+
+##  performance
+
+```tip:c@summary-box
+n: 表演; 性能; 表现; 执行
+```
+
+##  plane
+
+```tip:c@summary-box
+n: 飞机; 平面; 层次
+v: 刨平; 乘飞机
+```
+
+##  planet
+
+```tip:c@summary-box
+n: 行星
+```
+
+##  player
+
+```tip:c@summary-box
+n: 选手; 演员; 播放器
+```
+
+##  position
+
+```tip:c@summary-box
+n: 位置; 职位; 立场; 姿势
+v: 安置; 放置
+```
+
+##  positive
+
+```tip:c@summary-box
+adj: 积极的; 正面的; 确定的
+n: 正面; 积极的事物
+```
+
+##  post
+
+```tip:c@summary-box
+n: 邮件; 职位; 岗位; 柱子
+v: 邮寄; 张贴; 派驻
+```
+
+##  poverty
+
+```tip:c@summary-box
+n: 贫穷; 缺乏; 贫乏
+```
+
+##  practice
+
+```tip:c@summary-box
+n: 实践; 练习; 习惯; 业务
+v: 实践; 练习; 从事
+```
+
+##  prefer
+
+```tip:c@summary-box
+v: 更喜欢; 宁愿; 偏好
+```
+
+##  pressure
+
+```tip:c@summary-box
+n: 压力; 压强; 强迫
+v: 施压; 催促
+```
+
+##  prevent
+
+```tip:c@summary-box
+v: 预防; 阻止; 防止
+```
+
+##  progress
+
+```tip:c@summary-box
+n: 进步; 发展; 前进
+v: 进展; 取得进步
+```
+
+##  promote
+
+```tip:c@summary-box
+v: 促进; 推广; 提升; 晋升
+```
+
+##  protection
+
+```tip:c@summary-box
+n: 保护; 防护; 保卫
+```
+
+##  protest
+
+```tip:c@summary-box
+n: 抗议; 反对
+v: 抗议; 申辩
+```
+
+##  proud
+
+```tip:c@summary-box
+adj: 自豪的; 骄傲的; 得意的
+```
+
+##  prove
+
+```tip:c@summary-box
+v: 证明; 证实; 被证实
+```
+
+##  purpose
+
+```tip:c@summary-box
+n: 目的; 意图; 用途
+v: 决心; 打算
+```
+
+##  reef
+
+```tip:c@summary-box
+n: 礁; 暗礁; 矿脉
+v: 收帆; 缩帆
+```
+
+##  regard
+
+```tip:c@summary-box
+v: 认为; 看待; 注视; 尊重
+n: 尊重; 关心; 注意
+```
+
+##  rely
+
+```tip:c@summary-box
+v: 依赖; 依靠; 信任
+```
+
+##  resemble
+
+```tip:c@summary-box
+v: 像; 类似; 与……相似
+```
+
+##  rid
+
+```tip:c@summary-box
+v: 使摆脱; 使去掉
+```
+
+##  ride
+
+```tip:c@summary-box
+v: 骑; 乘坐; 驾驶
+n: 乘坐; 骑行; 旅程
+```
+
+##  rock
+
+```tip:c@summary-box
+n: 岩石; 石头; 摇滚乐
+v: 摇动; 摇晃
+```
+
+##  route
+
+```tip:c@summary-box
+n: 路线; 航线; 通道
+v: 按路线发送; 安排路线
+```
+
+##  rusty
+
+```tip:c@summary-box
+adj: 生锈的; 荒疏的; 变迟钝的
+```
 ## warm · k-o
 
 ## lay
