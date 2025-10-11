@@ -47,7 +47,7 @@ n: 比例
 
 + The ratio of students to teachers is 20 to 1. 学生与老师的比例是 20 比 1。
 
-## pace
+## <span style="color:palevioletred">pace</span>
 
 ```tip:c@summary-box
 n: 步伐; 速度
@@ -61,7 +61,8 @@ v: 踱步; 调整速度
 
 `例句`
 
-+ Many people complain of the <span style="color:palevioletred">**rapid pace**</span> of modern life.  许多人抱怨现代生活节奏太快       
++ Many people complain of the <span style="color:palevioletred">**rapid pace**</span> of modern
+  life. 许多人抱怨现代生活节奏太快
 + He walked at a <span style="color:palevioletred">**slow pace**</span>. 他以缓慢的步伐走着。
 
 ## spread
@@ -80,7 +81,7 @@ n: 传播; 涂抹物
 
 `例句`
 
-+ The spread of the virus.     病毒的传播
++ The spread of the virus. 病毒的传播
 + The news spread quickly online. 这条新闻在网上迅速传播开了
 
 ## grace
@@ -117,7 +118,7 @@ v: 说话; 演讲
 ## attitude
 
 ```tip:c@summary-box
-n: 态度; 看法
+n: 态度; 看法; 姿态
 
 复数: attitudes
 ```
@@ -125,6 +126,8 @@ n: 态度; 看法
 `例句`
 
 + His attitude toward work is positive. 他对工作的态度很积极。
++ A positive attitude helps you succeed. 积极的态度有助于成功。
++ His positive attitude helps him succeed. 他积极的态度帮助他取得成功。
 
 ## attention
 
@@ -160,9 +163,9 @@ n: 行动; 行为
 
 `例句`
 
-+ Actions speak louder than words.	行动比语言更有说服力
-+ Deeds speak louder than promises.	行为比承诺更重要
-+ Silence can speak louder than arguments.	沉默比争论更有分量
++ Actions speak louder than words. 行动比语言更有说服力
++ Deeds speak louder than promises. 行为比承诺更重要
++ Silence can speak louder than arguments. 沉默比争论更有分量
 + It's time to take action. 是时候采取行动了。
 
 ## raise
@@ -180,7 +183,7 @@ v: 举起; 提高; 抚养
 
 + The company plans to raise salaries. 公司计划提高薪资。
 
-## voice
+## <span style="color:palevioletred">voice</span>
 
 ```tip:c@summary-box
 n: 声音; 表达
@@ -726,22 +729,6 @@ v: 上演; 举行
 `例句`
 
 + This is the final stage of the competition. 这是比赛的最后阶段。
-
-## pace
-
-```tip:c@summary-box
-n: 步伐; 速度
-v: 踱步; 调整速度
-
-第三人称单数: paces
-过去式: paced
-过去分词: paced
-现在分词/动名词: pacing
-```
-
-`例句`
-
-+ He walked at a slow pace. 他以缓慢的步伐走着。
 
 ## growth
 
@@ -2143,18 +2130,6 @@ n: 爱好; 兴趣
 `例句`
 
 + Reading is my favorite hobby. 阅读是我最喜欢的爱好。
-
-## attitude
-
-```tip:c@summary-box
-n: 态度; 看法
-
-复数: attitudes
-```
-
-`例句`
-
-+ A positive attitude helps you succeed. 积极的态度有助于成功。
 
 ## tradition
 
@@ -3790,18 +3765,6 @@ v: 感觉到
 `例句`
 
 + She had a strange feeling that someone was watching her. 她有一种奇怪的感觉，好像有人在看她。
-
-## attitude
-
-```tip:c@summary-box
-n: 态度; 看法; 姿态
-
-复数: attitudes
-```
-
-`例句`
-
-+ His positive attitude helps him succeed. 他积极的态度帮助他取得成功。
 
 ## emotion
 
