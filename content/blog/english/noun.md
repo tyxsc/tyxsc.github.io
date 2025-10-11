@@ -61,12 +61,15 @@ v: 踱步; 调整速度
 
 `例句`
 
-+ He walked at a slow pace. 他以缓慢的步伐走着。
++ Many people complain of the <span style="color:palevioletred">**rapid pace**</span> of modern life.  许多人抱怨现代生活节奏太快       
++ He walked at a <span style="color:palevioletred">**slow pace**</span>. 他以缓慢的步伐走着。
 
 ## spread
 
 ```tip:c@summary-box
-v: 传播; 展开
+多用于疾病、信息、技术等的蔓延
+
+v: 传播; 展开 
 n: 传播; 涂抹物
 
 第三人称单数: spreads
@@ -77,6 +80,7 @@ n: 传播; 涂抹物
 
 `例句`
 
++ The spread of the virus.     病毒的传播
 + The news spread quickly online. 这条新闻在网上迅速传播开了
 
 ## grace
@@ -156,6 +160,9 @@ n: 行动; 行为
 
 `例句`
 
++ Actions speak louder than words.	行动比语言更有说服力
++ Deeds speak louder than promises.	行为比承诺更重要
++ Silence can speak louder than arguments.	沉默比争论更有分量
 + It's time to take action. 是时候采取行动了。
 
 ## raise
