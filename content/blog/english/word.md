@@ -42,7 +42,7 @@ type: "featured"
   <span style="color:palevioletred">Only staff have access to this room.  (
   只有工作人员可以进入此房间。)</span>
 + access the internet (上网)
-+ access to education (受教育的机会)
++ access to education (接受教育)
 
 ## perform
 
@@ -199,15 +199,15 @@ type: "featured"
 
 `固定搭配`
 
-+ wide range of (广泛的范围)
-  <span style="color:palevioletred">The library offers a wide range of academic resources. (
++ wide range of (广泛的范围)       
+  <span style="color:palevioletred">The library offers a wide range of academic resources.(
   图书馆提供广泛的学术资源。)</span>
 
 + wide variety of (各种各样的)       
   <span style="color:palevioletred">The course covers a wide variety of topics in modern
-  literature. (这门课程涵盖现代文学中各种各样的主题。)</span>
+  literature.(这门课程涵盖现代文学中各种各样的主题。)</span>
 
-+ wide open (完全开放的)     
++ wide open (完全开放的)            
   <span style="color:palevioletred">The fields were wide open after the harvest. (
   收割后，田野完全开阔。)</span>
 
@@ -248,7 +248,7 @@ type: "featured"
   <span style="color:palevioletred">It is absolutely essential to follow safety regulations. (
   严格遵守安全规定是绝对必要的。)</span>
 
-+ essential ingredient (关键要素)
++ essential ingredient (关键要素)      
   <span style="color:palevioletred">Innovation is an essential ingredient of modern business. (
   创新是现代商业的关键要素。)</span>
 
@@ -319,3 +319,37 @@ type: "featured"
 
 + from above (从上方)            
   <span style="color:palevioletred">The helicopter took pictures from above.</span>
+
+## stand out
+
+```tip:c@summary-box
+突出; 显眼; 引人注意; 指某人或某物在群体中显得明显或特别
+
+第三人称单数: stands out
+过去式: stood out
+现在分词: standing out
+过去分词: stood out
+```
+
+`例句`
+
++ Her bright red coat made her stand out in the crowd.           
+  她鲜红的外套使她在人群中格外显眼。
+
++ He always stands out because of his creativity.        
+  他总是因为创意而出众。
+
+`固定搭配`
+
++ stand out from  (从…中突出)   
+  <span style="color:palevioletred">This building stands out from the rest of the city. (
+  这栋建筑在城市的其他建筑中格外显眼。)</span>
+
++ stand out against (与…形成鲜明对比)         
+  <span style="color:palevioletred">The white flowers stand out against the green background. (
+  白色花朵在绿色背景下格外显眼。)</span>
+
++ stand out in (在…方面突出)          
+  <span style="color:palevioletred">She stands out in her class for her leadership skills. (
+  她因领导能力在班级中非常突出。)</span>
+
