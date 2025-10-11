@@ -21,9 +21,234 @@ tags:
 type: "featured"
 ---
 
+## warm · s
+
+## satisfy
+
+```tip:c@summary-box
+v: 满足; 使满意; 符合
+```
+
+## science
+
+```tip:c@summary-box
+n: 科学; 学科
+```
+
+## seal
+
+```tip:c@summary-box
+n: 海豹; 封条; 印章
+v: 密封; 封住
+```
+
+## seat
+
+```tip:c@summary-box
+n: 座位; 席位
+v: 使就座; 安置
+```
+
+## secretary
+
+```tip:c@summary-box
+n: 秘书; 部长; 书记
+```
+
+## sense
+
+```tip:c@summary-box
+n: 感觉; 意识; 道理
+v: 感觉到; 察觉
+```
+
+## separate
+
+```tip:c@summary-box
+adj: 分开的; 单独的
+v: 分开; 分离
+```
+
+## serious
+
+```tip:c@summary-box
+adj: 严重的; 严肃的; 认真的
+```
+
+## serve
+
+```tip:c@summary-box
+v: 服务; 提供; 服役; 发球
+```
+
+## shine
+
+```tip:c@summary-box
+v: 发光; 闪亮; 擦亮
+n: 光泽; 光辉
+```
+
+## shock
+
+```tip:c@summary-box
+n: 震惊; 冲击; 电击
+v: 使震惊; 使震动
+```
+
+## sick
+
+```tip:c@summary-box
+adj: 生病的; 厌恶的
+```
+
+## sight
+
+```tip:c@summary-box
+n: 视力; 景象; 眼界
+v: 看见; 发现
+```
+
+## sign
+
+```tip:c@summary-box
+n: 标志; 信号; 符号
+v: 签名; 做手势
+```
+
+## significant
+
+```tip:c@summary-box
+adj: 重要的; 有意义的; 显著的
+```
+
+## significantly
+
+```tip:c@summary-box
+adv: 显著地; 重要地
+```
+
+## single
+
+```tip:c@summary-box
+adj: 单一的; 单身的
+n: 单曲; 单身者
+```
+
+## site
+
+```tip:c@summary-box
+n: 地点; 现场; 网站
+v: 选址; 设置
+```
+
+## situation
+
+```tip:c@summary-box
+n: 情况; 形势; 位置; 职位
+```
+
+## society
+
+```tip:c@summary-box
+n: 社会; 协会; 团体
+```
+
+## south
+
+```tip:c@summary-box
+n: 南方
+adj: 南方的
+adv: 向南
+```
+
+## specific
+
+```tip:c@summary-box
+adj: 特定的; 明确的
+n: 特效药; 特性
+```
+
+## spite
+
+```tip:c@summary-box
+n: 恶意; 怨恨
+v: 刁难; 激怒
+```
+
+## spot
+
+```tip:c@summary-box
+n: 地点; 斑点; 少量
+v: 发现; 认出
+```
+
+## stage
+
+```tip:c@summary-box
+n: 舞台; 阶段
+v: 上演; 举办
+```
+
+## steal
+
+```tip:c@summary-box
+v: 偷; 悄悄移动
+```
+
+## storm
+
+```tip:c@summary-box
+n: 暴风雨; 骚动
+v: 猛攻; 怒气冲冲地走
+```
+
+## strange
+
+```tip:c@summary-box
+adj: 奇怪的; 陌生的
+```
+
+## strategy
+
+```tip:c@summary-box
+n: 策略; 战略
+```
+
+## strengthen
+
+```tip:c@summary-box
+v: 加强; 巩固
+```
+
+## stress
+
+```tip:c@summary-box
+n: 压力; 强调
+v: 强调; 重读
+```
+
+## suddenly
+
+```tip:c@summary-box
+adv: 突然地; 出乎意料地
+```
+
+## suffer
+
+```tip:c@summary-box
+v: 遭受; 忍受; 患病
+```
+
+## supply
+
+```tip:c@summary-box
+n: 供应; 供给品
+v: 提供; 供应
+```
+
 ## warm · p-r
 
-##  pack
+## pack
 
 ```tip:c@summary-box
 n: 包; 一群; 一包
@@ -35,21 +260,21 @@ v: 打包; 塞满
 现在分词/动名词: packing
 ```
 
-##  participant
+## participant
 
 ```tip:c@summary-box
 n: 参与者; 参加者
 adj: 参加的
 ```
 
-##  patient
+## patient
 
 ```tip:c@summary-box
 n: 病人; 患者
 adj: 有耐心的; 能忍耐的
 ```
 
-##  perform
+## perform
 
 ```tip:c@summary-box
 v: 执行; 表演; 履行
@@ -60,187 +285,188 @@ v: 执行; 表演; 履行
 现在分词/动名词: performing
 ```
 
-##  performance
+## performance
 
 ```tip:c@summary-box
 n: 表演; 性能; 表现; 执行
 ```
 
-##  plane
+## plane
 
 ```tip:c@summary-box
 n: 飞机; 平面; 层次
 v: 刨平; 乘飞机
 ```
 
-##  planet
+## planet
 
 ```tip:c@summary-box
 n: 行星
 ```
 
-##  player
+## player
 
 ```tip:c@summary-box
 n: 选手; 演员; 播放器
 ```
 
-##  position
+## position
 
 ```tip:c@summary-box
 n: 位置; 职位; 立场; 姿势
 v: 安置; 放置
 ```
 
-##  positive
+## positive
 
 ```tip:c@summary-box
 adj: 积极的; 正面的; 确定的
 n: 正面; 积极的事物
 ```
 
-##  post
+## post
 
 ```tip:c@summary-box
 n: 邮件; 职位; 岗位; 柱子
 v: 邮寄; 张贴; 派驻
 ```
 
-##  poverty
+## poverty
 
 ```tip:c@summary-box
 n: 贫穷; 缺乏; 贫乏
 ```
 
-##  practice
+## practice
 
 ```tip:c@summary-box
 n: 实践; 练习; 习惯; 业务
 v: 实践; 练习; 从事
 ```
 
-##  prefer
+## prefer
 
 ```tip:c@summary-box
 v: 更喜欢; 宁愿; 偏好
 ```
 
-##  pressure
+## pressure
 
 ```tip:c@summary-box
 n: 压力; 压强; 强迫
 v: 施压; 催促
 ```
 
-##  prevent
+## prevent
 
 ```tip:c@summary-box
 v: 预防; 阻止; 防止
 ```
 
-##  progress
+## progress
 
 ```tip:c@summary-box
 n: 进步; 发展; 前进
 v: 进展; 取得进步
 ```
 
-##  promote
+## promote
 
 ```tip:c@summary-box
 v: 促进; 推广; 提升; 晋升
 ```
 
-##  protection
+## protection
 
 ```tip:c@summary-box
 n: 保护; 防护; 保卫
 ```
 
-##  protest
+## protest
 
 ```tip:c@summary-box
 n: 抗议; 反对
 v: 抗议; 申辩
 ```
 
-##  proud
+## proud
 
 ```tip:c@summary-box
 adj: 自豪的; 骄傲的; 得意的
 ```
 
-##  prove
+## prove
 
 ```tip:c@summary-box
 v: 证明; 证实; 被证实
 ```
 
-##  purpose
+## purpose
 
 ```tip:c@summary-box
 n: 目的; 意图; 用途
 v: 决心; 打算
 ```
 
-##  reef
+## reef
 
 ```tip:c@summary-box
 n: 礁; 暗礁; 矿脉
 v: 收帆; 缩帆
 ```
 
-##  regard
+## regard
 
 ```tip:c@summary-box
 v: 认为; 看待; 注视; 尊重
 n: 尊重; 关心; 注意
 ```
 
-##  rely
+## rely
 
 ```tip:c@summary-box
 v: 依赖; 依靠; 信任
 ```
 
-##  resemble
+## resemble
 
 ```tip:c@summary-box
 v: 像; 类似; 与……相似
 ```
 
-##  rid
+## rid
 
 ```tip:c@summary-box
 v: 使摆脱; 使去掉
 ```
 
-##  ride
+## ride
 
 ```tip:c@summary-box
 v: 骑; 乘坐; 驾驶
 n: 乘坐; 骑行; 旅程
 ```
 
-##  rock
+## rock
 
 ```tip:c@summary-box
 n: 岩石; 石头; 摇滚乐
 v: 摇动; 摇晃
 ```
 
-##  route
+## route
 
 ```tip:c@summary-box
 n: 路线; 航线; 通道
 v: 按路线发送; 安排路线
 ```
 
-##  rusty
+## rusty
 
 ```tip:c@summary-box
 adj: 生锈的; 荒疏的; 变迟钝的
 ```
+
 ## warm · k-o
 
 ## lay
