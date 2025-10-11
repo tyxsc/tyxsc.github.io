@@ -112,8 +112,6 @@ v: 说话; 演讲
 
 ## attitude
 
-attitude
-
 ```tip:c@summary-box
 n: 态度; 看法
 
