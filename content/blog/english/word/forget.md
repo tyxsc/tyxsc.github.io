@@ -22,7 +22,6 @@ type: "featured"
 ---
 
 ## warm · s
-
 ## satisfy
 
 ```tip:c@summary-box
@@ -55,18 +54,18 @@ v: 使就座; 安置
 n: 秘书; 部长; 书记
 ```
 
+## senior
+
+```tip:c@summary-box
+adj: 高级的; 年长的; 资深的
+n: 年长者; 高年级学生
+```
+
 ## sense
 
 ```tip:c@summary-box
 n: 感觉; 意识; 道理
 v: 感觉到; 察觉
-```
-
-## separate
-
-```tip:c@summary-box
-adj: 分开的; 单独的
-v: 分开; 分离
 ```
 
 ## serious
@@ -88,11 +87,11 @@ v: 发光; 闪亮; 擦亮
 n: 光泽; 光辉
 ```
 
-## shock
+## shout
 
 ```tip:c@summary-box
-n: 震惊; 冲击; 电击
-v: 使震惊; 使震动
+v: 呼喊; 喊叫
+n: 呼喊; 喊声
 ```
 
 ## sick
@@ -108,37 +107,10 @@ n: 视力; 景象; 眼界
 v: 看见; 发现
 ```
 
-## sign
-
-```tip:c@summary-box
-n: 标志; 信号; 符号
-v: 签名; 做手势
-```
-
 ## significant
 
 ```tip:c@summary-box
 adj: 重要的; 有意义的; 显著的
-```
-
-## significantly
-
-```tip:c@summary-box
-adv: 显著地; 重要地
-```
-
-## single
-
-```tip:c@summary-box
-adj: 单一的; 单身的
-n: 单曲; 单身者
-```
-
-## site
-
-```tip:c@summary-box
-n: 地点; 现场; 网站
-v: 选址; 设置
 ```
 
 ## situation
@@ -153,6 +125,12 @@ n: 情况; 形势; 位置; 职位
 n: 社会; 协会; 团体
 ```
 
+## solve
+
+```tip:c@summary-box
+v: 解决; 解答
+```
+
 ## south
 
 ```tip:c@summary-box
@@ -161,11 +139,36 @@ adj: 南方的
 adv: 向南
 ```
 
+## spacesuit
+
+```tip:c@summary-box
+n: 太空服
+```
+
+## species
+
+```tip:c@summary-box
+n: 物种; 种类
+```
+
 ## specific
 
 ```tip:c@summary-box
 adj: 特定的; 明确的
 n: 特效药; 特性
+```
+
+## speed
+
+```tip:c@summary-box
+n: 速度
+v: 加速; 疾行
+```
+
+## spillover
+
+```tip:c@summary-box
+n: 溢出; 溢出效应
 ```
 
 ## spite
@@ -187,6 +190,13 @@ v: 发现; 认出
 ```tip:c@summary-box
 n: 舞台; 阶段
 v: 上演; 举办
+```
+
+## star
+
+```tip:c@summary-box
+n: 星星; 明星
+v: 主演; 装饰成星形
 ```
 
 ## steal
@@ -225,6 +235,13 @@ v: 加强; 巩固
 ```tip:c@summary-box
 n: 压力; 强调
 v: 强调; 重读
+```
+
+## struggle
+
+```tip:c@summary-box
+v: 奋斗; 挣扎
+n: 斗争; 艰难前进
 ```
 
 ## suddenly
