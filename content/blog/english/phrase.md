@@ -151,11 +151,12 @@ give up all hopes 放弃所有希望
 ## give out
 
 ```tip:c@summary-box
-分发；公开，宣布（消息）；停止运转
+分发；公开，宣布（消息）；停止运转；(人) 支撑不住 / 倒下
 
 give out food 分发食物
 give out my phone number 公开（告诉）我的电话
 all machines give out 所有的机器都停止运转了
+Her legs gave out after running for hours.（跑了好久后她双腿支撑不住了。）
 ```
 
 ## give in
@@ -187,9 +188,10 @@ give back my book 把书还给我
 ## give over
 
 ```tip:c@summary-box
-停止，别再做，住手
+停止，别再做，住手; 移交 / 交付
 
 give over crying 停止哭泣
+The land was given over to the government. 该土地已移交归政府供公众使用。
 ```
 
 ## make up
@@ -1139,3 +1141,31 @@ Our water has been cut off. 我们断水了。（水被中断供给）
 
 When it comes to this question, he says nothing. 当提到这个问题的时候，他不说话了。
 ```
+
+## break for
+
+## break up
+
+## break out
+
+## break down
+
+## lie in
+## lie on 
+## lie about
+## lie off
+
+## set aside
+## go after
+
+## see through
+## make out
+
+
+## ask out
+## ask after
+## ask for
+## ask of
+
+
+## stands out
