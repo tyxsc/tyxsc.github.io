@@ -21,6 +21,124 @@ tags:
 type: "featured"
 ---
 
+## warm · t-z
+
+## titanic
+
+```tip:c@summary-box
+adj: 巨大的; 力量强大的
+```
+
+## tour
+
+```tip:c@summary-box
+n: 旅行; 巡回演出
+v: 旅行; 参观
+
+第三人称单数: tours
+过去式: toured
+过去分词: toured
+现在分词/动名词: touring
+```
+
+## tower
+
+```tip:c@summary-box
+n: 塔; 高楼
+v: 高耸; 屹立
+
+第三人称单数: towers
+过去式: towered
+过去分词: towered
+现在分词/动名词: towering
+```
+
+## track
+
+```tip:c@summary-box
+n: 轨道; 跑道; 足迹
+v: 追踪; 跟踪; 走过
+
+第三人称单数: tracks
+过去式: tracked
+过去分词: tracked
+现在分词/动名词: tracking
+```
+
+## turbine
+
+```tip:c@summary-box
+n: 涡轮; 透平机
+```
+
+## vacation
+
+```tip:c@summary-box
+n: 假期; 休假
+v: 休假; 度假
+
+第三人称单数: vacations
+过去式: vacationed
+过去分词: vacationed
+现在分词/动名词: vacationing
+```
+
+## virtue
+
+```tip:c@summary-box
+n: 美德; 优点; 德行
+```
+
+## wash
+
+```tip:c@summary-box
+v: 洗; 清洗
+n: 洗涤; 冲刷
+
+第三人称单数: washes
+过去式: washed
+过去分词: washed
+现在分词/动名词: washing
+```
+
+## wing
+
+```tip:c@summary-box
+n: 翅膀; 飞机翼; 侧厅
+v: 飞行; 快速移动
+
+第三人称单数: wings
+过去式: winged
+过去分词: winged
+现在分词/动名词: winging
+```
+
+## wish
+
+```tip:c@summary-box
+v: 希望; 祝愿; 想要
+n: 愿望; 祝福
+
+第三人称单数: wishes
+过去式: wished
+过去分词: wished
+现在分词/动名词: wishing
+```
+
+## wood
+
+```tip:c@summary-box
+n: 木头; 树林
+v: 用木材覆盖; 收集木材
+```
+
+## worth
+
+```tip:c@summary-box
+n: 价值; 财富
+adj: 值得的; 有……价值的
+```
+
 ## warm · s
 ## satisfy
 

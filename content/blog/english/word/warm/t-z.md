@@ -222,7 +222,8 @@ n: 旅游业; 观光
 ## toward
 
 ```tip:c@summary-box
-prep: 朝向; 对于; 为了
+prep: 向; 趋向; 对于; 接近(时间); 靠近; 用于,为了
+adj: 即将来到的,进行中的
 ```
 
 ## tower
@@ -306,7 +307,7 @@ n: 旅行; 旅程
 ## treatment
 
 ```tip:c@summary-box
-n: 治疗; 对待; 处理
+n: 治疗; 对待; 处理; 讨论; 待遇
 ```
 
 ## trend
