@@ -284,6 +284,24 @@ v: 拿; 采取
 
 + Take this medicine twice a day. 这种药一天吃两次。
 
+## plant
+
+```tip:c@summary-box
+v: 栽种；种植；安置（某物）
+n: 植物；工厂
+
+第三人称单数: plants
+过去式: planted
+过去分词: planted
+现在分词/动名词: planting
+```
+
+`例句`
+
++ They plan to build a new car plant in this city. 他们计划在这座城市建一家汽车工厂。
+
++ She planted flowers in the garden last weekend. 她上周末在花园里种了花。
+
 ## put it
 
 ```tip:c@summary-box
@@ -420,6 +438,18 @@ n: 喜爱; 感情
 
 + She showed great affection for her family. 她对家人表现出深厚的感情。
 
+## violence
+
+```tip:c@summary-box
+n: 暴力；暴行；强烈的力量或破坏行为
+
+不可数名词，没有复数形式
+```
+
+`例句`
+
++ The movie was criticized for its excessive violence. 这部电影因过度的暴力场面而受到批评。
+
 ## pressure
 
 ```tip:c@summary-box
@@ -435,6 +465,21 @@ v: 施压
 `例句`
 
 + He is under a lot of pressure at work. 他在工作中承受着很大压力。
+
+## moved
+
+```tip:c@summary-box
+adj / v: 感动的；被移动的；（move 的过去式 / 过去分词）
+
+作为 动词过去式/过去分词：表示“移动了 / 搬迁了 / 感动了”
+作为 形容词：表示“感动的”
+```
+
+`例句`
+
++ She was deeply moved by his speech. 她被他的演讲深深感动了。
+
++ They moved to a new city last year. 他们去年搬到了一个新城市。
 
 ## control
 
@@ -488,7 +533,7 @@ adj: 某些的; 确定的
 
 + I'm not certain about the answer. 我不确定这个答案。
 
-## to a certain extent
+## <span style="color:palevioletred">to a certain extent</span>
 
 ```tip:c@summary-box
 短语: 在一定程度上
@@ -497,6 +542,20 @@ adj: 某些的; 确定的
 `例句`
 
 + I agree with you to a certain extent. 在某种程度上我同意你的观点。
+
+## entirely
+
+```tip:c@summary-box
+adv: 完全地；整个地；全然
+
+用于强调某事物的程度或范围，表示“彻底地 / 完全地 / 全部地”。
+```
+
+`例句`
+
++ I entirely agree with your opinion. 我完全同意你的观点。
+
++ The success of the plan depends entirely on you. 这个计划的成功完全取决于你。
 
 ## part
 
@@ -540,6 +599,24 @@ v: 使平整; 使达到同一水平
 
 + There is no point in arguing about it. 争论这个没有意义。
 
+## doubt
+
+```tip:c@summary-box
+n: 怀疑；疑虑
+v: 怀疑；不确定
+
+第三人称单数: doubts
+过去式: doubted
+过去分词: doubted
+现在分词/动名词: doubting
+```
+
+`例句`
+
++ There is no doubt that she will succeed. 毫无疑问她会成功。
+
++ I doubt whether he is telling the truth. 我怀疑他是否说的是真话。
+
 ## there is no doubt
 
 ```tip:c@summary-box
@@ -549,6 +626,20 @@ v: 使平整; 使达到同一水平
 `例句`
 
 + There is no doubt that she is talented. 毫无疑问，她很有才华。
+
+## business trip
+
+```tip:c@summary-box
+n: 出差；公务旅行
+
+用于表示因工作或公务目的而进行的旅行。
+```
+
+`例句`
+
++ He is away on a business trip this week. 他本周在外出差。
+
++ I often travel abroad on business trips. 我经常出国出差。
 
 ## difficult
 
@@ -619,7 +710,7 @@ n: 反应; 回复
 ## opinion
 
 ```tip:c@summary-box
-n: 意见; 看法
+n: 意见; 看法; 观点; 看法
 
 复数: opinions
 ```
@@ -627,6 +718,8 @@ n: 意见; 看法
 `例句`
 
 + In my opinion, we should wait. 在我看来，我们应该等等。
++ In my opinion, this is the best solution. 在我看来，这是最好的解决方案。
++ In my opinion, this is the best choice. 在我看来，这是最好的选择。
 
 ## review
 
@@ -773,6 +866,7 @@ v: 看见
 `例句`
 
 + The mountains were a beautiful sight. 那些山景非常美。
++ The sight of blood always makes him feel sick. 看到血总是会让他感到恶心。
 
 ## shape
 
@@ -861,7 +955,7 @@ n: 焦虑; 担心
 
 + She felt a lot of anxiety before the exam. 考试前她感到非常焦虑。
 
-## relief
+## <span style="color:palevioletred">relief</span>
 
 ```tip:c@summary-box
 n: 放心; 缓解
@@ -875,6 +969,9 @@ v: 减轻; 解除
 
 `例句`
 
++ To out, <span style="color:palevioletred">relief</span>, Jennifer's illness proved not to be as
+  serious as we had feared. 让我们松了一口气的是,
+  Jennifer 的病情比不像我们担心的那么严重。
 + He felt a sense of relief after finishing the test. 考试结束后，他感到如释重负。
 
 ## view
@@ -921,11 +1018,13 @@ n: 纯洁; 纯度
 
 + The purity of the water is important for health. 水的纯净度对健康很重要。
 
-## symbol
+## <span style="color:palevioletred">symbol</span>
 
 ```tip:c@summary-box
 n: 象征; 符号
 v: 象征; 用符号表示
+
+指抽象概念或理念的代表
 
 第三人称单数: symbols
 过去式: symbolized
@@ -935,13 +1034,17 @@ v: 象征; 用符号表示
 
 `例句`
 
++ Many people like white color as it is a <span style="color:palevioletred">symbol</span> of purity.
+  很多人喜欢白色,因为它是纯洁的象征。
 + The dove is a symbol of peace. 鸽子是和平的象征。
 
 ## sign
 
 ```tip:c@summary-box
-n: 标志; 迹象
-v: 签署; 做手势
+n: 信号; 标志; 迹象
+v: 签署; 表示; 做手势
+
+标志、符号时,更多用于具体指示或标识。比如: 路标、手势信号等
 
 第三人称单数: signs
 过去式: signed
@@ -951,6 +1054,7 @@ v: 签署; 做手势
 
 `例句`
 
++ The traffic sign indicates a sharp turn ahead. 这个交通标志表示前方有急转弯。
 + He saw a sign indicating the way to the station. 他看到了指示去车站的标志。
 
 ## signal
@@ -958,6 +1062,8 @@ v: 签署; 做手势
 ```tip:c@summary-box
 n: 信号; 暗号
 v: 发信号; 表示
+
+信号 常用于传递信息或指令 如: 交通信号灯
 
 第三人称单数: signals
 过去式: signaled / signalled
@@ -1008,6 +1114,8 @@ adj: 现在的; 出席的
 n: 一瞥; 匆匆一看
 v: 匆匆看
 
+强调主动看
+
 第三人称单数: glances
 过去式: glanced
 过去分词: glanced
@@ -1048,6 +1156,8 @@ v: 瞥见; 看一眼
 
 ```tip:c@summary-box
 短语: 瞥见; 看到一眼
+
+被动的看到
 ```
 
 `例句`
@@ -1075,6 +1185,8 @@ n: 外观; 表情
 ```tip:c@summary-box
 n: 视力; 景象
 v: 看见
+
+一般指视力或看见的能力，也可以指景象、风景
 
 第三人称单数: sights
 过去式: sighted
@@ -1112,7 +1224,7 @@ v: 递; 交
 
 + She raised her hand to ask a question. 她举手提问。
 
-## give sb. a hand
+## give sb a hand
 
 ```tip:c@summary-box
 短语: 帮某人一个忙
@@ -1263,6 +1375,8 @@ adj: 大陆的; 本土的
 
 `例句`
 
++ George took advantage of the fine weather to plant some trees in the garden. George
+  趁着天气好,在花园里种了一些树。
 + You should take advantage of this special offer. 你应该利用这个特别优惠。
 
 ## place
@@ -1280,6 +1394,16 @@ v: 放置; 安置
 `例句`
 
 + This is a nice place to have a picnic. 这里是野餐的好地方。
+
+## take sides
+
+```tip:c@summary-box
+短语: 站在某一边；支持某一方；表明立场
+```
+
+`例句`
+
++ It's better not to take sides in their argument. 他们的争吵中最好不要偏袒任何一方。
 
 ## shade
 
@@ -1575,18 +1699,6 @@ v: 计划; 打算
 
 + We need to make a plan for the project. 我们需要为这个项目制定一个计划。
 
-## opinion
-
-```tip:c@summary-box
-n: 观点; 意见
-
-复数: opinions
-```
-
-`例句`
-
-+ In my opinion, this is the best solution. 在我看来，这是最好的解决方案。
-
 ## storing
 
 ```tip:c@summary-box
@@ -1738,7 +1850,7 @@ adj: 害怕的; 担心的
 
 + She was afraid of the dark. 她害怕黑暗。
 
-## have no choice but to do sth
+## <span style="color:palevioletred">have no choice but to do sth</span>
 
 ```tip:c@summary-box
 短语: 除了做某事之外别无选择
@@ -1746,6 +1858,8 @@ adj: 害怕的; 担心的
 
 `例句`
 
++ <span style="color:palevioletred">I'm afraid you have no choice but to come along with us.
+  恐怕你别无选择,只能跟我们走。</span>
 + We have no choice but to wait for the results. 我们除了等待结果别无选择。
 
 ## possibility
@@ -1849,6 +1963,8 @@ v: 领导; 朝……前进
 ```tip:c@summary-box
 n: 基础; 根据
 
+主要指事物的基础或原理
+
 复数: bases
 ```
 
@@ -1888,6 +2004,7 @@ v: 到达底部
 
 `例句`
 
++ The bottom of they valley was very wet. 山谷底部非常潮湿。
 + The treasure was buried at the bottom of the sea. 宝藏被埋在海底。
 
 ## behavior
@@ -2860,18 +2977,6 @@ adj: 令人兴奋的; 激动人心的
 
 + The roller coaster ride was very exciting. 过山车的体验非常令人兴奋。
 
-## opinion
-
-```tip:c@summary-box
-n: 观点; 意见
-
-复数: opinions
-```
-
-`例句`
-
-+ In my opinion, this is the best solution. 在我看来，这是最好的解决方案。
-
 ## idea
 
 ```tip:c@summary-box
@@ -3494,27 +3599,13 @@ v: 铺路
 
 + The road to the village is very narrow. 通往村庄的道路很窄。
 
-## sign
-
-```tip:c@summary-box
-n: 信号; 标志
-v: 签署; 表示
-
-第三人称单数: signs
-过去式: signed
-过去分词: signed
-现在分词/动名词: signing
-```
-
-`例句`
-
-+ The traffic sign indicates a sharp turn ahead. 这个交通标志表示前方有急转弯。
-
 ## sight
 
 ```tip:c@summary-box
 n: 视力; 视野; 景象
 v: 看见; 瞧见
+
+
 
 第三人称单数: sights
 过去式: sighted
@@ -3934,18 +4025,6 @@ v: 面试; 采访
 `例句`
 
 + She had an interview for the new position yesterday. 她昨天参加了新职位的面试。
-
-## opinion
-
-```tip:c@summary-box
-n: 观点; 看法
-
-复数: opinions
-```
-
-`例句`
-
-+ In my opinion, this is the best choice. 在我看来，这是最好的选择。
 
 ## idea
 
