@@ -21,8 +21,6 @@ tags:
 type: "post"
 ---
 
-## a-b
-
 ## academic
 
 ```tip:c@summary-box
@@ -540,8 +538,6 @@ v: 使变成褐色
 现在分词/动名词: browning
 ```
 
-## c
-
 ## campaign
 
 ```tip:c@summary-box
@@ -798,8 +794,6 @@ v: 挤满; 拥挤
 adj: 文化的; 与文化相关的
 ```
 
-## d
-
 ## daily
 
 ```tip:c@summary-box
@@ -1047,8 +1041,6 @@ v: 使变干; 晾干
 adj: 到期的; 应有的; 预定的
 n: 应得之物; 税金
 ```
-
-## e-f
 
 ## earn
 
@@ -1451,8 +1443,6 @@ v: 起雾; 使困惑
 现在分词/动名词: fogging
 ```
 
-## f-i
-
 ## forbid
 
 ```tip:c@summary-box
@@ -1821,8 +1811,6 @@ v: 涉及; 包含; 牵涉
 过去分词: involved
 现在分词/动名词: involving
 ```
-
-## k-o
 
 ## landfill
 
@@ -2215,8 +2203,6 @@ adj: 超重的; 过重的
 n: 超重; 负荷
 ```
 
-## p-r
-
 ## pack
 
 ```tip:c@summary-box
@@ -2601,8 +2587,6 @@ v: 按路线发送; 安排路线
 adj: 生锈的; 荒疏的; 变迟钝的
 ```
 
-## s
-
 ## satisfy
 
 ```tip:c@summary-box
@@ -2972,8 +2956,6 @@ v: 幸存; 活下来; 艰难度过
 adj: 甜的; 可爱的; 温和的
 n: 糖果; 甜食
 ```
-
-## t-z
 
 ## terrible
 
