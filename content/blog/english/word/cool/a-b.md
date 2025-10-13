@@ -1,6 +1,6 @@
 ---
 title: "低频词第一天"
-date: 2025-10-14T10:00:00+08:00
+date: 2025-10-14T07:00:00+08:00
 draft: false
 
 # post thumb
