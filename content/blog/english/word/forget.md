@@ -1,7 +1,7 @@
 ---
 title: "易忘词归纳"
 date: 2025-10-02T18:00:00+08:00
-draft: false
+draft: true
 
 # post thumb
 #image: "images/post/covers/steveozmqlo.jpg"
