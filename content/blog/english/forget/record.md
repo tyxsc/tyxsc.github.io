@@ -1,7 +1,7 @@
 ---
 title: "易忘词记忆进度总览"
 date: 2025-10-13T10:00:00+08:00
-draft: false
+draft: true
 
 # post thumb
 image: "images/slideshow/teeth.jpg"

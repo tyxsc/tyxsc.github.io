@@ -4,7 +4,7 @@ date: 2025-10-14T07:00:00+08:00
 draft: false
 
 # post thumb
-image: "images/post/covers/painting.jpg"
+image: "images/post/covers/zaksheuskayaasdq.jpg"
 
 # meta description
 description: "学位英语低频单词表"
