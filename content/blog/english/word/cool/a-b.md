@@ -21,21 +21,21 @@ tags:
 type: "post"
 ---
 
-### abroad
+## abroad
 
 ```tip:c@summary-box
 adv: 在国外; 到国外  
 n: 海外; 异国
 ```
 
-### absent
+## absent
 
 ```tip:c@summary-box
 adj: 缺席的; 不在场的; 心不在焉的  
 v: 使缺席; 缺席
 ```
 
-### absorb
+## absorb
 
 ```tip:c@summary-box
 v: 吸收; 吸引(注意力); 吞并
@@ -46,37 +46,37 @@ v: 吸收; 吸引(注意力); 吞并
 现在分词/动名词: absorbing
 ```
 
-### acceptable
+## acceptable
 
 ```tip:c@summary-box
 adj: 可接受的; 合意的
 ```
 
-### accurate
+## accurate
 
 ```tip:c@summary-box
 adj: 准确的; 精确的
 ```
 
-### additional
+## additional
 
 ```tip:c@summary-box
 adj: 附加的; 额外的
 ```
 
-### adequate
+## adequate
 
 ```tip:c@summary-box
 adj: 足够的; 适当的
 ```
 
-### administration
+## administration
 
 ```tip:c@summary-box
 n: 管理; 行政; 政府机关
 ```
 
-### admire
+## admire
 
 ```tip:c@summary-box
 v: 钦佩; 羡慕; 赞美
@@ -87,20 +87,20 @@ v: 钦佩; 羡慕; 赞美
 现在分词/动名词: admiring
 ```
 
-### adulthood
+## adulthood
 
 ```tip:c@summary-box
 n: 成年时期; 成年状态
 ```
 
-### advanced
+## advanced
 
 ```tip:c@summary-box
 adj: 高级的; 先进的; 年老的  
 v: 前进; 提出; 进步 (advance 的过去式/过去分词)
 ```
 
-### advise
+## advise
 
 ```tip:c@summary-box
 v: 建议; 劝告; 通知
@@ -111,75 +111,75 @@ v: 建议; 劝告; 通知
 现在分词/动名词: advising
 ```
 
-### affordable
+## affordable
 
 ```tip:c@summary-box
 adj: 买得起的; 负担得起的
 ```
 
-### afraid
+## afraid
 
 ```tip:c@summary-box
 adj: 害怕的; 担心的
 ```
 
-### afternoon
+## afternoon
 
 ```tip:c@summary-box
 n: 下午
 ```
 
-### afterwards
+## afterwards
 
 ```tip:c@summary-box
 adv: 之后; 后来
 ```
 
-### agency
+## agency
 
 ```tip:c@summary-box
 n: 代理机构; 专门机构; 中介
 ```
 
-### agreement
+## agreement
 
 ```tip:c@summary-box
 n: 协议; 同意; 一致
 ```
 
-### airplane
+## airplane
 
 ```tip:c@summary-box
 n: 飞机
 ```
 
-### ale
+## ale
 
 ```tip:c@summary-box
 n: 麦芽啤酒; 艾尔啤酒
 ```
 
-### alike
+## alike
 
 ```tip:c@summary-box
 adj: 相似的; 相像的  
 adv: 同样地; 类似地
 ```
 
-### alongside
+## alongside
 
 ```tip:c@summary-box
 prep: 在……旁边; 与……一起  
 adv: 并排地; 在旁边
 ```
 
-### aloud
+## aloud
 
 ```tip:c@summary-box
 adv: 大声地; 出声地
 ```
 
-### alter
+## alter
 
 ```tip:c@summary-box
 v: 改变; 修改
@@ -190,13 +190,13 @@ v: 改变; 修改
 现在分词/动名词: altering
 ```
 
-### alteration
+## alteration
 
 ```tip:c@summary-box
 n: 改变; 改动; 修改
 ```
 
-### amuse
+## amuse
 
 ```tip:c@summary-box
 v: 逗笑; 娱乐; 消遣
@@ -207,7 +207,7 @@ v: 逗笑; 娱乐; 消遣
 现在分词/动名词: amusing
 ```
 
-### analyze
+## analyze
 
 ```tip:c@summary-box
 v: 分析; 研究
@@ -218,7 +218,7 @@ v: 分析; 研究
 现在分词/动名词: analyzing
 ```
 
-### anger
+## anger
 
 ```tip:c@summary-box
 n: 愤怒  
@@ -230,38 +230,38 @@ v: 使生气; 激怒
 现在分词/动名词: angering
 ```
 
-### angrily
+## angrily
 
 ```tip:c@summary-box
 adv: 生气地; 愤怒地
 ```
 
-### anniversary
+## anniversary
 
 ```tip:c@summary-box
 n: 周年纪念日
 ```
 
-### antenna
+## antenna
 
 ```tip:c@summary-box
 n: 天线; 触角
 ```
 
-### apart
+## apart
 
 ```tip:c@summary-box
 adv: 分开地; 相距; 除外  
 adj: 分离的
 ```
 
-### apartment
+## apartment
 
 ```tip:c@summary-box
 n: 公寓; 住宅套间
 ```
 
-### apologize
+## apologize
 
 ```tip:c@summary-box
 v: 道歉; 认错
@@ -272,13 +272,13 @@ v: 道歉; 认错
 现在分词/动名词: apologizing
 ```
 
-### application
+## application
 
 ```tip:c@summary-box
 n: 申请; 应用; 程序
 ```
 
-### appreciate
+## appreciate
 
 ```tip:c@summary-box
 v: 欣赏; 感激; 意识到
@@ -289,7 +289,7 @@ v: 欣赏; 感激; 意识到
 现在分词/动名词: appreciating
 ```
 
-### approve
+## approve
 
 ```tip:c@summary-box
 v: 批准; 同意; 赞成
@@ -300,38 +300,38 @@ v: 批准; 同意; 赞成
 现在分词/动名词: approving
 ```
 
-### approximately
+## approximately
 
 ```tip:c@summary-box
 adv: 大约; 近似地
 ```
 
-### april
+## april
 
 ```tip:c@summary-box
 n: 四月
 ```
 
-### archaeologist
+## archaeologist
 
 ```tip:c@summary-box
 n: 考古学家
 ```
 
-### archaeology
+## archaeology
 
 ```tip:c@summary-box
 n: 考古学
 ```
 
-### arctic
+## arctic
 
 ```tip:c@summary-box
 adj: 北极的; 极冷的  
 n: 北极地区
 ```
 
-### arm
+## arm
 
 ```tip:c@summary-box
 n: 手臂; 武器  
@@ -343,7 +343,7 @@ v: 武装; 配备
 现在分词/动名词: arming
 ```
 
-### arouse
+## arouse
 
 ```tip:c@summary-box
 v: 唤起; 引起
@@ -354,7 +354,7 @@ v: 唤起; 引起
 现在分词/动名词: arousing
 ```
 
-### arrange
+## arrange
 
 ```tip:c@summary-box
 v: 安排; 整理; 排列
@@ -365,7 +365,7 @@ v: 安排; 整理; 排列
 现在分词/动名词: arranging
 ```
 
-### arrest
+## arrest
 
 ```tip:c@summary-box
 v: 逮捕; 阻止  
@@ -377,51 +377,51 @@ n: 逮捕
 现在分词/动名词: arresting
 ```
 
-### arrow
+## arrow
 
 ```tip:c@summary-box
 n: 箭; 箭头
 ```
 
-### article
+## article
 
 ```tip:c@summary-box
 n: 文章; 物品; 条款
 ```
 
-### artist
+## artist
 
 ```tip:c@summary-box
 n: 艺术家; 画家; 表演者
 ```
 
-### Asian
+## Asian
 
 ```tip:c@summary-box
 adj: 亚洲的; 亚洲人的  
 n: 亚洲人
 ```
 
-### asleep
+## asleep
 
 ```tip:c@summary-box
 adj: 睡着的; 睡眠中的
 ```
 
-### assemblyman
+## assemblyman
 
 ```tip:c@summary-box
 n: 议员; 集会成员
 ```
 
-### assistant
+## assistant
 
 ```tip:c@summary-box
 n: 助手; 助理  
 adj: 助理的; 辅助的
 ```
 
-### associate
+## associate
 
 ```tip:c@summary-box
 v: 联系; 联想; 结交  
@@ -434,7 +434,7 @@ adj: 副的; 非正式的
 现在分词/动名词: associating
 ```
 
-### assure
+## assure
 
 ```tip:c@summary-box
 v: 确保; 向……保证; 使确信
@@ -445,19 +445,19 @@ v: 确保; 向……保证; 使确信
 现在分词/动名词: assuring
 ```
 
-### astronaut
+## astronaut
 
 ```tip:c@summary-box
 n: 宇航员; 太空人
 ```
 
-### athlete
+## athlete
 
 ```tip:c@summary-box
 n: 运动员; 体育家
 ```
 
-### attempt
+## attempt
 
 ```tip:c@summary-box
 v: 尝试; 努力  
@@ -469,7 +469,7 @@ n: 尝试; 企图
 现在分词/动名词: attempting
 ```
 
-### auction
+## auction
 
 ```tip:c@summary-box
 n: 拍卖  
@@ -481,14 +481,14 @@ v: 拍卖; 竞卖
 现在分词/动名词: auctioning
 ```
 
-### audio
+## audio
 
 ```tip:c@summary-box
 adj: 音频的; 声音的  
 n: 声音; 音频
 ```
 
-### awake
+## awake
 
 ```tip:c@summary-box
 adj: 醒着的  
@@ -500,7 +500,7 @@ v: 醒来; 唤醒
 现在分词/动名词: awaking
 ```
 
-### award
+## award
 
 ```tip:c@summary-box
 n: 奖; 奖品  
@@ -512,19 +512,19 @@ v: 授予; 颁发
 现在分词/动名词: awarding
 ```
 
-### awareness
+## awareness
 
 ```tip:c@summary-box
 n: 意识; 认识; 觉悟
 ```
 
-### background
+## background
 
 ```tip:c@summary-box
 n: 背景; 出身; 经验
 ```
 
-### backup
+## backup
 
 ```tip:c@summary-box
 n: 备份; 支持  
@@ -532,19 +532,19 @@ adj: 备用的; 后备的
 v: 备份
 ```
 
-### bacterium
+## bacterium
 
 ```tip:c@summary-box
 n: 细菌 (复数: bacteria)
 ```
 
-### baker
+## baker
 
 ```tip:c@summary-box
 n: 面包师; 烘焙师
 ```
 
-### bark
+## bark
 
 ```tip:c@summary-box
 n: 狗叫声; 树皮  
@@ -556,25 +556,25 @@ v: 狗叫; 吠叫; 剥树皮
 现在分词/动名词: barking
 ```
 
-### baseball
+## baseball
 
 ```tip:c@summary-box
 n: 棒球; 棒球运动
 ```
 
-### basis
+## basis
 
 ```tip:c@summary-box
 n: 基础; 根据; 原则
 ```
 
-### basketball
+## basketball
 
 ```tip:c@summary-box
 n: 篮球; 篮球运动
 ```
 
-### bath
+## bath
 
 ```tip:c@summary-box
 n: 洗澡; 浴缸; 洗澡水  
@@ -586,19 +586,19 @@ v: 洗澡
 现在分词/动名词: bathing
 ```
 
-### battery
+## battery
 
 ```tip:c@summary-box
 n: 电池; 一组; 炮台
 ```
 
-### bean
+## bean
 
 ```tip:c@summary-box
 n: 豆; 豆类
 ```
 
-### beat
+## beat
 
 ```tip:c@summary-box
 v: 打败; 敲打; 拍打  
@@ -610,13 +610,13 @@ n: 节拍; 拍子; 敲击声
 现在分词/动名词: beating
 ```
 
-### bedroom
+## bedroom
 
 ```tip:c@summary-box
 n: 卧室
 ```
 
-### beginning
+## beginning
 
 ```tip:c@summary-box
 n: 开始; 开端  
@@ -624,7 +624,7 @@ v: 开始 (begin 的现在分词)
 
 ```
 
-### behave
+## behave
 
 ```tip:c@summary-box
 v: 表现; 举止; 行为举止
@@ -635,13 +635,13 @@ v: 表现; 举止; 行为举止
 现在分词/动名词: behaving
 ```
 
-### belief
+## belief
 
 ```tip:c@summary-box
 n: 信念; 信仰; 相信
 ```
 
-### belly
+## belly
 
 ```tip:c@summary-box
 n: 肚子; 腹部  
@@ -653,7 +653,7 @@ v: 鼓起
 现在分词/动名词: bellying
 ```
 
-### belong
+## belong
 
 ```tip:c@summary-box
 v: 属于; 归属
@@ -664,31 +664,31 @@ v: 属于; 归属
 现在分词/动名词: belonging
 ```
 
-### beneficial
+## beneficial
 
 ```tip:c@summary-box
 adj: 有益的; 有利的
 ```
 
-### beverage
+## beverage
 
 ```tip:c@summary-box
 n: 饮料
 ```
 
-### biker
+## biker
 
 ```tip:c@summary-box
 n: 骑自行车的人; 骑摩托车的人
 ```
 
-### biology
+## biology
 
 ```tip:c@summary-box
 n: 生物学; 生物
 ```
 
-### bleach
+## bleach
 
 ```tip:c@summary-box
 v: 漂白; 变白  
@@ -700,13 +700,13 @@ n: 漂白剂
 现在分词/动名词: bleaching
 ```
 
-### blenny
+## blenny
 
 ```tip:c@summary-box
 n: 鳚鱼 (一种小型海鱼)
 ```
 
-### blow
+## blow
 
 ```tip:c@summary-box
 v: 吹; 刮风; 爆炸  
@@ -718,7 +718,7 @@ n: 打击; 吹风
 现在分词/动名词: blowing
 ```
 
-### bog
+## bog
 
 ```tip:c@summary-box
 n: 沼泽; 泥塘  
@@ -730,13 +730,13 @@ v: 使陷入泥沼
 现在分词/动名词: bogging
 ```
 
-### bold
+## bold
 
 ```tip:c@summary-box
 adj: 大胆的; 粗体的; 鲜明的
 ```
 
-### bone
+## bone
 
 ```tip:c@summary-box
 n: 骨头  
@@ -748,17 +748,17 @@ v: 除去骨头
 现在分词/动名词: boning
 ```
 
-### booth
+## booth
 
 ```tip:c@summary-box
 n: 小隔间; 亭子; 摊位
 ```
 
-### bound
+## bound
 
 ```tip:c@summary-box
 adj: 一定会; 受约束的  
-v: 跳跃; 限制 (bind 的过去式/过去分词)  
+v: 跳跃; 限制
 n: 范围; 界限
 
 过去式: bound
@@ -766,7 +766,7 @@ n: 范围; 界限
 现在分词/动名词: bounding
 ```
 
-### branch
+## branch
 
 ```tip:c@summary-box
 n: 树枝; 分支; 分部  
@@ -778,7 +778,7 @@ v: 分支; 分岔
 现在分词/动名词: branching
 ```
 
-### brave
+## brave
 
 ```tip:c@summary-box
 adj: 勇敢的  
@@ -790,13 +790,13 @@ v: 勇敢面对; 不畏惧
 现在分词/动名词: braving
 ```
 
-### Brazil
+## Brazil
 
 ```tip:c@summary-box
 n: 巴西
 ```
 
-### breathe
+## breathe
 
 ```tip:c@summary-box
 v: 呼吸; 吸入
@@ -807,14 +807,14 @@ v: 呼吸; 吸入
 现在分词/动名词: breathing
 ```
 
-### British
+## British
 
 ```tip:c@summary-box
 adj: 英国的; 英国人的  
 n: 英国人 (the British)
 ```
 
-### broadcast
+## broadcast
 
 ```tip:c@summary-box
 v: 播送; 广播  
@@ -825,7 +825,7 @@ n: 广播; 播出内容
 现在分词/动名词: broadcasting
 ```
 
-### burden
+## burden
 
 ```tip:c@summary-box
 n: 负担; 重担  
@@ -837,7 +837,7 @@ v: 使负担; 加重压力
 现在分词/动名词: burdening
 ```
 
-### burn
+## burn
 
 ```tip:c@summary-box
 v: 燃烧; 烧伤  
@@ -849,13 +849,13 @@ n: 烧伤; 灼伤
 现在分词/动名词: burning
 ```
 
-### businessman
+## businessman
 
 ```tip:c@summary-box
 n: 商人; 生意人
 ```
 
-### buyer
+## buyer
 
 ```tip:c@summary-box
 n: 买主; 采购员
