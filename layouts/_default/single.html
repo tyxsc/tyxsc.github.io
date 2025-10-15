@@ -29,18 +29,21 @@
           <!--     </div> -->
           <!-- </details> -->
 
-          <!-- 手机端可折叠目录 -->
-          <details class="toc-mobile">
-            <summary>目录</summary>
-            <div class="toc">
+          <!-- 判断是否存在目录 -->
+          {{ if gt (len (trim .TableOfContents " \n\r\t" )) 32 }}
+            <!-- 手机端可折叠目录 -->
+            <details class="toc-mobile">
+              <summary>目录</summary>
+              <div class="toc">
+                {{ .TableOfContents }}
+              </div>
+            </details>
+
+            <!-- 桌面端固定目录 -->
+            <div class="toc toc-desktop">
               {{ .TableOfContents }}
             </div>
-          </details>
-
-          <!-- 桌面端固定目录 -->
-          <div class="toc toc-desktop">
-            {{ .TableOfContents }}
-          </div>
+          {{ end }}
 
           <!-- 内容 -->
           {{ .Content }}
