@@ -8,7 +8,7 @@ image: "images/post/covers/klamjxklaw.jpg"
 
 # meta description
 description: "学位英语低频单词表"
-summary: "<p style='color:palevioletred'>低频词 · 3-6 · G-K</p>"
+summary: "<p style='color:palevioletred'>低频词 · 3-6 · G-Z</p>"
 
 # taxonomies
 categories:
