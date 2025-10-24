@@ -507,7 +507,7 @@ v: 猛攻; 怒气冲冲地走
 ## strange
 
 ```tip:c@summary-box
-adj: 奇怪的; 陌生的
+adj: 奇怪的; 陌生的; 令人局促不安的,令人不自在的,令人难受的
 ```
 
 ## strategy

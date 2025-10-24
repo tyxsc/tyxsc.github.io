@@ -16,7 +16,6 @@ categories:
 tags:
   - "Word"
 
-
 # post type
 type: "post"
 ---
@@ -31,8 +30,6 @@ v: 把…关进笼子; 囚禁
 过去式: caged
 过去分词: caged
 现在分词/动名词: caging
-
-复数: cages
 ```
 
 ## clam
@@ -45,8 +42,6 @@ v: 保持沉默; 缄口不言
 过去式: clammed
 过去分词: clammed
 现在分词/动名词: clamming
-
-复数: clams
 ```
 
 ## capital
@@ -54,8 +49,6 @@ v: 保持沉默; 缄口不言
 ```tip:c@summary-box
 n: 首都; 资本; 大写字母
 adj: 首要的; 大写的; 极好的
-
-复数: capitals
 
 比较级: more capital
 最高级: most capital
@@ -82,8 +75,6 @@ v: 担任队长; 指挥
 过去式: captained
 过去分词: captained
 现在分词/动名词: captaining
-
-复数: captains
 ```
 
 ## careless
@@ -105,8 +96,6 @@ v: 兑现; 支付现金
 过去式: cashed
 过去分词: cashed
 现在分词/动名词: cashing
-
-复数: cashes
 ```
 
 ## cater
@@ -139,8 +128,6 @@ v: 以…为中心; 集中
 过去式: centred
 过去分词: centred
 现在分词/动名词: centring
-
-复数: centres
 ```
 
 ## certainly
@@ -162,16 +149,12 @@ v: 担任主席; 主持
 过去式: chaired
 过去分词: chaired
 现在分词/动名词: chairing
-
-复数: chairs
 ```
 
 ## charity
 
 ```tip:c@summary-box
 n: 慈善; 慈善机构; 施舍
-
-复数: charities
 ```
 
 ## chicken
@@ -185,8 +168,6 @@ adj: 胆小的
 过去分词: chickened
 现在分词/动名词: chickening
 
-复数: chickens
-
 比较级: more chicken
 最高级: most chicken
 ```
@@ -195,8 +176,6 @@ adj: 胆小的
 
 ```tip:c@summary-box
 n: 香烟; 卷烟
-
-复数: cigarettes
 ```
 
 ## claim
@@ -209,8 +188,6 @@ n: 声称; 要求; 权利
 过去式: claimed
 过去分词: claimed
 现在分词/动名词: claiming
-
-复数: claims
 ```
 
 ## classic
@@ -218,8 +195,6 @@ n: 声称; 要求; 权利
 ```tip:c@summary-box
 adj: 经典的; 一流的
 n: 名著; 经典作品
-
-复数: classics
 
 比较级: more classic
 最高级: most classic
@@ -235,8 +210,6 @@ v: 当职员; 当店员
 过去式: clerked
 过去分词: clerked
 现在分词/动名词: clerking
-
-复数: clerks
 ```
 
 ## climb
@@ -249,8 +222,6 @@ n: 攀登; 上升
 过去式: climbed
 过去分词: climbed
 现在分词/动名词: climbing
-
-复数: climbs
 ```
 
 ## closely
@@ -264,10 +235,6 @@ adv: 接近地; 仔细地; 紧密地
 
 ## clothes
 
-```tip:c@summary-box
-n: 衣服; 服装 (常用复数)
-
-复数: clothes
 ```
 
 ## clothing
@@ -290,8 +257,6 @@ adj: 沿海的; 海岸的
 
 ```tip:c@summary-box
 n: 海岸线; 海岸地形
-
-复数: coastlines
 ```
 
 ## coat
@@ -304,16 +269,12 @@ v: 覆盖; 涂上
 过去式: coated
 过去分词: coated
 现在分词/动名词: coating
-
-复数: coats
 ```
 
 ## coffeehouse
 
 ```tip:c@summary-box
 n: 咖啡馆
-
-复数: coffeehouses
 ```
 
 ## coin
@@ -326,16 +287,12 @@ v: 铸造; 创造(新词)
 过去式: coined
 过去分词: coined
 现在分词/动名词: coining
-
-复数: coins
 ```
 
 ## collision
 
 ```tip:c@summary-box
 n: 碰撞; 冲突
-
-复数: collisions
 ```
 
 ## colonial
@@ -351,8 +308,6 @@ adj: 殖民地的; 殖民的
 
 ```tip:c@summary-box
 n: 殖民地; 移民群体; 群体(如蚁群)
-
-复数: colonies
 ```
 
 ## combine
@@ -365,14 +320,12 @@ n: 联合集团; 联盟
 过去式: combined
 过去分词: combined
 现在分词/动名词: combining
-
-复数: combines
 ```
 
 ## commit
 
 ```tip:c@summary-box
-v: 犯(罪); 承诺; 致力于; 托付
+v: 犯(罪、错); 承诺; 致力于; 托付
 
 第三人称单数: commits
 过去式: committed
@@ -410,8 +363,6 @@ n: 浓缩物
 过去式: concentrated
 过去分词: concentrated
 现在分词/动名词: concentrating
-
-复数: concentrates
 ```
 
 ## concert
@@ -424,8 +375,6 @@ v: 合作; 协调
 过去式: concerted
 过去分词: concerted
 现在分词/动名词: concerting
-
-复数: concerts
 ```
 
 ## conclude
@@ -443,8 +392,6 @@ v: 结束; 推断; 下结论
 
 ```tip:c@summary-box
 n: 结论; 结束; 推断
-
-复数: conclusions
 ```
 
 ## concrete
@@ -459,8 +406,6 @@ v: 凝固; 用混凝土覆盖
 过去分词: concreted
 现在分词/动名词: concreting
 
-复数: concretes
-
 比较级: more concrete
 最高级: most concrete
 ```
@@ -469,16 +414,12 @@ v: 凝固; 用混凝土覆盖
 
 ```tip:c@summary-box
 n: 会议; 讨论会; 协商会
-
-复数: conferences
 ```
 
 ## confidence
 
 ```tip:c@summary-box
 n: 自信; 信心; 信任
-
-复数: confidences
 ```
 
 ## confirm
@@ -502,8 +443,6 @@ v: 冲突; 抵触
 过去式: conflicted
 过去分词: conflicted
 现在分词/动名词: conflicting
-
-复数: conflicts
 ```
 
 ## connect
@@ -521,8 +460,6 @@ v: 连接; 联系; 联系起来
 
 ```tip:c@summary-box
 n: 连接; 联系; 关系; 接头
-
-复数: connections
 ```
 
 ## conscious
@@ -548,8 +485,6 @@ adj: 相当大的; 重要的; 可观的
 ```tip:c@summary-box
 adj: 持续的; 不变的; 忠诚的
 n: 常数; 常量
-
-复数: constants
 
 比较级: more constant
 最高级: most constant
@@ -577,8 +512,6 @@ adj: 传染性的; 会蔓延的
 
 ```tip:c@summary-box
 n: 容器; 集装箱; 贮藏器
-
-复数: containers
 ```
 
 ## content
@@ -592,24 +525,18 @@ v: 使满足; 使满意
 过去式: contented
 过去分词: contented
 现在分词/动名词: contenting
-
-复数: contents
 ```
 
 ## contestant
 
 ```tip:c@summary-box
 n: 参赛者; 竞争者
-
-复数: contestants
 ```
 
 ## contribution
 
 ```tip:c@summary-box
 n: 贡献; 捐款; 投稿
-
-复数: contributions
 ```
 
 ## controlled
@@ -625,8 +552,6 @@ adj: 受控制的; 被管理的
 
 ```tip:c@summary-box
 n: 会议; 惯例; 公约
-
-复数: conventions
 ```
 
 ## conventional
@@ -648,8 +573,6 @@ v: 把…关在笼子里; 限制
 过去式: cooped
 过去分词: cooped
 现在分词/动名词: cooping
-
-复数: coops
 ```
 
 ## cope
@@ -692,8 +615,6 @@ adv: 正确地; 恰当地
 
 ```tip:c@summary-box
 n: 委员会; 理事会; 地方议会
-
-复数: councils
 ```
 
 ## count
@@ -706,8 +627,6 @@ n: 计算; 数量; 计数
 过去式: counted
 过去分词: counted
 现在分词/动名词: counting
-
-复数: counts
 ```
 
 ## counter
@@ -721,24 +640,18 @@ v: 反驳; 对抗
 过去式: countered
 过去分词: countered
 现在分词/动名词: countering
-
-复数: counters
 ```
 
 ## countryside
 
 ```tip:c@summary-box
 n: 乡村; 乡下; 农村地区
-
-复数: countrysides
 ```
 
 ## courage
 
 ```tip:c@summary-box
 n: 勇气; 胆量
-
-复数: courages
 ```
 
 ## crazy
@@ -764,8 +677,6 @@ adj: 有创造力的; 创造性的
 
 ```tip:c@summary-box
 n: 生物; 动物; 人
-
-复数: creatures
 ```
 
 ## credit
@@ -778,24 +689,18 @@ v: 归功于; 认可; 存入账户
 过去式: credited
 过去分词: credited
 现在分词/动名词: crediting
-
-复数: credits
 ```
 
 ## crisis
 
 ```tip:c@summary-box
 n: 危机; 紧要关头; 危险期
-
-复数: crises
 ```
 
 ## critic
 
 ```tip:c@summary-box
 n: 批评家; 评论家
-
-复数: critics
 ```
 
 ## criticize
@@ -819,8 +724,6 @@ v: 成杯状; 捧起
 过去式: cupped
 过去分词: cupped
 现在分词/动名词: cupping
-
-复数: cups
 ```
 
 ## cure
@@ -833,8 +736,6 @@ v: 治疗; 纠正; 矫正
 过去式: cured
 过去分词: cured
 现在分词/动名词: curing
-
-复数: cures
 ```
 
 ## curious
@@ -850,16 +751,12 @@ adj: 好奇的; 稀奇的; 奇特的
 
 ```tip:c@summary-box
 n: 十项全能运动; 十项比赛
-
-复数: decathlons
 ```
 
 ## deer
 
 ```tip:c@summary-box
 n: 鹿
-
-复数: deer
 ```
 
 ## defense
@@ -872,24 +769,18 @@ v: 防御; 辩护
 过去式: defended
 过去分词: defended
 现在分词/动名词: defending
-
-复数: defenses
 ```
 
 ## degradation
 
 ```tip:c@summary-box
 n: 降级; 堕落; 恶化
-
-复数: degradations
 ```
 
 ## degree
 
 ```tip:c@summary-box
 n: 程度; 学位; 温度
-
-复数: degrees
 ```
 
 ## delay
@@ -902,8 +793,6 @@ n: 延迟; 推迟
 过去式: delayed
 过去分词: delayed
 现在分词/动名词: delaying
-
-复数: delays
 ```
 
 ## delicious
@@ -930,8 +819,6 @@ v: 使沮丧; 压低; 压迫
 
 ```tip:c@summary-box
 n: 剥夺; 丧失; 贫困
-
-复数: deprivations
 ```
 
 ## desire
@@ -944,16 +831,12 @@ v: 渴望; 希望
 过去式: desired
 过去分词: desired
 现在分词/动名词: desiring
-
-复数: desires
 ```
 
 ## desk
 
 ```tip:c@summary-box
 n: 书桌; 办公桌; 服务台
-
-复数: desks
 ```
 
 ## detect
@@ -971,16 +854,12 @@ v: 发现; 察觉; 检测
 
 ```tip:c@summary-box
 n: 探测器; 侦测器
-
-复数: detectors
 ```
 
 ## diagnosis
 
 ```tip:c@summary-box
 n: 诊断; 判断
-
-复数: diagnoses
 ```
 
 ## dial
@@ -993,16 +872,12 @@ v: 拨号; 打电话
 过去式: dialed
 过去分词: dialed
 现在分词/动名词: dialing
-
-复数: dials
 ```
 
 ## dictionary
 
 ```tip:c@summary-box
 n: 词典; 字典
-
-复数: dictionaries
 ```
 
 ## diet
@@ -1015,8 +890,6 @@ v: 节食; 控制饮食
 过去式: dieted
 过去分词: dieted
 现在分词/动名词: dieting
-
-复数: diets
 ```
 
 ## differ
@@ -1059,8 +932,6 @@ adv: 直接地; 立即; 坦率地
 
 ```tip:c@summary-box
 n: 董事; 主管; 导演
-
-复数: directors
 ```
 
 ## dirty
@@ -1093,16 +964,12 @@ v: 使失望; 沮丧
 
 ```tip:c@summary-box
 n: 歧视; 辨别; 区别
-
-复数: discriminations
 ```
 
 ## discussion
 
 ```tip:c@summary-box
 n: 讨论; 商议; 辩论
-
-复数: discussions
 ```
 
 ## dish
@@ -1115,8 +982,6 @@ v: 盛放; 说闲话
 过去式: dished
 过去分词: dished
 现在分词/动名词: dishing
-
-复数: dishes
 ```
 
 ## dislike
@@ -1129,8 +994,6 @@ n: 不喜欢; 厌恶
 过去式: disliked
 过去分词: disliked
 现在分词/动名词: disliking
-
-复数: dislikes
 ```
 
 ## dismiss
@@ -1143,8 +1006,6 @@ n: 解雇; 驳回
 过去式: dismissed
 过去分词: dismissed
 现在分词/动名词: dismissing
-
-复数: dismisses
 ```
 
 ## dispute
@@ -1157,8 +1018,6 @@ v: 争论; 对…提出质疑
 过去式: disputed
 过去分词: disputed
 现在分词/动名词: disputing
-
-复数: disputes
 ```
 
 ## distribute
@@ -1176,8 +1035,6 @@ v: 分配; 分发; 散布
 
 ```tip:c@summary-box
 n: 区; 地区; 行政区
-
-复数: districts
 ```
 
 ## divided
@@ -1201,8 +1058,6 @@ v: 点缀; 散布
 过去式: dotted
 过去分词: dotted
 现在分词/动名词: dotting
-
-复数: dots
 ```
 
 ## doubt
@@ -1215,8 +1070,6 @@ v: 怀疑; 不信任
 过去式: doubted
 过去分词: doubted
 现在分词/动名词: doubting
-
-复数: doubts
 ```
 
 ## dramatic
@@ -1233,8 +1086,6 @@ adj: 戏剧性的; 引人注目的; 突然的
 ```tip:c@summary-box
 n: 绘画; 图画; 素描
 v: draw的现在分词: 拉; 吸引
-
-复数: drawings
 ```
 
 ## dress
@@ -1247,16 +1098,12 @@ v: 穿衣; 打扮; 装饰
 过去式: dressed
 过去分词: dressed
 现在分词/动名词: dressing
-
-复数: dresses
 ```
 
 ## drinker
 
 ```tip:c@summary-box
 n: 饮酒者; 喝的人
-
-复数: drinkers
 ```
 
 ## drunk
@@ -1269,8 +1116,6 @@ v: drink的过去分词: 喝醉
 过去式: drank
 过去分词: drunk
 现在分词/动名词: drinking
-
-复数: drunks
 ```
 
 ## dust
@@ -1283,8 +1128,6 @@ v: 擦去灰尘; 撒灰
 过去式: dusted
 过去分词: dusted
 现在分词/动名词: dusting
-
-复数: dusts
 ```
 
 ## dying
