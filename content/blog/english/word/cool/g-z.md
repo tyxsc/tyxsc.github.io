@@ -1065,10 +1065,10 @@ n: 美人; 可爱的人
 最高级: loveliest
 ```
 
-## luch
+## luck
 
 ```tip:c@summary-box
-⚠️ 可能为拼写错误，请确认是否指 **luck（运气）** 或 **lunch（午餐）**
+n: 幸运; 好运; 机遇; 运气;
 ```
 
 ## lunch
